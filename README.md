@@ -4,7 +4,7 @@ I am Muntasir Mahmud.I am from Joypurhat,Bangladesh.I am learning Python,Javascr
 
 # Knowledge🧠
 
-I know python,learning javascript and C.
+I know python,learning full verything to becoome a full stack developer.
 <p float="left">
    <img src=https://github.com/MuntasirSZN/MuntasirSZN/blob/main/Icons/Programming%20Languages/python-5.svg width="10%">
    <img src=https://github.com/MuntasirSZN/MuntasirSZN/blob/main/Icons/Programming%20Languages/logo-javascript.svg width="10%">
@@ -68,6 +68,8 @@ Homeland = Joypurhat
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muntasirszn&show_icons=true&theme=nightowl&layout=compact&langs_count=8&card_width=320" />
 </a>
+
+[![roadmap.sh](https://roadmap.sh/card/tall/66b00bddc3e10bac25fb63c4?variant=dark&roadmaps=full-stack)](https://roadmap.sh)
 
 <!---
 MuntasirSZN/MuntasirSZN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
