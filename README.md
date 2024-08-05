@@ -69,7 +69,7 @@ Homeland = Joypurhat
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muntasirszn&show_icons=true&theme=nightowl&layout=compact&langs_count=8&card_width=320" />
 </a>
 
-[![roadmap.sh](https://roadmap.sh/card/tall/66b00bddc3e10bac25fb63c4?variant=dark&roadmaps=full-stack)](https://roadmap.sh)
+[![roadmap.sh](https://roadmap.sh/card/wide/66b00bddc3e10bac25fb63c4?variant=dark&roadmaps=66b0f8a9c3e10bac251d7e28)](https://roadmap.sh)
 
 <!---
 MuntasirSZN/MuntasirSZN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
