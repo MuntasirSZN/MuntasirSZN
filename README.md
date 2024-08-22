@@ -1,78 +1,23 @@
-# Hi👋
+<p align="right"><img src="https://komarev.com/ghpvc/?username=MuntasirSZN&style=plastic&color=ca9ee6"></p>
 
-I am Muntasir Mahmud.I am from Joypurhat,Bangladesh.I am learning Python,Javascript,C,linux(ethical hacking).I am having a busy time.Wish me good luck.
+<h3 align="center"><img src="https://readme-typing-svg.demolab.com/?lines=Hi+There!👋;I+Am+Muntasir;A+Linux+Enthusiast🐧;A+Nature+Lover🌱;&font=Poppins"></h3>
 
-# Knowledge🧠
 
-I know python,learning full verything to becoome a full stack developer.
-<p float="left">
-   <img src=https://github.com/MuntasirSZN/MuntasirSZN/blob/main/Icons/Programming%20Languages/python-5.svg width="10%">
-   <img src=https://github.com/MuntasirSZN/MuntasirSZN/blob/main/Icons/Programming%20Languages/logo-javascript.svg width="10%">
-   <img src=https://github.com/MuntasirSZN/MuntasirSZN/blob/main/Icons/Programming%20Languages/c-1.svg width="10%">
+---
+> <img src="https://roadmap.sh/card/wide/66b00bddc3e10bac25fb63c4?variant=dark" align="right" width="40%">
+
+- 🌱 I am a Linux Enthusiast who likes to play with Computers.
+- 🌐 I am always active on Stack Overflow and Reddit.
+- 💽 Currently I know HTML,CSS,Javascript and Python.
+- 💻 Learning To be a Full-Stack Developer. You can
+- 🔨 I also know a bit of hacking (Ethical Purposes)
+---
+<p align="center">
+   <img src="https://readme-typing-svg.demolab.com/?lines=📊My+Statistics;&font=Poppins">
 </p>
 
-**I am learning linux,kali linux,to be specific.And, I used Ubuntu,too.**
-<p float="left">
-  <img src=https://github.com/MuntasirSZN/MuntasirSZN/blob/main/Icons/Linux/linux-tux-1.svg width="10%">
-  <img src=https://github.com/MuntasirSZN/MuntasirSZN/blob/main/Icons/Linux/kali-1.svg width="15%">
-  <img src=https://github.com/MuntasirSZN/MuntasirSZN/blob/main/Icons/Linux/ubuntu.svg width="10%">
-</p>
+<p align="center"><img src="https://streak-stats.demolab.com/?user=MuntasirSZN&theme=tokyonight"></p>
+<p align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MuntasirSZN&theme=tokyonight"></p>
+<p align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MuntasirSZN&theme=tokyonight"></p>
 
-**And**,I am learning this shells:
-
-<p float="left">
-  <img src=https://github.com/MuntasirSZN/MuntasirSZN/blob/main/Icons/Shells/white_vertical_icon.png width="10%">
-  <img src=https://github.com/MuntasirSZN/MuntasirSZN/blob/main/Icons/Shells/powershell.svg width="12%">
-  <img src=https://github.com/MuntasirSZN/MuntasirSZN/blob/main/Icons/Shells/download-icon-bash%2Blight-1331550887015467022_512.png width="10%">
-</p>
-
-# My System 🖥️
-
-## **Desktop**
-
-CPU = Intel I3-12100
-
-GPU = None
-
-Motherboard = Gigabyte H610mh
-
-Monitor = Dahua 24 inch 100 hz
-
-RGB Keyboard and Mouse
-
-# IDE's That I Use
-
-Currently,I have student developer pack.So,I use this ide's:
-
-<p float="left">
-  <img src="https://github.com/MuntasirSZN/MuntasirSZN/blob/main/Icons/IDE's/pycharm.svg">
-  <img src="https://github.com/MuntasirSZN/MuntasirSZN/blob/main/Icons/IDE's/webstorm.svg">
-  <img src="https://github.com/MuntasirSZN/MuntasirSZN/blob/main/Icons/IDE's/clion.svg">
-  <img src="https://github.com/MuntasirSZN/MuntasirSZN/blob/main/Icons/IDE's/vscode.png" width="7%">
-</p>
-
-
-# ℹ️Info
-
-City = Chattogram
-
-Country = Bangladesh
-
-Homeland = Joypurhat
-
-**Email = muntasir.joypurhat@gmail.com**
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=muntasirszn&show_icons=true&theme=nightowl" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muntasirszn&show_icons=true&theme=nightowl&layout=compact&langs_count=8&card_width=320" />
-</a>
-
-[![roadmap.sh](https://roadmap.sh/card/wide/66b00bddc3e10bac25fb63c4?variant=dark&roadmaps=66b0f8a9c3e10bac251d7e28)](https://roadmap.sh)
-
-<!---
-MuntasirSZN/MuntasirSZN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
+<p align="center"><img src="https://readme-typing-svg.demolab.com/?lines=Thanks+For+Visiting+💖;&font=Poppins"></p>
