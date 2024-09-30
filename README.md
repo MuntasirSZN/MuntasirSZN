@@ -16,10 +16,10 @@
    <img src="https://readme-typing-svg.demolab.com/?lines=📊My+Statistics;&font=Poppins">
 </p>
 
-<p align="center"><img src="https://streak-stats.demolab.com/?user=MuntasirSZN&theme=tokyonight"></p>
-<p align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MuntasirSZN&theme=tokyonight"></p>
-<p align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MuntasirSZN&theme=tokyonight"></p>
-<p align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=MuntasirSZN&theme=tokyo-night"></p>
+<a href="https://git.io/streak-stats"><p align="center"><img src="https://streak-stats.demolab.com/?user=MuntasirSZN&theme=tokyonight" /></p></a>
+<p align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MuntasirSZN&theme=tokyonight"/></p>
+<p align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MuntasirSZN&theme=tokyonight"/></p>
+<p align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=MuntasirSZN&theme=tokyo-night"/></p>
 
 <h3 align="left"><img src="https://readme-typing-svg.demolab.com/?lines=🌐+Socials;&font=Poppins"></h3>
 
