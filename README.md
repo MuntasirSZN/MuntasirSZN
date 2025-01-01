@@ -73,7 +73,7 @@
     <a href="https://docs.mongodb.com/"><img src="https://go-skill-icons.vercel.app/api/icons?i=mongodb" alt="MongoDB"></a>
     <a href="https://www.postgresql.org/docs/"><img src="https://go-skill-icons.vercel.app/api/icons?i=postgres" alt="Postgres"></a>
     <a href="https://www.sqlite.org/docs.html"><img src="https://go-skill-icons.vercel.app/api/icons?i=sqlite" alt="SQLite"></a>
-    <a href="https://docs.libsql.org/"><img src="https://go-skill-icons.vercel.app/api/icons?i=libsql" alt="LibSQL"></a>
+    <a href="https://docs.turso.tech/libsql"><img src="https://go-skill-icons.vercel.app/api/icons?i=libsql" alt="LibSQL"></a>
     <a href="https://redis.io/docs"><img src="https://go-skill-icons.vercel.app/api/icons?i=redis" alt="Redis"></a>
     <a href="https://helpx.adobe.com/acrobat/reader.html"><img src="https://go-skill-icons.vercel.app/api/icons?i=acrobat" alt="Adobe Acrobat Reader"></a>
     <a href="https://helpx.adobe.com/illustrator/documentation.html"><img src="https://go-skill-icons.vercel.app/api/icons?i=illustrator" alt="Adobe Illustrator"></a>
