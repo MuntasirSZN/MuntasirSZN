@@ -27,53 +27,59 @@
 <details>
 <summary><h3 align="left"><img src="https://readme-typing-svg.demolab.com/?lines=🌐+Socials;&font=Poppins"></h3></summary>
 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/HNhjQAfq9U) 
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/27158232) 
+<p align="center">
+  <a href="https://discord.gg/HNhjQAfq9U"><img src="https://go-skill-icons.vercel.app/api/icons?i=discord" alt="Discord"></a>
+  <a href="https://stackoverflow.com/users/27158232"><img src="https://go-skill-icons.vercel.app/api/icons?i=stackoverflow" alt="Stack Overflow"></a>
+</p>
 
 </details>
 
-<details>
-<summary><h3 align="left"><img src="https://readme-typing-svg.demolab.com/?lines=💻+Tech+Stack;&font=Poppins"></h3></summary>
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) 
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) 
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white) 
-![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat&logo=powershell&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
-![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white) 
-![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat&logo=windows-terminal&logoColor=white) 
-![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=flat&logo=yaml&logoColor=151515) 
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) 
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white) 
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) 
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white) 
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=flat&logo=heroku&logoColor=white) 
-![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=flat&logo=github&logoColor=white) 
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) 
-![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=flat&logo=astro&logoColor=white) 
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) 
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white) 
-![Insomnia](https://img.shields.io/badge/Insomnia-black?style=flat&logo=insomnia&logoColor=5849BE) 
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) 
-![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=flat&logo=pnpm&logoColor=f69220) 
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white) 
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) 
-![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat&logo=WordPress&logoColor=white) 
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white) 
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) 
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) 
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white) 
-![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=flat&logo=adobe&logoColor=white) 
-![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=flat&logo=Adobe%20Acrobat%20Reader&logoColor=white) 
-![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=flat&logo=adobe%20illustrator&logoColor=white) 
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white) 
-![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=white) 
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) 
+<details>
+  <summary><h3 align="left"><img src="https://readme-typing-svg.demolab.com/?lines=💻+Tech+Stack;&font=Poppins"></h3></summary>
+
+  <p align="center">
+    <a href="https://doc.rust-lang.org/stable/book/"><img src="https://go-skill-icons.vercel.app/api/icons?i=rust" alt="Rust"></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://go-skill-icons.vercel.app/api/icons?i=css" alt="CSS3"></a>
+    <a href="https://tailwindcss.com/docs"><img src="https://go-skill-icons.vercel.app/api/icons?i=tailwind" alt="TailwindCSS"></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://go-skill-icons.vercel.app/api/icons?i=html" alt="HTML5"></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://go-skill-icons.vercel.app/api/icons?i=js" alt="JavaScript"></a>
+    <a href="https://www.typescriptlang.org/docs/"><img src="https://go-skill-icons.vercel.app/api/icons?i=ts" alt="TypeScript"></a>
+    <a href="https://reactjs.org/docs/getting-started.html"><img src="https://go-skill-icons.vercel.app/api/icons?i=react" alt="React"></a>
+    <a href="https://commonmark.org/docs/"><img src="https://go-skill-icons.vercel.app/api/icons?i=markdown" alt="Markdown"></a>
+    <a href="https://learn.microsoft.com/en-us/powershell/scripting/overview"><img src="https://go-skill-icons.vercel.app/api/icons?i=powershell" alt="PowerShell"></a>
+    <a href="https://docs.python.org/3/"><img src="https://go-skill-icons.vercel.app/api/icons?i=python" alt="Python"></a>
+    <a href="https://www.gnu.org/software/bash/manual/bash.html"><img src="https://go-skill-icons.vercel.app/api/icons?i=bash" alt="bash"></a>
+    <a href="https://aws.amazon.com/documentation/"><img src="https://go-skill-icons.vercel.app/api/icons?i=aws" alt="AWS"></a>
+    <a href="https://learn.microsoft.com/en-us/azure/"><img src="https://go-skill-icons.vercel.app/api/icons?i=azure" alt="Azure"></a>
+    <a href="https://cloud.google.com/docs"><img src="https://go-skill-icons.vercel.app/api/icons?i=gcp" alt="Google Cloud"></a>
+    <a href="https://developers.cloudflare.com/"><img src="https://go-skill-icons.vercel.app/api/icons?i=cloudflare" alt="Cloudflare"></a>
+    <a href="https://devcenter.heroku.com/articles"><img src="https://go-skill-icons.vercel.app/api/icons?i=heroku" alt="Heroku"></a>
+    <a href="https://docs.github.com/en/pages"><img src="https://go-skill-icons.vercel.app/api/icons?i=github" alt="GithubPages"></a>
+    <a href="https://vercel.com/docs"><img src="https://go-skill-icons.vercel.app/api/icons?i=vercel" alt="Vercel"></a>
+    <a href="https://docs.astro.build/"><img src="https://go-skill-icons.vercel.app/api/icons?i=astro" alt="Astro"></a>
+    <a href="https://nextjs.org/docs"><img src="https://go-skill-icons.vercel.app/api/icons?i=nextjs" alt="Next.js"></a>
+    <a href="https://expressjs.com/en/api.html"><img src="https://go-skill-icons.vercel.app/api/icons?i=express" alt="Express.js"></a>
+    <a href="https://hono.dev/docs"><img src="https://go-skill-icons.vercel.app/api/icons?i=hono" alt="Hono"></a>
+    <a href="https://learning.postman.com/docs/"><img src="https://go-skill-icons.vercel.app/api/icons?i=postman" alt="Postman"></a>
+    <a href="https://docs.npmjs.com/"><img src="https://go-skill-icons.vercel.app/api/icons?i=npm" alt="NPM"></a>
+    <a href="https://nodejs.org/api/"><img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs" alt="NodeJS"></a>
+    <a href="https://pnpm.io/docs"><img src="https://go-skill-icons.vercel.app/api/icons?i=pnpm" alt="PNPM"></a>
+    <a href="https://yarnpkg.com/docs"><img src="https://go-skill-icons.vercel.app/api/icons?i=yarn" alt="Yarn"></a>
+    <a href="https://bun.sh/docs"><img src="https://go-skill-icons.vercel.app/api/icons?i=bun" alt="Bun"></a>
+    <a href="https://deno.land/manual"><img src="https://go-skill-icons.vercel.app/api/icons?i=deno" alt="Deno"></a>
+    <a href="https://developer.wordpress.org/"><img src="https://go-skill-icons.vercel.app/api/icons?i=wordpress" alt="WordPress"></a>
+    <a href="https://nginx.org/en/docs/"><img src="https://go-skill-icons.vercel.app/api/icons?i=nginx" alt="Nginx"></a>
+    <a href="https://docs.mongodb.com/"><img src="https://go-skill-icons.vercel.app/api/icons?i=mongodb" alt="MongoDB"></a>
+    <a href="https://www.postgresql.org/docs/"><img src="https://go-skill-icons.vercel.app/api/icons?i=postgres" alt="Postgres"></a>
+    <a href="https://www.sqlite.org/docs.html"><img src="https://go-skill-icons.vercel.app/api/icons?i=sqlite" alt="SQLite"></a>
+    <a href="https://docs.libsql.org/"><img src="https://go-skill-icons.vercel.app/api/icons?i=libsql" alt="LibSQL"></a>
+    <a href="https://redis.io/docs"><img src="https://go-skill-icons.vercel.app/api/icons?i=redis" alt="Redis"></a>
+    <a href="https://helpx.adobe.com/acrobat/reader.html"><img src="https://go-skill-icons.vercel.app/api/icons?i=acrobat" alt="Adobe Acrobat Reader"></a>
+    <a href="https://helpx.adobe.com/illustrator/documentation.html"><img src="https://go-skill-icons.vercel.app/api/icons?i=illustrator" alt="Adobe Illustrator"></a>
+    <a href="https://helpx.adobe.com/photoshop/documentation.html"><img src="https://go-skill-icons.vercel.app/api/icons?i=photoshop" alt="Adobe Photoshop"></a>
+    <a href="https://help.figma.com/"><img src="https://go-skill-icons.vercel.app/api/icons?i=figma" alt="Figma"></a>
+  </p>
 
 </details>
 
