@@ -4,7 +4,7 @@
 
 ---
 
-> <img src="https://roadmap.sh/card/wide/66b00bddc3e10bac25fb63c4?variant=dark" align="right" width="40%">
+> <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/672a1e1331d65c235dcdb2e3?variant=dark&roadmaps=linux%2Creact%2Cfull-stack%2Crust" alt="roadmap.sh" align="right"/></a>
 
 - 🌱 I am a Linux Enthusiast who likes to play with Computers.
 - 🌐 I am always active on Stack Overflow and Reddit.
