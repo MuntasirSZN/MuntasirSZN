@@ -101,7 +101,7 @@
     <a href="https://docs.turso.tech/libsql"><img src="https://go-skill-icons.vercel.app/api/icons?i=libsql" alt="LibSQL"></a>
     <a href="https://redis.io/docs"><img src="https://go-skill-icons.vercel.app/api/icons?i=redis" alt="Redis"></a>
     <a href="https://prisma.io"><img src="https://go-skill-icons.vercel.app/api/icons?i=prisma" alt="Prisma"></a>
-    <!-- <a href="https://orm.drizzle.team"><img src="https://go-skill-icons.vercel.app/api/icons?i=drizzle" alt="Drizzle"></a> -->
+    <a href="https://orm.drizzle.team"><img src="https://go-skill-icons.vercel.app/api/icons?i=drizzle" alt="Drizzle"></a> 
     <a href="https://www.docker.com"><img src="https://go-skill-icons.vercel.app/api/icons?i=docker" alt="Docker"></a>
     <a href="https://helpx.adobe.com/acrobat/reader.html"><img src="https://go-skill-icons.vercel.app/api/icons?i=acrobat" alt="Adobe Acrobat Reader"></a>
     <a href="https://helpx.adobe.com/illustrator/documentation.html"><img src="https://go-skill-icons.vercel.app/api/icons?i=illustrator" alt="Adobe Illustrator"></a>
