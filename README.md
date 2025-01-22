@@ -59,6 +59,7 @@
     <a href="https://reactjs.org/docs/getting-started.html"><img src="https://go-skill-icons.vercel.app/api/icons?i=react" alt="React"></a>
     <a href="https://tanstack.com/query/v3/"><img src="https://go-skill-icons.vercel.app/api/icons?i=reactquery" alt="React Query"/></a>
     <a href="https://threejs.org/"><img src="https://go-skill-icons.vercel.app/api/icons?i=threejs" alt="Three.js"/></a>
+    <a href="https://arcjet.com/"><img src="https://go-skill-icons.vercel.app/api/icons?i=arcjet" alt="Arcjet"/></a>
     <a href="https://trpc.io/"><img src="https://go-skill-icons.vercel.app/api/icons?i=trpc" alt="Trpc"/></a>
     <a href="https://commonmark.org/docs/"><img src="https://go-skill-icons.vercel.app/api/icons?i=markdown" alt="Markdown"></a>
     <a href="https://learn.microsoft.com/en-us/powershell/scripting/overview"><img src="https://go-skill-icons.vercel.app/api/icons?i=powershell" alt="PowerShell"></a>
