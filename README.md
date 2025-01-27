@@ -1,4 +1,4 @@
-<p align="right"><img src="https://visitcountpro.netlify.app/api?id=MuntasirSZN&icon=0&color=0"></p>
+<a href="https://visitcountpro.netlify.app"><p align="right"><img src="https://visitcountpro.netlify.app/api?id=MuntasirSZN&label=Profile%20Views&color=0&icon=1&pretty=true"></p></a>
 
 <h3 align="center"><img src="https://readme-typing-svg.demolab.com/?lines=Hi+There!👋;I+Am+Muntasir;A+Linux+Enthusiast🐧;A+Nature+Lover🌱;&font=Poppins"></h3>
 
