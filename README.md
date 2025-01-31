@@ -51,7 +51,7 @@
     <a href="https://sw.kovidgoyal.net/kitty/"><img src="https://go-skill-icons.vercel.app/api/icons?i=kitty" alt="Kitty"></a>
     <a href="https://doc.rust-lang.org/stable/book/"><img src="https://go-skill-icons.vercel.app/api/icons?i=rust" alt="Rust"></a>
     <a href="https://www.lua.org"><img src="https://go-skill-icons.vercel.app/api/icons?i=lua" alt="Lua"></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" alt="CSS"></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://go-skill-icons.vercel.app/api/icons?i=css" alt="CSS"></a>
     <a href="https://tailwindcss.com/docs"><img src="https://go-skill-icons.vercel.app/api/icons?i=tailwind" alt="TailwindCSS"></a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://go-skill-icons.vercel.app/api/icons?i=html" alt="HTML5"></a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://go-skill-icons.vercel.app/api/icons?i=js" alt="JavaScript"></a>
