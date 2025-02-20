@@ -118,6 +118,12 @@
 <h3 align="left"><img src="https://readme-typing-svg.demolab.com/?lines=⚡+Recent+Activity;&font=Poppins"></h3>
 
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#864](https://github.com/pwntester/octo.nvim/pull/864#issuecomment-2670171484) in [pwntester/octo.nvim](https://github.com/pwntester/octo.nvim)
+2. ❗ Opened issue [#4](https://github.com/OXY2DEV/patterns.nvim/issues/4) in [OXY2DEV/patterns.nvim](https://github.com/OXY2DEV/patterns.nvim)
+3. 🗣 Commented on [#2](https://github.com/OXY2DEV/tree-sitter-lua_patterns/issues/2#issuecomment-2668746857) in [OXY2DEV/tree-sitter-lua_patterns](https://github.com/OXY2DEV/tree-sitter-lua_patterns)
+4. 💪 Opened PR [#869](https://github.com/pwntester/octo.nvim/pull/869) in [pwntester/octo.nvim](https://github.com/pwntester/octo.nvim)
+5. 🗣 Commented on [#2](https://github.com/OXY2DEV/tree-sitter-lua_patterns/issues/2#issuecomment-2668684558) in [OXY2DEV/tree-sitter-lua_patterns](https://github.com/OXY2DEV/tree-sitter-lua_patterns)
+<!--END_SECTION:activity-->
 <!--START_SECTION:activity-->
 
 ---
