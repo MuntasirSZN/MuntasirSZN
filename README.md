@@ -118,11 +118,11 @@
 <h3 align="left"><img src="https://readme-typing-svg.demolab.com/?lines=⚡+Recent+Activity;&font=Poppins"></h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#30](https://github.com/rachartier/tiny-code-action.nvim/issues/30#issuecomment-2673241852) in [rachartier/tiny-code-action.nvim](https://github.com/rachartier/tiny-code-action.nvim)
-2. 🗣 Commented on [#30](https://github.com/rachartier/tiny-code-action.nvim/issues/30#issuecomment-2671313155) in [rachartier/tiny-code-action.nvim](https://github.com/rachartier/tiny-code-action.nvim)
-3. 🗣 Commented on [#208373](https://github.com/Homebrew/homebrew-core/pull/208373#issuecomment-2671304485) in [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core)
-4. 💪 Opened PR [#870](https://github.com/pwntester/octo.nvim/pull/870) in [pwntester/octo.nvim](https://github.com/pwntester/octo.nvim)
-5. 💪 Opened PR [#208373](https://github.com/Homebrew/homebrew-core/pull/208373) in [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core)
+1. 🎉 Merged PR [#14](https://github.com/MuntasirSZN/getquotes/pull/14) in [MuntasirSZN/getquotes](https://github.com/MuntasirSZN/getquotes)
+2. 🎉 Merged PR [#13](https://github.com/MuntasirSZN/getquotes/pull/13) in [MuntasirSZN/getquotes](https://github.com/MuntasirSZN/getquotes)
+3. 🗣 Commented on [#30](https://github.com/rachartier/tiny-code-action.nvim/issues/30#issuecomment-2673241852) in [rachartier/tiny-code-action.nvim](https://github.com/rachartier/tiny-code-action.nvim)
+4. 🗣 Commented on [#30](https://github.com/rachartier/tiny-code-action.nvim/issues/30#issuecomment-2671313155) in [rachartier/tiny-code-action.nvim](https://github.com/rachartier/tiny-code-action.nvim)
+5. 🗣 Commented on [#208373](https://github.com/Homebrew/homebrew-core/pull/208373#issuecomment-2671304485) in [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core)
 <!--END_SECTION:activity-->
 <!--START_SECTION:activity-->
 
