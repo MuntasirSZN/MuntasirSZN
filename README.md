@@ -1,9 +1,9 @@
 <a href="https://visitcountpro.netlify.app"><p align="right"><img src="https://visitcountpro.netlify.app/api?id=MuntasirSZN&label=Profile%20Views&color=0&icon=1&pretty=true"></p></a>
 
-<h3 align="center"><img src="https://readme-typing-svg.demolab.com/?lines=Hi+There!👋;I+Am+Muntasir;A+Linux+Enthusiast🐧;A+Nature+Lover🌱;&font=Poppins"></h3>
+<h3 align="center"><img src="https://readme-typing-svg.demolab.com/?lines=Hi+There!👋;I+Am+Muntasir;A+Linux+Enthusiast🐧;A+Nature+Lover🌱;&font=Poppins&center=true"></h3>
 
 <p align="center">
-  <img src="https://github.com/MuntasirSZN/MuntasirSZN/blob/master/macchiato.png?raw=true" width="400" />
+  <img src="https://github.com/MuntasirSZN/MuntasirSZN/blob/master/macchiato.png?raw=true" width="200" />
 </p>
 
 ---
