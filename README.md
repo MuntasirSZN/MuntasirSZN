@@ -122,11 +122,11 @@
 <h3 align="left"><img src="https://readme-typing-svg.demolab.com/?lines=⚡+Recent+Activity;&font=Poppins"></h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#870](https://github.com/pwntester/octo.nvim/pull/870#issuecomment-2674331917) in [pwntester/octo.nvim](https://github.com/pwntester/octo.nvim)
-2. 🗣 Commented on [#870](https://github.com/pwntester/octo.nvim/pull/870#issuecomment-2674327065) in [pwntester/octo.nvim](https://github.com/pwntester/octo.nvim)
-3. 🗣 Commented on [#30](https://github.com/rachartier/tiny-code-action.nvim/issues/30#issuecomment-2674031128) in [rachartier/tiny-code-action.nvim](https://github.com/rachartier/tiny-code-action.nvim)
-4. 🗣 Commented on [#870](https://github.com/pwntester/octo.nvim/pull/870#issuecomment-2673558297) in [pwntester/octo.nvim](https://github.com/pwntester/octo.nvim)
-5. 🎉 Merged PR [#14](https://github.com/MuntasirSZN/getquotes/pull/14) in [MuntasirSZN/getquotes](https://github.com/MuntasirSZN/getquotes)
+1. 🗣 Commented on [#160](https://github.com/olets/zsh-abbr/issues/160#issuecomment-2675852612) in [olets/zsh-abbr](https://github.com/olets/zsh-abbr)
+2. 🗣 Commented on [#870](https://github.com/pwntester/octo.nvim/pull/870#issuecomment-2674331917) in [pwntester/octo.nvim](https://github.com/pwntester/octo.nvim)
+3. 🗣 Commented on [#870](https://github.com/pwntester/octo.nvim/pull/870#issuecomment-2674327065) in [pwntester/octo.nvim](https://github.com/pwntester/octo.nvim)
+4. 🗣 Commented on [#30](https://github.com/rachartier/tiny-code-action.nvim/issues/30#issuecomment-2674031128) in [rachartier/tiny-code-action.nvim](https://github.com/rachartier/tiny-code-action.nvim)
+5. 🗣 Commented on [#870](https://github.com/pwntester/octo.nvim/pull/870#issuecomment-2673558297) in [pwntester/octo.nvim](https://github.com/pwntester/octo.nvim)
 <!--END_SECTION:activity-->
 
 ---
