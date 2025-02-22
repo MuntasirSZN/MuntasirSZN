@@ -3,7 +3,7 @@
 <h3 align="center"><img src="https://readme-typing-svg.demolab.com/?lines=Hi+There!👋;I+Am+Muntasir;A+Linux+Enthusiast🐧;A+Nature+Lover🌱;&font=Poppins"></h3>
 
 <p align="center">
-  <img src="https://github.com/MuntasirSZN/MuntasirSZN/blob/master/macchiato.png?raw=true" width="200" />
+  <img src="https://github.com/MuntasirSZN/MuntasirSZN/blob/master/macchiato.png?raw=true" width="400" />
 </p>
 
 ---
