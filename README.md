@@ -128,7 +128,6 @@
 4. 🗣 Commented on [#870](https://github.com/pwntester/octo.nvim/pull/870#issuecomment-2673558297) in [pwntester/octo.nvim](https://github.com/pwntester/octo.nvim)
 5. 🎉 Merged PR [#14](https://github.com/MuntasirSZN/getquotes/pull/14) in [MuntasirSZN/getquotes](https://github.com/MuntasirSZN/getquotes)
 <!--END_SECTION:activity-->
-<!--START_SECTION:activity-->
 
 ---
 
