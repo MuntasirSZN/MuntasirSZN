@@ -133,4 +133,4 @@
 
 <img src="https://raw.githubusercontent.com/MuntasirSZN/MuntasirSZN/refs/heads/output/github-contribution-grid-snake.svg">
 
-<p align="center"><img src="https://readme-typing-svg.demolab.com/?lines=Thanks+For+Visiting+💖;&font=Poppins"></p>
+<p align="center"><img src="https://readme-typing-svg.demolab.com/?lines=Thanks+For+Visiting+💖;&font=Poppins&center=true"></p>
