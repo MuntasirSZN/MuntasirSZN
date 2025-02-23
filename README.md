@@ -122,11 +122,11 @@
 <h3 align="left"><img src="https://readme-typing-svg.demolab.com/?lines=⚡+Recent+Activity;&font=Poppins"></h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/MuntasirSZN/copilot.lua/pull/1) in [MuntasirSZN/copilot.lua](https://github.com/MuntasirSZN/copilot.lua)
-2. 🗣 Commented on [#160](https://github.com/olets/zsh-abbr/issues/160#issuecomment-2675852612) in [olets/zsh-abbr](https://github.com/olets/zsh-abbr)
-3. 🗣 Commented on [#870](https://github.com/pwntester/octo.nvim/pull/870#issuecomment-2674331917) in [pwntester/octo.nvim](https://github.com/pwntester/octo.nvim)
-4. 🗣 Commented on [#870](https://github.com/pwntester/octo.nvim/pull/870#issuecomment-2674327065) in [pwntester/octo.nvim](https://github.com/pwntester/octo.nvim)
-5. 🗣 Commented on [#30](https://github.com/rachartier/tiny-code-action.nvim/issues/30#issuecomment-2674031128) in [rachartier/tiny-code-action.nvim](https://github.com/rachartier/tiny-code-action.nvim)
+1. 💪 Opened PR [#2107](https://github.com/microsoft/language-server-protocol/pull/2107) in [microsoft/language-server-protocol](https://github.com/microsoft/language-server-protocol)
+2. 🗣 Commented on [#25](https://github.com/soulis-1256/eagle.nvim/issues/25#issuecomment-2676149805) in [soulis-1256/eagle.nvim](https://github.com/soulis-1256/eagle.nvim)
+3. 🗣 Commented on [#25](https://github.com/soulis-1256/eagle.nvim/issues/25#issuecomment-2676133801) in [soulis-1256/eagle.nvim](https://github.com/soulis-1256/eagle.nvim)
+4. ❗ Opened issue [#16](https://github.com/AndreM222/copilot-lualine/issues/16) in [AndreM222/copilot-lualine](https://github.com/AndreM222/copilot-lualine)
+5. ❗ Opened issue [#25](https://github.com/soulis-1256/eagle.nvim/issues/25) in [soulis-1256/eagle.nvim](https://github.com/soulis-1256/eagle.nvim)
 <!--END_SECTION:activity-->
 
 ---
