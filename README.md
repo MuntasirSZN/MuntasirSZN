@@ -122,11 +122,11 @@
 <h3 align="left"><img src="https://readme-typing-svg.demolab.com/?lines=⚡+Recent+Activity;&font=Poppins"></h3>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1386](https://github.com/folke/snacks.nvim/issues/1386) in [folke/snacks.nvim](https://github.com/folke/snacks.nvim)
-2. ❗ Opened issue [#1663](https://github.com/NeogitOrg/neogit/issues/1663) in [NeogitOrg/neogit](https://github.com/NeogitOrg/neogit)
-3. 🗣 Commented on [#445](https://github.com/Jas-SinghFSU/HyprPanel/issues/445#issuecomment-2676669187) in [Jas-SinghFSU/HyprPanel](https://github.com/Jas-SinghFSU/HyprPanel)
-4. 🗣 Commented on [#445](https://github.com/Jas-SinghFSU/HyprPanel/issues/445#issuecomment-2676666397) in [Jas-SinghFSU/HyprPanel](https://github.com/Jas-SinghFSU/HyprPanel)
-5. 🗣 Commented on [#539](https://github.com/Jas-SinghFSU/HyprPanel/issues/539#issuecomment-2676528194) in [Jas-SinghFSU/HyprPanel](https://github.com/Jas-SinghFSU/HyprPanel)
+1. 🗣 Commented on [#1386](https://github.com/folke/snacks.nvim/issues/1386#issuecomment-2676706539) in [folke/snacks.nvim](https://github.com/folke/snacks.nvim)
+2. 🗣 Commented on [#1386](https://github.com/folke/snacks.nvim/issues/1386#issuecomment-2676705324) in [folke/snacks.nvim](https://github.com/folke/snacks.nvim)
+3. ❗ Opened issue [#1386](https://github.com/folke/snacks.nvim/issues/1386) in [folke/snacks.nvim](https://github.com/folke/snacks.nvim)
+4. ❗ Opened issue [#1663](https://github.com/NeogitOrg/neogit/issues/1663) in [NeogitOrg/neogit](https://github.com/NeogitOrg/neogit)
+5. 🗣 Commented on [#445](https://github.com/Jas-SinghFSU/HyprPanel/issues/445#issuecomment-2676669187) in [Jas-SinghFSU/HyprPanel](https://github.com/Jas-SinghFSU/HyprPanel)
 <!--END_SECTION:activity-->
 
 ---
