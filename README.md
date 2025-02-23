@@ -122,11 +122,11 @@
 <h3 align="left"><img src="https://readme-typing-svg.demolab.com/?lines=⚡+Recent+Activity;&font=Poppins"></h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1386](https://github.com/folke/snacks.nvim/issues/1386#issuecomment-2676753470) in [folke/snacks.nvim](https://github.com/folke/snacks.nvim)
-2. 🗣 Commented on [#1386](https://github.com/folke/snacks.nvim/issues/1386#issuecomment-2676706539) in [folke/snacks.nvim](https://github.com/folke/snacks.nvim)
-3. 🗣 Commented on [#1386](https://github.com/folke/snacks.nvim/issues/1386#issuecomment-2676705324) in [folke/snacks.nvim](https://github.com/folke/snacks.nvim)
-4. ❗ Opened issue [#1386](https://github.com/folke/snacks.nvim/issues/1386) in [folke/snacks.nvim](https://github.com/folke/snacks.nvim)
-5. ❗ Opened issue [#1663](https://github.com/NeogitOrg/neogit/issues/1663) in [NeogitOrg/neogit](https://github.com/NeogitOrg/neogit)
+1. 🗣 Commented on [#3579](https://github.com/shadcn-ui/ui/issues/3579#issuecomment-2676822756) in [shadcn-ui/ui](https://github.com/shadcn-ui/ui)
+2. 🗣 Commented on [#1386](https://github.com/folke/snacks.nvim/issues/1386#issuecomment-2676753470) in [folke/snacks.nvim](https://github.com/folke/snacks.nvim)
+3. 🗣 Commented on [#1386](https://github.com/folke/snacks.nvim/issues/1386#issuecomment-2676706539) in [folke/snacks.nvim](https://github.com/folke/snacks.nvim)
+4. 🗣 Commented on [#1386](https://github.com/folke/snacks.nvim/issues/1386#issuecomment-2676705324) in [folke/snacks.nvim](https://github.com/folke/snacks.nvim)
+5. ❗ Opened issue [#1386](https://github.com/folke/snacks.nvim/issues/1386) in [folke/snacks.nvim](https://github.com/folke/snacks.nvim)
 <!--END_SECTION:activity-->
 
 ---
