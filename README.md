@@ -122,11 +122,11 @@
 <h3 align="left"><img src="https://readme-typing-svg.demolab.com/?lines=⚡+Recent+Activity;&font=Poppins"></h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#891](https://github.com/pwntester/octo.nvim/issues/891#issuecomment-2678028855) in [pwntester/octo.nvim](https://github.com/pwntester/octo.nvim)
-2. 🗣 Commented on [#891](https://github.com/pwntester/octo.nvim/issues/891#issuecomment-2678009864) in [pwntester/octo.nvim](https://github.com/pwntester/octo.nvim)
-3. 🗣 Commented on [#1386](https://github.com/folke/snacks.nvim/issues/1386#issuecomment-2677978104) in [folke/snacks.nvim](https://github.com/folke/snacks.nvim)
-4. 🗣 Commented on [#1386](https://github.com/folke/snacks.nvim/issues/1386#issuecomment-2677974713) in [folke/snacks.nvim](https://github.com/folke/snacks.nvim)
-5. ❗ Opened issue [#891](https://github.com/pwntester/octo.nvim/issues/891) in [pwntester/octo.nvim](https://github.com/pwntester/octo.nvim)
+1. 🗣 Commented on [#1386](https://github.com/folke/snacks.nvim/issues/1386#issuecomment-2678070544) in [folke/snacks.nvim](https://github.com/folke/snacks.nvim)
+2. 🗣 Commented on [#16](https://github.com/AndreM222/copilot-lualine/issues/16#issuecomment-2678037878) in [AndreM222/copilot-lualine](https://github.com/AndreM222/copilot-lualine)
+3. 🔒 Closed issue [#16](https://github.com/AndreM222/copilot-lualine/issues/16) in [AndreM222/copilot-lualine](https://github.com/AndreM222/copilot-lualine)
+4. 🗣 Commented on [#891](https://github.com/pwntester/octo.nvim/issues/891#issuecomment-2678028855) in [pwntester/octo.nvim](https://github.com/pwntester/octo.nvim)
+5. 🗣 Commented on [#891](https://github.com/pwntester/octo.nvim/issues/891#issuecomment-2678009864) in [pwntester/octo.nvim](https://github.com/pwntester/octo.nvim)
 <!--END_SECTION:activity-->
 
 ---
