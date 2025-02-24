@@ -122,11 +122,11 @@
 <h3 align="left"><img src="https://readme-typing-svg.demolab.com/?lines=⚡+Recent+Activity;&font=Poppins"></h3>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#5652](https://github.com/zen-browser/desktop/issues/5652) in [zen-browser/desktop](https://github.com/zen-browser/desktop)
-2. 🗣 Commented on [#1386](https://github.com/folke/snacks.nvim/issues/1386#issuecomment-2678070544) in [folke/snacks.nvim](https://github.com/folke/snacks.nvim)
-3. 🗣 Commented on [#16](https://github.com/AndreM222/copilot-lualine/issues/16#issuecomment-2678037878) in [AndreM222/copilot-lualine](https://github.com/AndreM222/copilot-lualine)
-4. 🔒 Closed issue [#16](https://github.com/AndreM222/copilot-lualine/issues/16) in [AndreM222/copilot-lualine](https://github.com/AndreM222/copilot-lualine)
-5. 🗣 Commented on [#891](https://github.com/pwntester/octo.nvim/issues/891#issuecomment-2678028855) in [pwntester/octo.nvim](https://github.com/pwntester/octo.nvim)
+1. 🗣 Commented on [#30](https://github.com/rachartier/tiny-code-action.nvim/issues/30#issuecomment-2678349891) in [rachartier/tiny-code-action.nvim](https://github.com/rachartier/tiny-code-action.nvim)
+2. ❗ Opened issue [#5652](https://github.com/zen-browser/desktop/issues/5652) in [zen-browser/desktop](https://github.com/zen-browser/desktop)
+3. 🗣 Commented on [#1386](https://github.com/folke/snacks.nvim/issues/1386#issuecomment-2678070544) in [folke/snacks.nvim](https://github.com/folke/snacks.nvim)
+4. 🗣 Commented on [#16](https://github.com/AndreM222/copilot-lualine/issues/16#issuecomment-2678037878) in [AndreM222/copilot-lualine](https://github.com/AndreM222/copilot-lualine)
+5. 🔒 Closed issue [#16](https://github.com/AndreM222/copilot-lualine/issues/16) in [AndreM222/copilot-lualine](https://github.com/AndreM222/copilot-lualine)
 <!--END_SECTION:activity-->
 
 ---
