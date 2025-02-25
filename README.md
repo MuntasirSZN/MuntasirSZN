@@ -117,9 +117,9 @@
 
 </details>
 
----
+<details>
 
-<h3 align="left"><img src="https://readme-typing-svg.demolab.com/?lines=⚡+Recent+Activity;&font=Poppins"></h3>
+<summary><img src="https://readme-typing-svg.demolab.com/?lines=⚡+Recent+Activity;&font=Poppins"></summary>
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#5609](https://github.com/zen-browser/desktop/issues/5609#issuecomment-2678839423) in [zen-browser/desktop](https://github.com/zen-browser/desktop)
@@ -129,7 +129,7 @@
 5. ❗ Opened issue [#15](https://github.com/Dan7h3x/LazyDo/issues/15) in [Dan7h3x/LazyDo](https://github.com/Dan7h3x/LazyDo)
 <!--END_SECTION:activity-->
 
----
+</details>
 
 <img src="https://raw.githubusercontent.com/MuntasirSZN/MuntasirSZN/refs/heads/output/github-contribution-grid-snake.svg">
 
