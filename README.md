@@ -122,11 +122,11 @@
 <summary><img src="https://readme-typing-svg.demolab.com/?lines=⚡+Recent+Activity;&font=Poppins"></summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5609](https://github.com/zen-browser/desktop/issues/5609#issuecomment-2681844333) in [zen-browser/desktop](https://github.com/zen-browser/desktop)
-2. 🎉 Merged PR [#17](https://github.com/MuntasirSZN/getquotes/pull/17) in [MuntasirSZN/getquotes](https://github.com/MuntasirSZN/getquotes)
-3. 🎉 Merged PR [#16](https://github.com/MuntasirSZN/getquotes/pull/16) in [MuntasirSZN/getquotes](https://github.com/MuntasirSZN/getquotes)
-4. 🗣 Commented on [#5609](https://github.com/zen-browser/desktop/issues/5609#issuecomment-2678839423) in [zen-browser/desktop](https://github.com/zen-browser/desktop)
-5. 🔒 Closed issue [#5652](https://github.com/zen-browser/desktop/issues/5652) in [zen-browser/desktop](https://github.com/zen-browser/desktop)
+1. 🗣 Commented on [#1422](https://github.com/folke/snacks.nvim/issues/1422#issuecomment-2682037765) in [folke/snacks.nvim](https://github.com/folke/snacks.nvim)
+2. 🗣 Commented on [#1422](https://github.com/folke/snacks.nvim/issues/1422#issuecomment-2682028326) in [folke/snacks.nvim](https://github.com/folke/snacks.nvim)
+3. 🗣 Commented on [#1422](https://github.com/folke/snacks.nvim/issues/1422#issuecomment-2682009247) in [folke/snacks.nvim](https://github.com/folke/snacks.nvim)
+4. 🗣 Commented on [#1422](https://github.com/folke/snacks.nvim/issues/1422#issuecomment-2681997410) in [folke/snacks.nvim](https://github.com/folke/snacks.nvim)
+5. 🗣 Commented on [#1422](https://github.com/folke/snacks.nvim/issues/1422#issuecomment-2681958281) in [folke/snacks.nvim](https://github.com/folke/snacks.nvim)
 <!--END_SECTION:activity-->
 
 </details>
