@@ -122,11 +122,11 @@
 <summary><img src="https://readme-typing-svg.demolab.com/?lines=⚡+Recent+Activity;&font=Poppins"></summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1422](https://github.com/folke/snacks.nvim/issues/1422#issuecomment-2682109179) in [folke/snacks.nvim](https://github.com/folke/snacks.nvim)
-2. 🗣 Commented on [#1422](https://github.com/folke/snacks.nvim/issues/1422#issuecomment-2682097176) in [folke/snacks.nvim](https://github.com/folke/snacks.nvim)
-3. 🗣 Commented on [#1422](https://github.com/folke/snacks.nvim/issues/1422#issuecomment-2682096430) in [folke/snacks.nvim](https://github.com/folke/snacks.nvim)
-4. 🗣 Commented on [#1422](https://github.com/folke/snacks.nvim/issues/1422#issuecomment-2682089365) in [folke/snacks.nvim](https://github.com/folke/snacks.nvim)
-5. 🗣 Commented on [#1422](https://github.com/folke/snacks.nvim/issues/1422#issuecomment-2682037765) in [folke/snacks.nvim](https://github.com/folke/snacks.nvim)
+1. 🔒 Closed issue [#1422](https://github.com/folke/snacks.nvim/issues/1422) in [folke/snacks.nvim](https://github.com/folke/snacks.nvim)
+2. 🗣 Commented on [#1422](https://github.com/folke/snacks.nvim/issues/1422#issuecomment-2682183489) in [folke/snacks.nvim](https://github.com/folke/snacks.nvim)
+3. 🗣 Commented on [#1422](https://github.com/folke/snacks.nvim/issues/1422#issuecomment-2682109179) in [folke/snacks.nvim](https://github.com/folke/snacks.nvim)
+4. 🗣 Commented on [#1422](https://github.com/folke/snacks.nvim/issues/1422#issuecomment-2682097176) in [folke/snacks.nvim](https://github.com/folke/snacks.nvim)
+5. 🗣 Commented on [#1422](https://github.com/folke/snacks.nvim/issues/1422#issuecomment-2682096430) in [folke/snacks.nvim](https://github.com/folke/snacks.nvim)
 <!--END_SECTION:activity-->
 
 </details>
