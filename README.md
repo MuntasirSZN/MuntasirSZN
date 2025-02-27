@@ -122,11 +122,11 @@
 <summary><img src="https://readme-typing-svg.demolab.com/?lines=⚡+Recent+Activity;&font=Poppins"></summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5609](https://github.com/zen-browser/desktop/issues/5609#issuecomment-2686586983) in [zen-browser/desktop](https://github.com/zen-browser/desktop)
-2. 🔒 Closed issue [#1422](https://github.com/folke/snacks.nvim/issues/1422) in [folke/snacks.nvim](https://github.com/folke/snacks.nvim)
-3. 🗣 Commented on [#1422](https://github.com/folke/snacks.nvim/issues/1422#issuecomment-2682183489) in [folke/snacks.nvim](https://github.com/folke/snacks.nvim)
-4. 🗣 Commented on [#1422](https://github.com/folke/snacks.nvim/issues/1422#issuecomment-2682109179) in [folke/snacks.nvim](https://github.com/folke/snacks.nvim)
-5. 🗣 Commented on [#1422](https://github.com/folke/snacks.nvim/issues/1422#issuecomment-2682097176) in [folke/snacks.nvim](https://github.com/folke/snacks.nvim)
+1. 🗣 Commented on [#855](https://github.com/pwntester/octo.nvim/issues/855#issuecomment-2686624402) in [pwntester/octo.nvim](https://github.com/pwntester/octo.nvim)
+2. 🗣 Commented on [#891](https://github.com/pwntester/octo.nvim/issues/891#issuecomment-2686622178) in [pwntester/octo.nvim](https://github.com/pwntester/octo.nvim)
+3. 🗣 Commented on [#5609](https://github.com/zen-browser/desktop/issues/5609#issuecomment-2686586983) in [zen-browser/desktop](https://github.com/zen-browser/desktop)
+4. 🔒 Closed issue [#1422](https://github.com/folke/snacks.nvim/issues/1422) in [folke/snacks.nvim](https://github.com/folke/snacks.nvim)
+5. 🗣 Commented on [#1422](https://github.com/folke/snacks.nvim/issues/1422#issuecomment-2682183489) in [folke/snacks.nvim](https://github.com/folke/snacks.nvim)
 <!--END_SECTION:activity-->
 
 </details>
