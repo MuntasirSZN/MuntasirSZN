@@ -122,11 +122,11 @@
 <summary><img src="https://readme-typing-svg.demolab.com/?lines=⚡+Recent+Activity;&font=Poppins"></summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#15](https://github.com/Dan7h3x/LazyDo/issues/15#issuecomment-2692308965) in [Dan7h3x/LazyDo](https://github.com/Dan7h3x/LazyDo)
-2. 🗣 Commented on [#5609](https://github.com/zen-browser/desktop/issues/5609#issuecomment-2689413671) in [zen-browser/desktop](https://github.com/zen-browser/desktop)
-3. 🗣 Commented on [#5609](https://github.com/zen-browser/desktop/issues/5609#issuecomment-2688105380) in [zen-browser/desktop](https://github.com/zen-browser/desktop)
-4. 🗣 Commented on [#5609](https://github.com/zen-browser/desktop/issues/5609#issuecomment-2687977085) in [zen-browser/desktop](https://github.com/zen-browser/desktop)
-5. 🎉 Merged PR [#18](https://github.com/MuntasirSZN/getquotes/pull/18) in [MuntasirSZN/getquotes](https://github.com/MuntasirSZN/getquotes)
+1. 🗣 Commented on [#15](https://github.com/Dan7h3x/LazyDo/issues/15#issuecomment-2692644059) in [Dan7h3x/LazyDo](https://github.com/Dan7h3x/LazyDo)
+2. 🗣 Commented on [#15](https://github.com/Dan7h3x/LazyDo/issues/15#issuecomment-2692308965) in [Dan7h3x/LazyDo](https://github.com/Dan7h3x/LazyDo)
+3. 🗣 Commented on [#5609](https://github.com/zen-browser/desktop/issues/5609#issuecomment-2689413671) in [zen-browser/desktop](https://github.com/zen-browser/desktop)
+4. 🗣 Commented on [#5609](https://github.com/zen-browser/desktop/issues/5609#issuecomment-2688105380) in [zen-browser/desktop](https://github.com/zen-browser/desktop)
+5. 🗣 Commented on [#5609](https://github.com/zen-browser/desktop/issues/5609#issuecomment-2687977085) in [zen-browser/desktop](https://github.com/zen-browser/desktop)
 <!--END_SECTION:activity-->
 
 </details>
