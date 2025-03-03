@@ -122,11 +122,11 @@
 <summary><img src="https://readme-typing-svg.demolab.com/?lines=⚡+Recent+Activity;&font=Poppins"></summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2697](https://github.com/catppuccin/catppuccin/issues/2697#issuecomment-2692956420) in [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
-2. 🗣 Commented on [#2697](https://github.com/catppuccin/catppuccin/issues/2697#issuecomment-2692949925) in [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
-3. 🗣 Commented on [#2697](https://github.com/catppuccin/catppuccin/issues/2697#issuecomment-2692813230) in [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
-4. 🗣 Commented on [#855](https://github.com/pwntester/octo.nvim/issues/855#issuecomment-2692806243) in [pwntester/octo.nvim](https://github.com/pwntester/octo.nvim)
-5. 🗣 Commented on [#855](https://github.com/pwntester/octo.nvim/issues/855#issuecomment-2692806224) in [pwntester/octo.nvim](https://github.com/pwntester/octo.nvim)
+1. 🗣 Commented on [#2697](https://github.com/catppuccin/catppuccin/issues/2697#issuecomment-2693063148) in [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
+2. 🗣 Commented on [#2697](https://github.com/catppuccin/catppuccin/issues/2697#issuecomment-2692956420) in [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
+3. 🗣 Commented on [#2697](https://github.com/catppuccin/catppuccin/issues/2697#issuecomment-2692949925) in [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
+4. 🗣 Commented on [#2697](https://github.com/catppuccin/catppuccin/issues/2697#issuecomment-2692813230) in [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
+5. 🗣 Commented on [#855](https://github.com/pwntester/octo.nvim/issues/855#issuecomment-2692806243) in [pwntester/octo.nvim](https://github.com/pwntester/octo.nvim)
 <!--END_SECTION:activity-->
 
 </details>
