@@ -122,11 +122,11 @@
 <summary><img src="https://readme-typing-svg.demolab.com/?lines=⚡+Recent+Activity;&font=Poppins"></summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#19](https://github.com/uncenter/tree-sitter-tera/issues/19#issuecomment-2699986454) in [uncenter/tree-sitter-tera](https://github.com/uncenter/tree-sitter-tera)
-2. 🗣 Commented on [#19](https://github.com/uncenter/tree-sitter-tera/issues/19#issuecomment-2699538035) in [uncenter/tree-sitter-tera](https://github.com/uncenter/tree-sitter-tera)
-3. ❗ Opened issue [#666](https://github.com/yorukot/superfile/issues/666) in [yorukot/superfile](https://github.com/yorukot/superfile)
-4. 🗣 Commented on [#47](https://github.com/Kaiser-Yang/blink-cmp-git/issues/47#issuecomment-2694438311) in [Kaiser-Yang/blink-cmp-git](https://github.com/Kaiser-Yang/blink-cmp-git)
-5. 🗣 Commented on [#2697](https://github.com/catppuccin/catppuccin/issues/2697#issuecomment-2694337425) in [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
+1. 🗣 Commented on [#19](https://github.com/uncenter/tree-sitter-tera/issues/19#issuecomment-2700683778) in [uncenter/tree-sitter-tera](https://github.com/uncenter/tree-sitter-tera)
+2. 🗣 Commented on [#19](https://github.com/uncenter/tree-sitter-tera/issues/19#issuecomment-2699986454) in [uncenter/tree-sitter-tera](https://github.com/uncenter/tree-sitter-tera)
+3. 🗣 Commented on [#19](https://github.com/uncenter/tree-sitter-tera/issues/19#issuecomment-2699538035) in [uncenter/tree-sitter-tera](https://github.com/uncenter/tree-sitter-tera)
+4. ❗ Opened issue [#666](https://github.com/yorukot/superfile/issues/666) in [yorukot/superfile](https://github.com/yorukot/superfile)
+5. 🗣 Commented on [#47](https://github.com/Kaiser-Yang/blink-cmp-git/issues/47#issuecomment-2694438311) in [Kaiser-Yang/blink-cmp-git](https://github.com/Kaiser-Yang/blink-cmp-git)
 <!--END_SECTION:activity-->
 
 </details>
