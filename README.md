@@ -122,11 +122,11 @@
 <summary><img src="https://readme-typing-svg.demolab.com/?lines=⚡+Recent+Activity;&font=Poppins"></summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7707](https://github.com/nvim-treesitter/nvim-treesitter/pull/7707#issuecomment-2703101827) in [nvim-treesitter/nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter)
-2. 🗣 Commented on [#19](https://github.com/uncenter/tree-sitter-tera/issues/19#issuecomment-2703064525) in [uncenter/tree-sitter-tera](https://github.com/uncenter/tree-sitter-tera)
-3. 💪 Opened PR [#32750](https://github.com/neovim/neovim/pull/32750) in [neovim/neovim](https://github.com/neovim/neovim)
-4. 🗣 Commented on [#19](https://github.com/uncenter/tree-sitter-tera/issues/19#issuecomment-2703035367) in [uncenter/tree-sitter-tera](https://github.com/uncenter/tree-sitter-tera)
-5. 🗣 Commented on [#19](https://github.com/uncenter/tree-sitter-tera/issues/19#issuecomment-2703027540) in [uncenter/tree-sitter-tera](https://github.com/uncenter/tree-sitter-tera)
+1. 🗣 Commented on [#19](https://github.com/uncenter/tree-sitter-tera/issues/19#issuecomment-2703238077) in [uncenter/tree-sitter-tera](https://github.com/uncenter/tree-sitter-tera)
+2. 🗣 Commented on [#7707](https://github.com/nvim-treesitter/nvim-treesitter/pull/7707#issuecomment-2703101827) in [nvim-treesitter/nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter)
+3. 🗣 Commented on [#19](https://github.com/uncenter/tree-sitter-tera/issues/19#issuecomment-2703064525) in [uncenter/tree-sitter-tera](https://github.com/uncenter/tree-sitter-tera)
+4. 💪 Opened PR [#32750](https://github.com/neovim/neovim/pull/32750) in [neovim/neovim](https://github.com/neovim/neovim)
+5. 🗣 Commented on [#19](https://github.com/uncenter/tree-sitter-tera/issues/19#issuecomment-2703035367) in [uncenter/tree-sitter-tera](https://github.com/uncenter/tree-sitter-tera)
 <!--END_SECTION:activity-->
 
 </details>
