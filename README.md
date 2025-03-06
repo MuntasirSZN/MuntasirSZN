@@ -122,11 +122,11 @@
 <summary><img src="https://readme-typing-svg.demolab.com/?lines=⚡+Recent+Activity;&font=Poppins"></summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#19](https://github.com/uncenter/tree-sitter-tera/issues/19#issuecomment-2701468822) in [uncenter/tree-sitter-tera](https://github.com/uncenter/tree-sitter-tera)
-2. 🗣 Commented on [#19](https://github.com/uncenter/tree-sitter-tera/issues/19#issuecomment-2701461743) in [uncenter/tree-sitter-tera](https://github.com/uncenter/tree-sitter-tera)
-3. 🗣 Commented on [#19](https://github.com/uncenter/tree-sitter-tera/issues/19#issuecomment-2701447015) in [uncenter/tree-sitter-tera](https://github.com/uncenter/tree-sitter-tera)
-4. 🗣 Commented on [#19](https://github.com/uncenter/tree-sitter-tera/issues/19#issuecomment-2700683778) in [uncenter/tree-sitter-tera](https://github.com/uncenter/tree-sitter-tera)
-5. 🗣 Commented on [#19](https://github.com/uncenter/tree-sitter-tera/issues/19#issuecomment-2699986454) in [uncenter/tree-sitter-tera](https://github.com/uncenter/tree-sitter-tera)
+1. 🗣 Commented on [#19](https://github.com/uncenter/tree-sitter-tera/issues/19#issuecomment-2702282803) in [uncenter/tree-sitter-tera](https://github.com/uncenter/tree-sitter-tera)
+2. 🗣 Commented on [#666](https://github.com/yorukot/superfile/issues/666#issuecomment-2702275020) in [yorukot/superfile](https://github.com/yorukot/superfile)
+3. 🗣 Commented on [#19](https://github.com/uncenter/tree-sitter-tera/issues/19#issuecomment-2702273497) in [uncenter/tree-sitter-tera](https://github.com/uncenter/tree-sitter-tera)
+4. 🗣 Commented on [#19](https://github.com/uncenter/tree-sitter-tera/issues/19#issuecomment-2702251954) in [uncenter/tree-sitter-tera](https://github.com/uncenter/tree-sitter-tera)
+5. 🗣 Commented on [#19](https://github.com/uncenter/tree-sitter-tera/issues/19#issuecomment-2702246240) in [uncenter/tree-sitter-tera](https://github.com/uncenter/tree-sitter-tera)
 <!--END_SECTION:activity-->
 
 </details>
