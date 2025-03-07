@@ -122,11 +122,11 @@
 <summary><img src="https://readme-typing-svg.demolab.com/?lines=⚡+Recent+Activity;&font=Poppins"></summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#16806](https://github.com/vim/vim/pull/16806#issuecomment-2703391476) in [vim/vim](https://github.com/vim/vim)
-2. 🗣 Commented on [#19](https://github.com/uncenter/tree-sitter-tera/issues/19#issuecomment-2703306066) in [uncenter/tree-sitter-tera](https://github.com/uncenter/tree-sitter-tera)
-3. 🗣 Commented on [#19](https://github.com/uncenter/tree-sitter-tera/issues/19#issuecomment-2703303671) in [uncenter/tree-sitter-tera](https://github.com/uncenter/tree-sitter-tera)
-4. 💪 Opened PR [#16806](https://github.com/vim/vim/pull/16806) in [vim/vim](https://github.com/vim/vim)
-5. 🗣 Commented on [#19](https://github.com/uncenter/tree-sitter-tera/issues/19#issuecomment-2703292842) in [uncenter/tree-sitter-tera](https://github.com/uncenter/tree-sitter-tera)
+1. 🗣 Commented on [#19](https://github.com/uncenter/tree-sitter-tera/issues/19#issuecomment-2705111862) in [uncenter/tree-sitter-tera](https://github.com/uncenter/tree-sitter-tera)
+2. 🗣 Commented on [#666](https://github.com/yorukot/superfile/issues/666#issuecomment-2705107593) in [yorukot/superfile](https://github.com/yorukot/superfile)
+3. 🗣 Commented on [#16806](https://github.com/vim/vim/pull/16806#issuecomment-2703391476) in [vim/vim](https://github.com/vim/vim)
+4. 🗣 Commented on [#19](https://github.com/uncenter/tree-sitter-tera/issues/19#issuecomment-2703306066) in [uncenter/tree-sitter-tera](https://github.com/uncenter/tree-sitter-tera)
+5. 🗣 Commented on [#19](https://github.com/uncenter/tree-sitter-tera/issues/19#issuecomment-2703303671) in [uncenter/tree-sitter-tera](https://github.com/uncenter/tree-sitter-tera)
 <!--END_SECTION:activity-->
 
 </details>
