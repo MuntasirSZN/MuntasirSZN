@@ -122,11 +122,11 @@
 <summary><img src="https://readme-typing-svg.demolab.com/?lines=⚡+Recent+Activity;&font=Poppins"></summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#16830](https://github.com/vim/vim/pull/16830#issuecomment-2708624835) in [vim/vim](https://github.com/vim/vim)
-2. 💪 Opened PR [#16830](https://github.com/vim/vim/pull/16830) in [vim/vim](https://github.com/vim/vim)
-3. 🗣 Commented on [#7707](https://github.com/nvim-treesitter/nvim-treesitter/pull/7707#issuecomment-2708133939) in [nvim-treesitter/nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter)
-4. 🎉 Merged PR [#22](https://github.com/MuntasirSZN/getquotes/pull/22) in [MuntasirSZN/getquotes](https://github.com/MuntasirSZN/getquotes)
-5. 🎉 Merged PR [#21](https://github.com/MuntasirSZN/getquotes/pull/21) in [MuntasirSZN/getquotes](https://github.com/MuntasirSZN/getquotes)
+1. 💪 Opened PR [#32799](https://github.com/neovim/neovim/pull/32799) in [neovim/neovim](https://github.com/neovim/neovim)
+2. 🗣 Commented on [#16830](https://github.com/vim/vim/pull/16830#issuecomment-2708624835) in [vim/vim](https://github.com/vim/vim)
+3. 💪 Opened PR [#16830](https://github.com/vim/vim/pull/16830) in [vim/vim](https://github.com/vim/vim)
+4. 🗣 Commented on [#7707](https://github.com/nvim-treesitter/nvim-treesitter/pull/7707#issuecomment-2708133939) in [nvim-treesitter/nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter)
+5. 🎉 Merged PR [#22](https://github.com/MuntasirSZN/getquotes/pull/22) in [MuntasirSZN/getquotes](https://github.com/MuntasirSZN/getquotes)
 <!--END_SECTION:activity-->
 
 </details>
