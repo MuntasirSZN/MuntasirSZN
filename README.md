@@ -122,11 +122,11 @@
 <summary><img src="https://readme-typing-svg.demolab.com/?lines=⚡+Recent+Activity;&font=Poppins"></summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#25](https://github.com/soulis-1256/eagle.nvim/issues/25#issuecomment-2710564213) in [soulis-1256/eagle.nvim](https://github.com/soulis-1256/eagle.nvim)
-2. 🗣 Commented on [#22](https://github.com/uncenter/tree-sitter-tera/pull/22#issuecomment-2710396418) in [uncenter/tree-sitter-tera](https://github.com/uncenter/tree-sitter-tera)
-3. 🗣 Commented on [#22](https://github.com/uncenter/tree-sitter-tera/pull/22#issuecomment-2710388925) in [uncenter/tree-sitter-tera](https://github.com/uncenter/tree-sitter-tera)
-4. 🗣 Commented on [#22](https://github.com/uncenter/tree-sitter-tera/pull/22#issuecomment-2710316925) in [uncenter/tree-sitter-tera](https://github.com/uncenter/tree-sitter-tera)
-5. 💪 Opened PR [#22](https://github.com/uncenter/tree-sitter-tera/pull/22) in [uncenter/tree-sitter-tera](https://github.com/uncenter/tree-sitter-tera)
+1. 🗣 Commented on [#22](https://github.com/uncenter/tree-sitter-tera/pull/22#issuecomment-2710592430) in [uncenter/tree-sitter-tera](https://github.com/uncenter/tree-sitter-tera)
+2. 🗣 Commented on [#22](https://github.com/uncenter/tree-sitter-tera/pull/22#issuecomment-2710582800) in [uncenter/tree-sitter-tera](https://github.com/uncenter/tree-sitter-tera)
+3. 🗣 Commented on [#25](https://github.com/soulis-1256/eagle.nvim/issues/25#issuecomment-2710564213) in [soulis-1256/eagle.nvim](https://github.com/soulis-1256/eagle.nvim)
+4. 🗣 Commented on [#22](https://github.com/uncenter/tree-sitter-tera/pull/22#issuecomment-2710396418) in [uncenter/tree-sitter-tera](https://github.com/uncenter/tree-sitter-tera)
+5. 🗣 Commented on [#22](https://github.com/uncenter/tree-sitter-tera/pull/22#issuecomment-2710388925) in [uncenter/tree-sitter-tera](https://github.com/uncenter/tree-sitter-tera)
 <!--END_SECTION:activity-->
 
 </details>
