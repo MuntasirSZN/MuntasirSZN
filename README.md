@@ -122,11 +122,11 @@
 <summary><img src="https://readme-typing-svg.demolab.com/?lines=⚡+Recent+Activity;&font=Poppins"></summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#22](https://github.com/uncenter/tree-sitter-tera/pull/22#issuecomment-2710316925) in [uncenter/tree-sitter-tera](https://github.com/uncenter/tree-sitter-tera)
-2. 💪 Opened PR [#22](https://github.com/uncenter/tree-sitter-tera/pull/22) in [uncenter/tree-sitter-tera](https://github.com/uncenter/tree-sitter-tera)
-3. 🎉 Merged PR [#24](https://github.com/MuntasirSZN/getquotes/pull/24) in [MuntasirSZN/getquotes](https://github.com/MuntasirSZN/getquotes)
-4. 🎉 Merged PR [#23](https://github.com/MuntasirSZN/getquotes/pull/23) in [MuntasirSZN/getquotes](https://github.com/MuntasirSZN/getquotes)
-5. 🗣 Commented on [#2](https://github.com/uncenter/tree-sitter-tera/issues/2#issuecomment-2709114746) in [uncenter/tree-sitter-tera](https://github.com/uncenter/tree-sitter-tera)
+1. 🗣 Commented on [#22](https://github.com/uncenter/tree-sitter-tera/pull/22#issuecomment-2710396418) in [uncenter/tree-sitter-tera](https://github.com/uncenter/tree-sitter-tera)
+2. 🗣 Commented on [#22](https://github.com/uncenter/tree-sitter-tera/pull/22#issuecomment-2710388925) in [uncenter/tree-sitter-tera](https://github.com/uncenter/tree-sitter-tera)
+3. 🗣 Commented on [#22](https://github.com/uncenter/tree-sitter-tera/pull/22#issuecomment-2710316925) in [uncenter/tree-sitter-tera](https://github.com/uncenter/tree-sitter-tera)
+4. 💪 Opened PR [#22](https://github.com/uncenter/tree-sitter-tera/pull/22) in [uncenter/tree-sitter-tera](https://github.com/uncenter/tree-sitter-tera)
+5. 🎉 Merged PR [#24](https://github.com/MuntasirSZN/getquotes/pull/24) in [MuntasirSZN/getquotes](https://github.com/MuntasirSZN/getquotes)
 <!--END_SECTION:activity-->
 
 </details>
