@@ -122,11 +122,11 @@
 <summary><img src="https://readme-typing-svg.demolab.com/?lines=⚡+Recent+Activity;&font=Poppins"></summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#27](https://github.com/MuntasirSZN/getquotes/pull/27) in [MuntasirSZN/getquotes](https://github.com/MuntasirSZN/getquotes)
-2. 🗣 Commented on [#21](https://github.com/uncenter/tree-sitter-tera/issues/21#issuecomment-2714352685) in [uncenter/tree-sitter-tera](https://github.com/uncenter/tree-sitter-tera)
-3. 💪 Opened PR [#16857](https://github.com/vim/vim/pull/16857) in [vim/vim](https://github.com/vim/vim)
-4. 💪 Opened PR [#1](https://github.com/uncenter/tera2/pull/1) in [uncenter/tera2](https://github.com/uncenter/tera2)
-5. 🗣 Commented on [#200](https://github.com/OXY2DEV/markview.nvim/issues/200#issuecomment-2713095848) in [OXY2DEV/markview.nvim](https://github.com/OXY2DEV/markview.nvim)
+1. 🗣 Commented on [#2697](https://github.com/catppuccin/catppuccin/issues/2697#issuecomment-2720588582) in [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
+2. ❗ Opened issue [#26](https://github.com/soulis-1256/eagle.nvim/issues/26) in [soulis-1256/eagle.nvim](https://github.com/soulis-1256/eagle.nvim)
+3. 🎉 Merged PR [#27](https://github.com/MuntasirSZN/getquotes/pull/27) in [MuntasirSZN/getquotes](https://github.com/MuntasirSZN/getquotes)
+4. 🗣 Commented on [#21](https://github.com/uncenter/tree-sitter-tera/issues/21#issuecomment-2714352685) in [uncenter/tree-sitter-tera](https://github.com/uncenter/tree-sitter-tera)
+5. 💪 Opened PR [#16857](https://github.com/vim/vim/pull/16857) in [vim/vim](https://github.com/vim/vim)
 <!--END_SECTION:activity-->
 
 </details>
