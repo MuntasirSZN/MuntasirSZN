@@ -32,7 +32,7 @@
 <summary><h3 align="left"><img src="https://readme-typing-svg.demolab.com/?lines=🌐+Socials;&font=Poppins"></h3></summary>
 
 <p>
-  <a href="https://discord.gg/HNhjQAfq9U"><img src="https://go-skill-icons.vercel.app/api/icons?i=discord" alt="Discord"></a>
+  <a href="https://discord.com/users/1188396605125165126"><img src="https://go-skill-icons.vercel.app/api/icons?i=discord" alt="Discord"></a>
   <a href="https://stackoverflow.com/users/27158232"><img src="https://go-skill-icons.vercel.app/api/icons?i=stackoverflow" alt="Stack Overflow"></a>
   <a href="https://x.com/muntasirszn"><img src="https://go-skill-icons.vercel.app/api/icons?i=x" alt="X"></a>
   <a href="https://www.reddit.com/user/Cute_Elevator2547/"><img src="https://go-skill-icons.vercel.app/api/icons?i=reddit" alt="Reddit"/></a>
