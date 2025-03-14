@@ -122,11 +122,11 @@
 <summary><img src="https://readme-typing-svg.demolab.com/?lines=⚡+Recent+Activity;&font=Poppins"></summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#28](https://github.com/MuntasirSZN/getquotes/pull/28) in [MuntasirSZN/getquotes](https://github.com/MuntasirSZN/getquotes)
-2. 🗣 Commented on [#2697](https://github.com/catppuccin/catppuccin/issues/2697#issuecomment-2720588582) in [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
-3. ❗ Opened issue [#26](https://github.com/soulis-1256/eagle.nvim/issues/26) in [soulis-1256/eagle.nvim](https://github.com/soulis-1256/eagle.nvim)
-4. 🎉 Merged PR [#27](https://github.com/MuntasirSZN/getquotes/pull/27) in [MuntasirSZN/getquotes](https://github.com/MuntasirSZN/getquotes)
-5. 🗣 Commented on [#21](https://github.com/uncenter/tree-sitter-tera/issues/21#issuecomment-2714352685) in [uncenter/tree-sitter-tera](https://github.com/uncenter/tree-sitter-tera)
+1. 🗣 Commented on [#200](https://github.com/OXY2DEV/markview.nvim/issues/200#issuecomment-2724414707) in [OXY2DEV/markview.nvim](https://github.com/OXY2DEV/markview.nvim)
+2. 🗣 Commented on [#200](https://github.com/OXY2DEV/markview.nvim/issues/200#issuecomment-2724385375) in [OXY2DEV/markview.nvim](https://github.com/OXY2DEV/markview.nvim)
+3. 🎉 Merged PR [#28](https://github.com/MuntasirSZN/getquotes/pull/28) in [MuntasirSZN/getquotes](https://github.com/MuntasirSZN/getquotes)
+4. 🗣 Commented on [#2697](https://github.com/catppuccin/catppuccin/issues/2697#issuecomment-2720588582) in [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
+5. ❗ Opened issue [#26](https://github.com/soulis-1256/eagle.nvim/issues/26) in [soulis-1256/eagle.nvim](https://github.com/soulis-1256/eagle.nvim)
 <!--END_SECTION:activity-->
 
 </details>
