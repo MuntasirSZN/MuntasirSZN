@@ -122,11 +122,11 @@
 <summary><img src="https://readme-typing-svg.demolab.com/?lines=⚡+Recent+Activity;&font=Poppins"></summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#310](https://github.com/OXY2DEV/markview.nvim/issues/310#issuecomment-2728997740) in [OXY2DEV/markview.nvim](https://github.com/OXY2DEV/markview.nvim)
-2. 🗣 Commented on [#310](https://github.com/OXY2DEV/markview.nvim/issues/310#issuecomment-2728989441) in [OXY2DEV/markview.nvim](https://github.com/OXY2DEV/markview.nvim)
-3. 🗣 Commented on [#26](https://github.com/soulis-1256/eagle.nvim/issues/26#issuecomment-2727689133) in [soulis-1256/eagle.nvim](https://github.com/soulis-1256/eagle.nvim)
-4. 🗣 Commented on [#26](https://github.com/soulis-1256/eagle.nvim/issues/26#issuecomment-2727686812) in [soulis-1256/eagle.nvim](https://github.com/soulis-1256/eagle.nvim)
-5. 🗣 Commented on [#26](https://github.com/soulis-1256/eagle.nvim/issues/26#issuecomment-2727535995) in [soulis-1256/eagle.nvim](https://github.com/soulis-1256/eagle.nvim)
+1. 🗣 Commented on [#310](https://github.com/OXY2DEV/markview.nvim/issues/310#issuecomment-2729554889) in [OXY2DEV/markview.nvim](https://github.com/OXY2DEV/markview.nvim)
+2. 🗣 Commented on [#310](https://github.com/OXY2DEV/markview.nvim/issues/310#issuecomment-2729546101) in [OXY2DEV/markview.nvim](https://github.com/OXY2DEV/markview.nvim)
+3. 🗣 Commented on [#310](https://github.com/OXY2DEV/markview.nvim/issues/310#issuecomment-2728997740) in [OXY2DEV/markview.nvim](https://github.com/OXY2DEV/markview.nvim)
+4. 🗣 Commented on [#310](https://github.com/OXY2DEV/markview.nvim/issues/310#issuecomment-2728989441) in [OXY2DEV/markview.nvim](https://github.com/OXY2DEV/markview.nvim)
+5. 🗣 Commented on [#26](https://github.com/soulis-1256/eagle.nvim/issues/26#issuecomment-2727689133) in [soulis-1256/eagle.nvim](https://github.com/soulis-1256/eagle.nvim)
 <!--END_SECTION:activity-->
 
 </details>
