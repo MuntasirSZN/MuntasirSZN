@@ -122,11 +122,11 @@
 <summary><img src="https://readme-typing-svg.demolab.com/?lines=⚡+Recent+Activity;&font=Poppins"></summary>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#315](https://github.com/OXY2DEV/markview.nvim/issues/315) in [OXY2DEV/markview.nvim](https://github.com/OXY2DEV/markview.nvim)
-2. 🗣 Commented on [#310](https://github.com/OXY2DEV/markview.nvim/issues/310#issuecomment-2729592341) in [OXY2DEV/markview.nvim](https://github.com/OXY2DEV/markview.nvim)
-3. 🗣 Commented on [#310](https://github.com/OXY2DEV/markview.nvim/issues/310#issuecomment-2729582731) in [OXY2DEV/markview.nvim](https://github.com/OXY2DEV/markview.nvim)
-4. 🗣 Commented on [#310](https://github.com/OXY2DEV/markview.nvim/issues/310#issuecomment-2729554889) in [OXY2DEV/markview.nvim](https://github.com/OXY2DEV/markview.nvim)
-5. 🗣 Commented on [#310](https://github.com/OXY2DEV/markview.nvim/issues/310#issuecomment-2729546101) in [OXY2DEV/markview.nvim](https://github.com/OXY2DEV/markview.nvim)
+1. 🗣 Commented on [#315](https://github.com/OXY2DEV/markview.nvim/issues/315#issuecomment-2732056772) in [OXY2DEV/markview.nvim](https://github.com/OXY2DEV/markview.nvim)
+2. ❗ Opened issue [#315](https://github.com/OXY2DEV/markview.nvim/issues/315) in [OXY2DEV/markview.nvim](https://github.com/OXY2DEV/markview.nvim)
+3. 🗣 Commented on [#310](https://github.com/OXY2DEV/markview.nvim/issues/310#issuecomment-2729592341) in [OXY2DEV/markview.nvim](https://github.com/OXY2DEV/markview.nvim)
+4. 🗣 Commented on [#310](https://github.com/OXY2DEV/markview.nvim/issues/310#issuecomment-2729582731) in [OXY2DEV/markview.nvim](https://github.com/OXY2DEV/markview.nvim)
+5. 🗣 Commented on [#310](https://github.com/OXY2DEV/markview.nvim/issues/310#issuecomment-2729554889) in [OXY2DEV/markview.nvim](https://github.com/OXY2DEV/markview.nvim)
 <!--END_SECTION:activity-->
 
 </details>
