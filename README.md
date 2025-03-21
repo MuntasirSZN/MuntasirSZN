@@ -122,11 +122,11 @@
 <summary><img src="https://readme-typing-svg.demolab.com/?lines=⚡+Recent+Activity;&font=Poppins"></summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#26](https://github.com/soulis-1256/eagle.nvim/issues/26#issuecomment-2741076889) in [soulis-1256/eagle.nvim](https://github.com/soulis-1256/eagle.nvim)
-2. 🎉 Merged PR [#1](https://github.com/MuntasirSZN/code-icons/pull/1) in [MuntasirSZN/code-icons](https://github.com/MuntasirSZN/code-icons)
-3. 🗣 Commented on [#2721](https://github.com/catppuccin/catppuccin/issues/2721#issuecomment-2739691691) in [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
-4. 🗣 Commented on [#315](https://github.com/OXY2DEV/markview.nvim/issues/315#issuecomment-2732056772) in [OXY2DEV/markview.nvim](https://github.com/OXY2DEV/markview.nvim)
-5. ❗ Opened issue [#315](https://github.com/OXY2DEV/markview.nvim/issues/315) in [OXY2DEV/markview.nvim](https://github.com/OXY2DEV/markview.nvim)
+1. ❗ Opened issue [#28](https://github.com/soulis-1256/eagle.nvim/issues/28) in [soulis-1256/eagle.nvim](https://github.com/soulis-1256/eagle.nvim)
+2. 🗣 Commented on [#26](https://github.com/soulis-1256/eagle.nvim/issues/26#issuecomment-2741076889) in [soulis-1256/eagle.nvim](https://github.com/soulis-1256/eagle.nvim)
+3. 🎉 Merged PR [#1](https://github.com/MuntasirSZN/code-icons/pull/1) in [MuntasirSZN/code-icons](https://github.com/MuntasirSZN/code-icons)
+4. 🗣 Commented on [#2721](https://github.com/catppuccin/catppuccin/issues/2721#issuecomment-2739691691) in [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
+5. 🗣 Commented on [#315](https://github.com/OXY2DEV/markview.nvim/issues/315#issuecomment-2732056772) in [OXY2DEV/markview.nvim](https://github.com/OXY2DEV/markview.nvim)
 <!--END_SECTION:activity-->
 
 </details>
