@@ -122,11 +122,11 @@
 <summary><img src="https://readme-typing-svg.demolab.com/?lines=⚡+Recent+Activity;&font=Poppins"></summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#456](https://github.com/catppuccin/vscode-icons/pull/456) in [catppuccin/vscode-icons](https://github.com/catppuccin/vscode-icons)
-2. ❗ Opened issue [#28](https://github.com/soulis-1256/eagle.nvim/issues/28) in [soulis-1256/eagle.nvim](https://github.com/soulis-1256/eagle.nvim)
-3. 🗣 Commented on [#26](https://github.com/soulis-1256/eagle.nvim/issues/26#issuecomment-2741076889) in [soulis-1256/eagle.nvim](https://github.com/soulis-1256/eagle.nvim)
-4. 🎉 Merged PR [#1](https://github.com/MuntasirSZN/code-icons/pull/1) in [MuntasirSZN/code-icons](https://github.com/MuntasirSZN/code-icons)
-5. 🗣 Commented on [#2721](https://github.com/catppuccin/catppuccin/issues/2721#issuecomment-2739691691) in [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
+1. ❌ Closed PR [#2164](https://github.com/fireship-io/git-sticker/pull/2164) in [fireship-io/git-sticker](https://github.com/fireship-io/git-sticker)
+2. 💪 Opened PR [#456](https://github.com/catppuccin/vscode-icons/pull/456) in [catppuccin/vscode-icons](https://github.com/catppuccin/vscode-icons)
+3. ❗ Opened issue [#28](https://github.com/soulis-1256/eagle.nvim/issues/28) in [soulis-1256/eagle.nvim](https://github.com/soulis-1256/eagle.nvim)
+4. 🗣 Commented on [#26](https://github.com/soulis-1256/eagle.nvim/issues/26#issuecomment-2741076889) in [soulis-1256/eagle.nvim](https://github.com/soulis-1256/eagle.nvim)
+5. 🎉 Merged PR [#1](https://github.com/MuntasirSZN/code-icons/pull/1) in [MuntasirSZN/code-icons](https://github.com/MuntasirSZN/code-icons)
 <!--END_SECTION:activity-->
 
 </details>
