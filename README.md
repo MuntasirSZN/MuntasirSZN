@@ -122,11 +122,11 @@
 <summary><img src="https://readme-typing-svg.demolab.com/?lines=⚡+Recent+Activity;&font=Poppins"></summary>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#31](https://github.com/MuntasirSZN/getquotes/issues/31) in [MuntasirSZN/getquotes](https://github.com/MuntasirSZN/getquotes)
-2. ❗ Opened issue [#31](https://github.com/MuntasirSZN/getquotes/issues/31) in [MuntasirSZN/getquotes](https://github.com/MuntasirSZN/getquotes)
-3. 🎉 Merged PR [#30](https://github.com/MuntasirSZN/getquotes/pull/30) in [MuntasirSZN/getquotes](https://github.com/MuntasirSZN/getquotes)
-4. ❌ Closed PR [#2164](https://github.com/fireship-io/git-sticker/pull/2164) in [fireship-io/git-sticker](https://github.com/fireship-io/git-sticker)
-5. 💪 Opened PR [#456](https://github.com/catppuccin/vscode-icons/pull/456) in [catppuccin/vscode-icons](https://github.com/catppuccin/vscode-icons)
+1. 🗣 Commented on [#836](https://github.com/Saghen/blink.cmp/issues/836#issuecomment-2754250265) in [Saghen/blink.cmp](https://github.com/Saghen/blink.cmp)
+2. 🔒 Closed issue [#31](https://github.com/MuntasirSZN/getquotes/issues/31) in [MuntasirSZN/getquotes](https://github.com/MuntasirSZN/getquotes)
+3. ❗ Opened issue [#31](https://github.com/MuntasirSZN/getquotes/issues/31) in [MuntasirSZN/getquotes](https://github.com/MuntasirSZN/getquotes)
+4. 🎉 Merged PR [#30](https://github.com/MuntasirSZN/getquotes/pull/30) in [MuntasirSZN/getquotes](https://github.com/MuntasirSZN/getquotes)
+5. ❌ Closed PR [#2164](https://github.com/fireship-io/git-sticker/pull/2164) in [fireship-io/git-sticker](https://github.com/fireship-io/git-sticker)
 <!--END_SECTION:activity-->
 
 </details>
