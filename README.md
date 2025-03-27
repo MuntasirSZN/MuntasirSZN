@@ -122,11 +122,11 @@
 <summary><img src="https://readme-typing-svg.demolab.com/?lines=⚡+Recent+Activity;&font=Poppins"></summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#32](https://github.com/MuntasirSZN/getquotes/pull/32) in [MuntasirSZN/getquotes](https://github.com/MuntasirSZN/getquotes)
-2. 🗣 Commented on [#836](https://github.com/Saghen/blink.cmp/issues/836#issuecomment-2754250265) in [Saghen/blink.cmp](https://github.com/Saghen/blink.cmp)
-3. 🔒 Closed issue [#31](https://github.com/MuntasirSZN/getquotes/issues/31) in [MuntasirSZN/getquotes](https://github.com/MuntasirSZN/getquotes)
-4. ❗ Opened issue [#31](https://github.com/MuntasirSZN/getquotes/issues/31) in [MuntasirSZN/getquotes](https://github.com/MuntasirSZN/getquotes)
-5. 🎉 Merged PR [#30](https://github.com/MuntasirSZN/getquotes/pull/30) in [MuntasirSZN/getquotes](https://github.com/MuntasirSZN/getquotes)
+1. 🗣 Commented on [#30](https://github.com/rachartier/tiny-code-action.nvim/issues/30#issuecomment-2757628379) in [rachartier/tiny-code-action.nvim](https://github.com/rachartier/tiny-code-action.nvim)
+2. 🎉 Merged PR [#32](https://github.com/MuntasirSZN/getquotes/pull/32) in [MuntasirSZN/getquotes](https://github.com/MuntasirSZN/getquotes)
+3. 🗣 Commented on [#836](https://github.com/Saghen/blink.cmp/issues/836#issuecomment-2754250265) in [Saghen/blink.cmp](https://github.com/Saghen/blink.cmp)
+4. 🔒 Closed issue [#31](https://github.com/MuntasirSZN/getquotes/issues/31) in [MuntasirSZN/getquotes](https://github.com/MuntasirSZN/getquotes)
+5. ❗ Opened issue [#31](https://github.com/MuntasirSZN/getquotes/issues/31) in [MuntasirSZN/getquotes](https://github.com/MuntasirSZN/getquotes)
 <!--END_SECTION:activity-->
 
 </details>
