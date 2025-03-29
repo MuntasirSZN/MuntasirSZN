@@ -122,11 +122,11 @@
 <summary><img src="https://readme-typing-svg.demolab.com/?lines=⚡+Recent+Activity;&font=Poppins"></summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#23](https://github.com/uncenter/tree-sitter-tera/pull/23#issuecomment-2763076103) in [uncenter/tree-sitter-tera](https://github.com/uncenter/tree-sitter-tera)
-2. 💪 Opened PR [#23](https://github.com/uncenter/tree-sitter-tera/pull/23) in [uncenter/tree-sitter-tera](https://github.com/uncenter/tree-sitter-tera)
-3. 🗣 Commented on [#416](https://github.com/zbirenbaum/copilot.lua/pull/416#issuecomment-2763062619) in [zbirenbaum/copilot.lua](https://github.com/zbirenbaum/copilot.lua)
-4. 🗣 Commented on [#30](https://github.com/rachartier/tiny-code-action.nvim/issues/30#issuecomment-2758748157) in [rachartier/tiny-code-action.nvim](https://github.com/rachartier/tiny-code-action.nvim)
-5. 🗣 Commented on [#30](https://github.com/rachartier/tiny-code-action.nvim/issues/30#issuecomment-2757628379) in [rachartier/tiny-code-action.nvim](https://github.com/rachartier/tiny-code-action.nvim)
+1. 🗣 Commented on [#416](https://github.com/zbirenbaum/copilot.lua/pull/416#issuecomment-2763369903) in [zbirenbaum/copilot.lua](https://github.com/zbirenbaum/copilot.lua)
+2. 🗣 Commented on [#416](https://github.com/zbirenbaum/copilot.lua/pull/416#issuecomment-2763369115) in [zbirenbaum/copilot.lua](https://github.com/zbirenbaum/copilot.lua)
+3. 🗣 Commented on [#23](https://github.com/uncenter/tree-sitter-tera/pull/23#issuecomment-2763076103) in [uncenter/tree-sitter-tera](https://github.com/uncenter/tree-sitter-tera)
+4. 💪 Opened PR [#23](https://github.com/uncenter/tree-sitter-tera/pull/23) in [uncenter/tree-sitter-tera](https://github.com/uncenter/tree-sitter-tera)
+5. 🗣 Commented on [#416](https://github.com/zbirenbaum/copilot.lua/pull/416#issuecomment-2763062619) in [zbirenbaum/copilot.lua](https://github.com/zbirenbaum/copilot.lua)
 <!--END_SECTION:activity-->
 
 </details>
