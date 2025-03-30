@@ -122,11 +122,11 @@
 <summary><img src="https://readme-typing-svg.demolab.com/?lines=⚡+Recent+Activity;&font=Poppins"></summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#28](https://github.com/anaarkei/zen-floating-toolbar/issues/28#issuecomment-2763584607) in [anaarkei/zen-floating-toolbar](https://github.com/anaarkei/zen-floating-toolbar)
-2. 🗣 Commented on [#24](https://github.com/anaarkei/zen-floating-toolbar/issues/24#issuecomment-2763584336) in [anaarkei/zen-floating-toolbar](https://github.com/anaarkei/zen-floating-toolbar)
-3. 🗣 Commented on [#416](https://github.com/zbirenbaum/copilot.lua/pull/416#issuecomment-2763369903) in [zbirenbaum/copilot.lua](https://github.com/zbirenbaum/copilot.lua)
-4. 🗣 Commented on [#416](https://github.com/zbirenbaum/copilot.lua/pull/416#issuecomment-2763369115) in [zbirenbaum/copilot.lua](https://github.com/zbirenbaum/copilot.lua)
-5. 🗣 Commented on [#23](https://github.com/uncenter/tree-sitter-tera/pull/23#issuecomment-2763076103) in [uncenter/tree-sitter-tera](https://github.com/uncenter/tree-sitter-tera)
+1. 🗣 Commented on [#17](https://github.com/AndreM222/copilot-lualine/issues/17#issuecomment-2764405536) in [AndreM222/copilot-lualine](https://github.com/AndreM222/copilot-lualine)
+2. 🗣 Commented on [#17](https://github.com/AndreM222/copilot-lualine/issues/17#issuecomment-2764405051) in [AndreM222/copilot-lualine](https://github.com/AndreM222/copilot-lualine)
+3. 🗣 Commented on [#17](https://github.com/AndreM222/copilot-lualine/issues/17#issuecomment-2764400894) in [AndreM222/copilot-lualine](https://github.com/AndreM222/copilot-lualine)
+4. ❗ Opened issue [#17](https://github.com/AndreM222/copilot-lualine/issues/17) in [AndreM222/copilot-lualine](https://github.com/AndreM222/copilot-lualine)
+5. 🗣 Commented on [#28](https://github.com/anaarkei/zen-floating-toolbar/issues/28#issuecomment-2763584607) in [anaarkei/zen-floating-toolbar](https://github.com/anaarkei/zen-floating-toolbar)
 <!--END_SECTION:activity-->
 
 </details>
