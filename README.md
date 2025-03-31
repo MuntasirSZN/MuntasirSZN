@@ -122,11 +122,11 @@
 <summary><img src="https://readme-typing-svg.demolab.com/?lines=⚡+Recent+Activity;&font=Poppins"></summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#17](https://github.com/AndreM222/copilot-lualine/issues/17#issuecomment-2764405536) in [AndreM222/copilot-lualine](https://github.com/AndreM222/copilot-lualine)
-2. 🗣 Commented on [#17](https://github.com/AndreM222/copilot-lualine/issues/17#issuecomment-2764405051) in [AndreM222/copilot-lualine](https://github.com/AndreM222/copilot-lualine)
-3. 🗣 Commented on [#17](https://github.com/AndreM222/copilot-lualine/issues/17#issuecomment-2764400894) in [AndreM222/copilot-lualine](https://github.com/AndreM222/copilot-lualine)
-4. ❗ Opened issue [#17](https://github.com/AndreM222/copilot-lualine/issues/17) in [AndreM222/copilot-lualine](https://github.com/AndreM222/copilot-lualine)
-5. 🗣 Commented on [#28](https://github.com/anaarkei/zen-floating-toolbar/issues/28#issuecomment-2763584607) in [anaarkei/zen-floating-toolbar](https://github.com/anaarkei/zen-floating-toolbar)
+1. 🗣 Commented on [#44](https://github.com/philosofonusus/ecolog.nvim/issues/44#issuecomment-2765197334) in [philosofonusus/ecolog.nvim](https://github.com/philosofonusus/ecolog.nvim)
+2. ❗ Opened issue [#44](https://github.com/philosofonusus/ecolog.nvim/issues/44) in [philosofonusus/ecolog.nvim](https://github.com/philosofonusus/ecolog.nvim)
+3. 🗣 Commented on [#17](https://github.com/AndreM222/copilot-lualine/issues/17#issuecomment-2764405536) in [AndreM222/copilot-lualine](https://github.com/AndreM222/copilot-lualine)
+4. 🗣 Commented on [#17](https://github.com/AndreM222/copilot-lualine/issues/17#issuecomment-2764405051) in [AndreM222/copilot-lualine](https://github.com/AndreM222/copilot-lualine)
+5. 🗣 Commented on [#17](https://github.com/AndreM222/copilot-lualine/issues/17#issuecomment-2764400894) in [AndreM222/copilot-lualine](https://github.com/AndreM222/copilot-lualine)
 <!--END_SECTION:activity-->
 
 </details>
