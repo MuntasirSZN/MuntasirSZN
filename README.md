@@ -122,11 +122,11 @@
 <summary><img src="https://readme-typing-svg.demolab.com/?lines=⚡+Recent+Activity;&font=Poppins"></summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#44](https://github.com/philosofonusus/ecolog.nvim/issues/44#issuecomment-2765976559) in [philosofonusus/ecolog.nvim](https://github.com/philosofonusus/ecolog.nvim)
-2. 🔒 Closed issue [#44](https://github.com/philosofonusus/ecolog.nvim/issues/44) in [philosofonusus/ecolog.nvim](https://github.com/philosofonusus/ecolog.nvim)
-3. 🗣 Commented on [#44](https://github.com/philosofonusus/ecolog.nvim/issues/44#issuecomment-2765622279) in [philosofonusus/ecolog.nvim](https://github.com/philosofonusus/ecolog.nvim)
-4. 🗣 Commented on [#29](https://github.com/soulis-1256/eagle.nvim/pull/29#issuecomment-2765265399) in [soulis-1256/eagle.nvim](https://github.com/soulis-1256/eagle.nvim)
-5. 🗣 Commented on [#44](https://github.com/philosofonusus/ecolog.nvim/issues/44#issuecomment-2765260118) in [philosofonusus/ecolog.nvim](https://github.com/philosofonusus/ecolog.nvim)
+1. ❗ Opened issue [#23](https://github.com/pyt0xic/hyprfocus/issues/23) in [pyt0xic/hyprfocus](https://github.com/pyt0xic/hyprfocus)
+2. 🗣 Commented on [#44](https://github.com/philosofonusus/ecolog.nvim/issues/44#issuecomment-2765976559) in [philosofonusus/ecolog.nvim](https://github.com/philosofonusus/ecolog.nvim)
+3. 🔒 Closed issue [#44](https://github.com/philosofonusus/ecolog.nvim/issues/44) in [philosofonusus/ecolog.nvim](https://github.com/philosofonusus/ecolog.nvim)
+4. 🗣 Commented on [#44](https://github.com/philosofonusus/ecolog.nvim/issues/44#issuecomment-2765622279) in [philosofonusus/ecolog.nvim](https://github.com/philosofonusus/ecolog.nvim)
+5. 🗣 Commented on [#29](https://github.com/soulis-1256/eagle.nvim/pull/29#issuecomment-2765265399) in [soulis-1256/eagle.nvim](https://github.com/soulis-1256/eagle.nvim)
 <!--END_SECTION:activity-->
 
 </details>
