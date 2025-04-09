@@ -122,11 +122,11 @@
 <summary><img src="https://readme-typing-svg.demolab.com/?lines=⚡+Recent+Activity;&font=Poppins"></summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#34](https://github.com/MuntasirSZN/getquotes/pull/34) in [MuntasirSZN/getquotes](https://github.com/MuntasirSZN/getquotes)
-2. 🎉 Merged PR [#33](https://github.com/MuntasirSZN/getquotes/pull/33) in [MuntasirSZN/getquotes](https://github.com/MuntasirSZN/getquotes)
-3. ❗ Opened issue [#150](https://github.com/catgoose/nvim-colorizer.lua/issues/150) in [catgoose/nvim-colorizer.lua](https://github.com/catgoose/nvim-colorizer.lua)
-4. 🗣 Commented on [#18](https://github.com/AndreM222/copilot-lualine/issues/18#issuecomment-2766910435) in [AndreM222/copilot-lualine](https://github.com/AndreM222/copilot-lualine)
-5. 🗣 Commented on [#26](https://github.com/yorukot/superfile/issues/26#issuecomment-2766649317) in [yorukot/superfile](https://github.com/yorukot/superfile)
+1. 🎉 Merged PR [#35](https://github.com/MuntasirSZN/getquotes/pull/35) in [MuntasirSZN/getquotes](https://github.com/MuntasirSZN/getquotes)
+2. 🗣 Commented on [#850](https://github.com/pwntester/octo.nvim/pull/850#issuecomment-2788126007) in [pwntester/octo.nvim](https://github.com/pwntester/octo.nvim)
+3. 🗣 Commented on [#1025](https://github.com/pwntester/octo.nvim/pull/1025#issuecomment-2788124662) in [pwntester/octo.nvim](https://github.com/pwntester/octo.nvim)
+4. 🎉 Merged PR [#34](https://github.com/MuntasirSZN/getquotes/pull/34) in [MuntasirSZN/getquotes](https://github.com/MuntasirSZN/getquotes)
+5. 🎉 Merged PR [#33](https://github.com/MuntasirSZN/getquotes/pull/33) in [MuntasirSZN/getquotes](https://github.com/MuntasirSZN/getquotes)
 <!--END_SECTION:activity-->
 
 </details>
