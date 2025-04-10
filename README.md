@@ -122,11 +122,11 @@
 <summary><img src="https://readme-typing-svg.herokuapp.com/?lines=⚡+Recent+Activity;&font=Poppins"></summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#35](https://github.com/MuntasirSZN/getquotes/pull/35) in [MuntasirSZN/getquotes](https://github.com/MuntasirSZN/getquotes)
-2. 🗣 Commented on [#850](https://github.com/pwntester/octo.nvim/pull/850#issuecomment-2788126007) in [pwntester/octo.nvim](https://github.com/pwntester/octo.nvim)
-3. 🗣 Commented on [#1025](https://github.com/pwntester/octo.nvim/pull/1025#issuecomment-2788124662) in [pwntester/octo.nvim](https://github.com/pwntester/octo.nvim)
-4. 🎉 Merged PR [#34](https://github.com/MuntasirSZN/getquotes/pull/34) in [MuntasirSZN/getquotes](https://github.com/MuntasirSZN/getquotes)
-5. 🎉 Merged PR [#33](https://github.com/MuntasirSZN/getquotes/pull/33) in [MuntasirSZN/getquotes](https://github.com/MuntasirSZN/getquotes)
+1. ❗ Opened issue [#32](https://github.com/anaarkei/zen-floating-toolbar/issues/32) in [anaarkei/zen-floating-toolbar](https://github.com/anaarkei/zen-floating-toolbar)
+2. 🎉 Merged PR [#35](https://github.com/MuntasirSZN/getquotes/pull/35) in [MuntasirSZN/getquotes](https://github.com/MuntasirSZN/getquotes)
+3. 🗣 Commented on [#850](https://github.com/pwntester/octo.nvim/pull/850#issuecomment-2788126007) in [pwntester/octo.nvim](https://github.com/pwntester/octo.nvim)
+4. 🗣 Commented on [#1025](https://github.com/pwntester/octo.nvim/pull/1025#issuecomment-2788124662) in [pwntester/octo.nvim](https://github.com/pwntester/octo.nvim)
+5. 🎉 Merged PR [#34](https://github.com/MuntasirSZN/getquotes/pull/34) in [MuntasirSZN/getquotes](https://github.com/MuntasirSZN/getquotes)
 <!--END_SECTION:activity-->
 
 </details>
