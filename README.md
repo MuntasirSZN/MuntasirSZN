@@ -1,6 +1,6 @@
 <a href="https://visitcountpro.netlify.app"><p align="right"><img src="https://visitcountpro.netlify.app/api?id=MuntasirSZN&label=Profile%20Views&color=0&icon=1&pretty=true"></p></a>
 
-<h3 align="center"><img src="https://readme-typing-svg.demolab.com/?lines=Hi+There!👋;I+Am+Muntasir;A+Linux+Enthusiast🐧;A+Nature+Lover🌱;&font=Poppins&center=true"></h3>
+<h3 align="center"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!👋;I+Am+Muntasir;A+Linux+Enthusiast🐧;A+Nature+Lover🌱;&font=Poppins&center=true"></h3>
 
 <p align="center">
   <img src="https://github.com/MuntasirSZN/MuntasirSZN/blob/master/macchiato.png?raw=true" width="200" />
@@ -19,7 +19,7 @@
 ---
 
 <details>
-<summary><h3 align="center"><img src="https://readme-typing-svg.demolab.com/?lines=📊My+Statistics;&font=Poppins"></h3></summary>
+<summary><h3 align="center"><img src="https://readme-typing-svg.herokuapp.com/?lines=📊My+Statistics;&font=Poppins"></h3></summary>
 
 <p align="center"><img src="https://streak-stats.demolab.com/?user=MuntasirSZN&theme=tokyonight&hide_border=true"/></p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/?username=MuntasirSZN&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&rank_icon=github"/></p>
@@ -29,7 +29,7 @@
 </details>
 
 <details>
-<summary><h3 align="left"><img src="https://readme-typing-svg.demolab.com/?lines=🌐+Socials;&font=Poppins"></h3></summary>
+<summary><h3 align="left"><img src="https://readme-typing-svg.herokuapp.com/?lines=🌐+Socials;&font=Poppins"></h3></summary>
 
 <p>
   <a href="https://discord.com/users/1188396605125165126"><img src="https://go-skill-icons.vercel.app/api/icons?i=discord" alt="Discord"></a>
@@ -42,7 +42,7 @@
 </details>
 
 <details>
-  <summary><h3 align="left"><img src="https://readme-typing-svg.demolab.com/?lines=💻+Frameworks,+Libraries+And+Tools;💻+That+I+Use+Everyday;&font=Poppins"></h3></summary>
+  <summary><h3 align="left"><img src="https://readme-typing-svg.herokuapp.com/?lines=💻+Frameworks,+Libraries+And+Tools;💻+That+I+Use+Everyday;&font=Poppins"></h3></summary>
 
   <p align="center">
     <a href="https://zen-browser.app"><img src="https://go-skill-icons.vercel.app/api/icons?i=zen" alt="Zen"></a>
@@ -119,7 +119,7 @@
 
 <details>
 
-<summary><img src="https://readme-typing-svg.demolab.com/?lines=⚡+Recent+Activity;&font=Poppins"></summary>
+<summary><img src="https://readme-typing-svg.herokuapp.com/?lines=⚡+Recent+Activity;&font=Poppins"></summary>
 
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#35](https://github.com/MuntasirSZN/getquotes/pull/35) in [MuntasirSZN/getquotes](https://github.com/MuntasirSZN/getquotes)
@@ -133,4 +133,4 @@
 
 <img src="https://raw.githubusercontent.com/MuntasirSZN/MuntasirSZN/refs/heads/output/github-contribution-grid-snake.svg">
 
-<p align="center"><img src="https://readme-typing-svg.demolab.com/?lines=Thanks+For+Visiting+💖;&font=Poppins&center=true"></p>
+<p align="center"><img src="https://readme-typing-svg.herokuapp.com/?lines=Thanks+For+Visiting+💖;&font=Poppins&center=true"></p>
