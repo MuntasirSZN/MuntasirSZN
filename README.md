@@ -122,11 +122,11 @@
 <summary><img src="https://readme-typing-svg.herokuapp.com/?lines=⚡+Recent+Activity;&font=Poppins"></summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#448](https://github.com/zbirenbaum/copilot.lua/pull/448) in [zbirenbaum/copilot.lua](https://github.com/zbirenbaum/copilot.lua)
-2. ❗ Opened issue [#32](https://github.com/anaarkei/zen-floating-toolbar/issues/32) in [anaarkei/zen-floating-toolbar](https://github.com/anaarkei/zen-floating-toolbar)
-3. 🎉 Merged PR [#35](https://github.com/MuntasirSZN/getquotes/pull/35) in [MuntasirSZN/getquotes](https://github.com/MuntasirSZN/getquotes)
-4. 🗣 Commented on [#850](https://github.com/pwntester/octo.nvim/pull/850#issuecomment-2788126007) in [pwntester/octo.nvim](https://github.com/pwntester/octo.nvim)
-5. 🗣 Commented on [#1025](https://github.com/pwntester/octo.nvim/pull/1025#issuecomment-2788124662) in [pwntester/octo.nvim](https://github.com/pwntester/octo.nvim)
+1. ❗ Opened issue [#497](https://github.com/nvim-neotest/neotest/issues/497) in [nvim-neotest/neotest](https://github.com/nvim-neotest/neotest)
+2. ❗ Opened issue [#79](https://github.com/marilari88/neotest-vitest/issues/79) in [marilari88/neotest-vitest](https://github.com/marilari88/neotest-vitest)
+3. 🗣 Commented on [#448](https://github.com/zbirenbaum/copilot.lua/pull/448#issuecomment-2796432775) in [zbirenbaum/copilot.lua](https://github.com/zbirenbaum/copilot.lua)
+4. 💪 Opened PR [#448](https://github.com/zbirenbaum/copilot.lua/pull/448) in [zbirenbaum/copilot.lua](https://github.com/zbirenbaum/copilot.lua)
+5. ❗ Opened issue [#32](https://github.com/anaarkei/zen-floating-toolbar/issues/32) in [anaarkei/zen-floating-toolbar](https://github.com/anaarkei/zen-floating-toolbar)
 <!--END_SECTION:activity-->
 
 </details>
