@@ -122,11 +122,11 @@
 <summary><img src="https://readme-typing-svg.herokuapp.com/?lines=⚡+Recent+Activity;&font=Poppins"></summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#448](https://github.com/zbirenbaum/copilot.lua/pull/448#issuecomment-2797034942) in [zbirenbaum/copilot.lua](https://github.com/zbirenbaum/copilot.lua)
-2. 🗣 Commented on [#448](https://github.com/zbirenbaum/copilot.lua/pull/448#issuecomment-2797003932) in [zbirenbaum/copilot.lua](https://github.com/zbirenbaum/copilot.lua)
-3. 🗣 Commented on [#448](https://github.com/zbirenbaum/copilot.lua/pull/448#issuecomment-2796990502) in [zbirenbaum/copilot.lua](https://github.com/zbirenbaum/copilot.lua)
-4. 🗣 Commented on [#448](https://github.com/zbirenbaum/copilot.lua/pull/448#issuecomment-2796809693) in [zbirenbaum/copilot.lua](https://github.com/zbirenbaum/copilot.lua)
-5. 🗣 Commented on [#448](https://github.com/zbirenbaum/copilot.lua/pull/448#issuecomment-2796792879) in [zbirenbaum/copilot.lua](https://github.com/zbirenbaum/copilot.lua)
+1. 🔒 Closed issue [#497](https://github.com/nvim-neotest/neotest/issues/497) in [nvim-neotest/neotest](https://github.com/nvim-neotest/neotest)
+2. 🗣 Commented on [#497](https://github.com/nvim-neotest/neotest/issues/497#issuecomment-2797155368) in [nvim-neotest/neotest](https://github.com/nvim-neotest/neotest)
+3. 💪 Opened PR [#141](https://github.com/nvim-neotest/neotest-jest/pull/141) in [nvim-neotest/neotest-jest](https://github.com/nvim-neotest/neotest-jest)
+4. 💪 Opened PR [#1734](https://github.com/folke/snacks.nvim/pull/1734) in [folke/snacks.nvim](https://github.com/folke/snacks.nvim)
+5. ❌ Closed PR [#1733](https://github.com/folke/snacks.nvim/pull/1733) in [folke/snacks.nvim](https://github.com/folke/snacks.nvim)
 <!--END_SECTION:activity-->
 
 </details>
