@@ -122,11 +122,11 @@
 <summary><img src="https://readme-typing-svg.herokuapp.com/?lines=⚡+Recent+Activity;&font=Poppins"></summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#459](https://github.com/zbirenbaum/copilot.lua/pull/459) in [zbirenbaum/copilot.lua](https://github.com/zbirenbaum/copilot.lua)
-2. 🗣 Commented on [#22](https://github.com/nvzone/menu/issues/22#issuecomment-2800539625) in [nvzone/menu](https://github.com/nvzone/menu)
-3. 🗣 Commented on [#22](https://github.com/nvzone/menu/issues/22#issuecomment-2800537098) in [nvzone/menu](https://github.com/nvzone/menu)
-4. 🗣 Commented on [#453](https://github.com/zbirenbaum/copilot.lua/pull/453#issuecomment-2800313367) in [zbirenbaum/copilot.lua](https://github.com/zbirenbaum/copilot.lua)
-5. 💪 Opened PR [#453](https://github.com/zbirenbaum/copilot.lua/pull/453) in [zbirenbaum/copilot.lua](https://github.com/zbirenbaum/copilot.lua)
+1. ❗ Opened issue [#85](https://github.com/lewis6991/hover.nvim/issues/85) in [lewis6991/hover.nvim](https://github.com/lewis6991/hover.nvim)
+2. 🗣 Commented on [#459](https://github.com/zbirenbaum/copilot.lua/pull/459#issuecomment-2804862608) in [zbirenbaum/copilot.lua](https://github.com/zbirenbaum/copilot.lua)
+3. 💪 Opened PR [#459](https://github.com/zbirenbaum/copilot.lua/pull/459) in [zbirenbaum/copilot.lua](https://github.com/zbirenbaum/copilot.lua)
+4. 🗣 Commented on [#22](https://github.com/nvzone/menu/issues/22#issuecomment-2800539625) in [nvzone/menu](https://github.com/nvzone/menu)
+5. 🗣 Commented on [#22](https://github.com/nvzone/menu/issues/22#issuecomment-2800537098) in [nvzone/menu](https://github.com/nvzone/menu)
 <!--END_SECTION:activity-->
 
 </details>
