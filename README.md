@@ -122,11 +122,11 @@
 <summary><img src="https://readme-typing-svg.herokuapp.com/?lines=⚡+Recent+Activity;&font=Poppins"></summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#461](https://github.com/zbirenbaum/copilot.lua/pull/461#issuecomment-2805821671) in [zbirenbaum/copilot.lua](https://github.com/zbirenbaum/copilot.lua)
-2. 💪 Opened PR [#461](https://github.com/zbirenbaum/copilot.lua/pull/461) in [zbirenbaum/copilot.lua](https://github.com/zbirenbaum/copilot.lua)
-3. ❗ Opened issue [#85](https://github.com/lewis6991/hover.nvim/issues/85) in [lewis6991/hover.nvim](https://github.com/lewis6991/hover.nvim)
-4. 🗣 Commented on [#459](https://github.com/zbirenbaum/copilot.lua/pull/459#issuecomment-2804862608) in [zbirenbaum/copilot.lua](https://github.com/zbirenbaum/copilot.lua)
-5. 💪 Opened PR [#459](https://github.com/zbirenbaum/copilot.lua/pull/459) in [zbirenbaum/copilot.lua](https://github.com/zbirenbaum/copilot.lua)
+1. 🗣 Commented on [#85](https://github.com/lewis6991/hover.nvim/issues/85#issuecomment-2806714017) in [lewis6991/hover.nvim](https://github.com/lewis6991/hover.nvim)
+2. 🗣 Commented on [#461](https://github.com/zbirenbaum/copilot.lua/pull/461#issuecomment-2806651818) in [zbirenbaum/copilot.lua](https://github.com/zbirenbaum/copilot.lua)
+3. 🗣 Commented on [#461](https://github.com/zbirenbaum/copilot.lua/pull/461#issuecomment-2806643638) in [zbirenbaum/copilot.lua](https://github.com/zbirenbaum/copilot.lua)
+4. 🗣 Commented on [#461](https://github.com/zbirenbaum/copilot.lua/pull/461#issuecomment-2806634213) in [zbirenbaum/copilot.lua](https://github.com/zbirenbaum/copilot.lua)
+5. 🗣 Commented on [#461](https://github.com/zbirenbaum/copilot.lua/pull/461#issuecomment-2805821671) in [zbirenbaum/copilot.lua](https://github.com/zbirenbaum/copilot.lua)
 <!--END_SECTION:activity-->
 
 </details>
