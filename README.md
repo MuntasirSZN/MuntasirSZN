@@ -122,11 +122,11 @@
 <summary><img src="https://readme-typing-svg.herokuapp.com/?lines=⚡+Recent+Activity;&font=Poppins"></summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#85](https://github.com/lewis6991/hover.nvim/issues/85#issuecomment-2806714017) in [lewis6991/hover.nvim](https://github.com/lewis6991/hover.nvim)
-2. 🗣 Commented on [#461](https://github.com/zbirenbaum/copilot.lua/pull/461#issuecomment-2806651818) in [zbirenbaum/copilot.lua](https://github.com/zbirenbaum/copilot.lua)
-3. 🗣 Commented on [#461](https://github.com/zbirenbaum/copilot.lua/pull/461#issuecomment-2806643638) in [zbirenbaum/copilot.lua](https://github.com/zbirenbaum/copilot.lua)
-4. 🗣 Commented on [#461](https://github.com/zbirenbaum/copilot.lua/pull/461#issuecomment-2806634213) in [zbirenbaum/copilot.lua](https://github.com/zbirenbaum/copilot.lua)
-5. 🗣 Commented on [#461](https://github.com/zbirenbaum/copilot.lua/pull/461#issuecomment-2805821671) in [zbirenbaum/copilot.lua](https://github.com/zbirenbaum/copilot.lua)
+1. 🎉 Merged PR [#15](https://github.com/MuntasirSZN/sublime-tera/pull/15) in [MuntasirSZN/sublime-tera](https://github.com/MuntasirSZN/sublime-tera)
+2. 🗣 Commented on [#85](https://github.com/lewis6991/hover.nvim/issues/85#issuecomment-2806714017) in [lewis6991/hover.nvim](https://github.com/lewis6991/hover.nvim)
+3. 🗣 Commented on [#461](https://github.com/zbirenbaum/copilot.lua/pull/461#issuecomment-2806651818) in [zbirenbaum/copilot.lua](https://github.com/zbirenbaum/copilot.lua)
+4. 🗣 Commented on [#461](https://github.com/zbirenbaum/copilot.lua/pull/461#issuecomment-2806643638) in [zbirenbaum/copilot.lua](https://github.com/zbirenbaum/copilot.lua)
+5. 🗣 Commented on [#461](https://github.com/zbirenbaum/copilot.lua/pull/461#issuecomment-2806634213) in [zbirenbaum/copilot.lua](https://github.com/zbirenbaum/copilot.lua)
 <!--END_SECTION:activity-->
 
 </details>
