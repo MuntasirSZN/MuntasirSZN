@@ -122,11 +122,11 @@
 <summary><img src="https://readme-typing-svg.herokuapp.com/?lines=⚡+Recent+Activity;&font=Poppins"></summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#18](https://github.com/MuntasirSZN/sublime-tera/pull/18) in [MuntasirSZN/sublime-tera](https://github.com/MuntasirSZN/sublime-tera)
-2. 💪 Opened PR [#19](https://github.com/MuntasirSZN/sublime-tera/pull/19) in [MuntasirSZN/sublime-tera](https://github.com/MuntasirSZN/sublime-tera)
-3. 🎉 Merged PR [#17](https://github.com/MuntasirSZN/sublime-tera/pull/17) in [MuntasirSZN/sublime-tera](https://github.com/MuntasirSZN/sublime-tera)
-4. 🎉 Merged PR [#36](https://github.com/MuntasirSZN/getquotes/pull/36) in [MuntasirSZN/getquotes](https://github.com/MuntasirSZN/getquotes)
-5. 🗣 Commented on [#464](https://github.com/zbirenbaum/copilot.lua/pull/464#issuecomment-2812706345) in [zbirenbaum/copilot.lua](https://github.com/zbirenbaum/copilot.lua)
+1. 🗣 Commented on [#19](https://github.com/MuntasirSZN/sublime-tera/pull/19#issuecomment-2816770082) in [MuntasirSZN/sublime-tera](https://github.com/MuntasirSZN/sublime-tera)
+2. 🚀 Published release [v1.0.1](https://github.com/MuntasirSZN/sublime-tera/releases/tag/v1.0.1) in [MuntasirSZN/sublime-tera](https://github.com/MuntasirSZN/sublime-tera)
+3. 🎉 Merged PR [#19](https://github.com/MuntasirSZN/sublime-tera/pull/19) in [MuntasirSZN/sublime-tera](https://github.com/MuntasirSZN/sublime-tera)
+4. 🎉 Merged PR [#18](https://github.com/MuntasirSZN/sublime-tera/pull/18) in [MuntasirSZN/sublime-tera](https://github.com/MuntasirSZN/sublime-tera)
+5. 💪 Opened PR [#19](https://github.com/MuntasirSZN/sublime-tera/pull/19) in [MuntasirSZN/sublime-tera](https://github.com/MuntasirSZN/sublime-tera)
 <!--END_SECTION:activity-->
 
 </details>
