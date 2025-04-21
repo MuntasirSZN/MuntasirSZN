@@ -122,11 +122,11 @@
 <summary><img src="https://readme-typing-svg.herokuapp.com/?lines=⚡+Recent+Activity;&font=Poppins"></summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#19](https://github.com/MuntasirSZN/sublime-tera/pull/19#issuecomment-2816770082) in [MuntasirSZN/sublime-tera](https://github.com/MuntasirSZN/sublime-tera)
-2. 🚀 Published release [v1.0.1](https://github.com/MuntasirSZN/sublime-tera/releases/tag/v1.0.1) in [MuntasirSZN/sublime-tera](https://github.com/MuntasirSZN/sublime-tera)
-3. 🎉 Merged PR [#19](https://github.com/MuntasirSZN/sublime-tera/pull/19) in [MuntasirSZN/sublime-tera](https://github.com/MuntasirSZN/sublime-tera)
-4. 🎉 Merged PR [#18](https://github.com/MuntasirSZN/sublime-tera/pull/18) in [MuntasirSZN/sublime-tera](https://github.com/MuntasirSZN/sublime-tera)
-5. 💪 Opened PR [#19](https://github.com/MuntasirSZN/sublime-tera/pull/19) in [MuntasirSZN/sublime-tera](https://github.com/MuntasirSZN/sublime-tera)
+1. 🗣 Commented on [#38](https://github.com/MuntasirSZN/getquotes/pull/38#issuecomment-2817677581) in [MuntasirSZN/getquotes](https://github.com/MuntasirSZN/getquotes)
+2. 🗣 Commented on [#38](https://github.com/MuntasirSZN/getquotes/pull/38#issuecomment-2817676950) in [MuntasirSZN/getquotes](https://github.com/MuntasirSZN/getquotes)
+3. 🎉 Merged PR [#37](https://github.com/MuntasirSZN/getquotes/pull/37) in [MuntasirSZN/getquotes](https://github.com/MuntasirSZN/getquotes)
+4. 🗣 Commented on [#19](https://github.com/MuntasirSZN/sublime-tera/pull/19#issuecomment-2816770082) in [MuntasirSZN/sublime-tera](https://github.com/MuntasirSZN/sublime-tera)
+5. 🚀 Published release [v1.0.1](https://github.com/MuntasirSZN/sublime-tera/releases/tag/v1.0.1) in [MuntasirSZN/sublime-tera](https://github.com/MuntasirSZN/sublime-tera)
 <!--END_SECTION:activity-->
 
 </details>
