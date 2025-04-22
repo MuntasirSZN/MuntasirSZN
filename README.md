@@ -122,11 +122,11 @@
 <summary><img src="https://readme-typing-svg.herokuapp.com/?lines=⚡+Recent+Activity;&font=Poppins"></summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/catppuccin/superfile/pull/5) in [catppuccin/superfile](https://github.com/catppuccin/superfile)
-2. 🗣 Commented on [#38](https://github.com/MuntasirSZN/getquotes/pull/38#issuecomment-2817677581) in [MuntasirSZN/getquotes](https://github.com/MuntasirSZN/getquotes)
-3. 🗣 Commented on [#38](https://github.com/MuntasirSZN/getquotes/pull/38#issuecomment-2817676950) in [MuntasirSZN/getquotes](https://github.com/MuntasirSZN/getquotes)
-4. 🎉 Merged PR [#37](https://github.com/MuntasirSZN/getquotes/pull/37) in [MuntasirSZN/getquotes](https://github.com/MuntasirSZN/getquotes)
-5. 🗣 Commented on [#19](https://github.com/MuntasirSZN/sublime-tera/pull/19#issuecomment-2816770082) in [MuntasirSZN/sublime-tera](https://github.com/MuntasirSZN/sublime-tera)
+1. 💪 Opened PR [#3757](https://github.com/neovim/nvim-lspconfig/pull/3757) in [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig)
+2. 🎉 Merged PR [#5](https://github.com/catppuccin/superfile/pull/5) in [catppuccin/superfile](https://github.com/catppuccin/superfile)
+3. 🗣 Commented on [#38](https://github.com/MuntasirSZN/getquotes/pull/38#issuecomment-2817677581) in [MuntasirSZN/getquotes](https://github.com/MuntasirSZN/getquotes)
+4. 🗣 Commented on [#38](https://github.com/MuntasirSZN/getquotes/pull/38#issuecomment-2817676950) in [MuntasirSZN/getquotes](https://github.com/MuntasirSZN/getquotes)
+5. 🎉 Merged PR [#37](https://github.com/MuntasirSZN/getquotes/pull/37) in [MuntasirSZN/getquotes](https://github.com/MuntasirSZN/getquotes)
 <!--END_SECTION:activity-->
 
 </details>
