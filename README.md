@@ -122,11 +122,11 @@
 <summary><img src="https://readme-typing-svg.herokuapp.com/?lines=⚡+Recent+Activity;&font=Poppins"></summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#30](https://github.com/rachartier/tiny-code-action.nvim/issues/30#issuecomment-2823166987) in [rachartier/tiny-code-action.nvim](https://github.com/rachartier/tiny-code-action.nvim)
-2. ❌ Closed PR [#3761](https://github.com/neovim/nvim-lspconfig/pull/3761) in [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig)
-3. 🗣 Commented on [#3761](https://github.com/neovim/nvim-lspconfig/pull/3761#issuecomment-2821084672) in [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig)
-4. 💪 Opened PR [#3761](https://github.com/neovim/nvim-lspconfig/pull/3761) in [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig)
-5. 💪 Opened PR [#3757](https://github.com/neovim/nvim-lspconfig/pull/3757) in [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig)
+1. 🗣 Commented on [#85](https://github.com/cordx56/rustowl/pull/85#issuecomment-2829134069) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
+2. 🗣 Commented on [#30](https://github.com/rachartier/tiny-code-action.nvim/issues/30#issuecomment-2823166987) in [rachartier/tiny-code-action.nvim](https://github.com/rachartier/tiny-code-action.nvim)
+3. ❌ Closed PR [#3761](https://github.com/neovim/nvim-lspconfig/pull/3761) in [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig)
+4. 🗣 Commented on [#3761](https://github.com/neovim/nvim-lspconfig/pull/3761#issuecomment-2821084672) in [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig)
+5. 💪 Opened PR [#3761](https://github.com/neovim/nvim-lspconfig/pull/3761) in [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig)
 <!--END_SECTION:activity-->
 
 </details>
