@@ -122,11 +122,11 @@
 <summary><img src="https://readme-typing-svg.herokuapp.com/?lines=⚡+Recent+Activity;&font=Poppins"></summary>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#666](https://github.com/yorukot/superfile/issues/666) in [yorukot/superfile](https://github.com/yorukot/superfile)
-2. 🗣 Commented on [#85](https://github.com/cordx56/rustowl/pull/85#issuecomment-2829134069) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
-3. 🗣 Commented on [#30](https://github.com/rachartier/tiny-code-action.nvim/issues/30#issuecomment-2823166987) in [rachartier/tiny-code-action.nvim](https://github.com/rachartier/tiny-code-action.nvim)
-4. ❌ Closed PR [#3761](https://github.com/neovim/nvim-lspconfig/pull/3761) in [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig)
-5. 🗣 Commented on [#3761](https://github.com/neovim/nvim-lspconfig/pull/3761#issuecomment-2821084672) in [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig)
+1. 🎉 Merged PR [#40](https://github.com/MuntasirSZN/getquotes/pull/40) in [MuntasirSZN/getquotes](https://github.com/MuntasirSZN/getquotes)
+2. 🎉 Merged PR [#39](https://github.com/MuntasirSZN/getquotes/pull/39) in [MuntasirSZN/getquotes](https://github.com/MuntasirSZN/getquotes)
+3. 🔒 Closed issue [#666](https://github.com/yorukot/superfile/issues/666) in [yorukot/superfile](https://github.com/yorukot/superfile)
+4. 🗣 Commented on [#85](https://github.com/cordx56/rustowl/pull/85#issuecomment-2829134069) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
+5. 🗣 Commented on [#30](https://github.com/rachartier/tiny-code-action.nvim/issues/30#issuecomment-2823166987) in [rachartier/tiny-code-action.nvim](https://github.com/rachartier/tiny-code-action.nvim)
 <!--END_SECTION:activity-->
 
 </details>
