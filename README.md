@@ -122,11 +122,11 @@
 <summary><img src="https://readme-typing-svg.herokuapp.com/?lines=⚡+Recent+Activity;&font=Poppins"></summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#145](https://github.com/cordx56/rustowl/pull/145) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
-2. 🗣 Commented on [#143](https://github.com/cordx56/rustowl/pull/143#issuecomment-2857242872) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
-3. 🎉 Merged PR [#143](https://github.com/cordx56/rustowl/pull/143) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
-4. 🎉 Merged PR [#46](https://github.com/MuntasirSZN/getquotes/pull/46) in [MuntasirSZN/getquotes](https://github.com/MuntasirSZN/getquotes)
-5. 🎉 Merged PR [#45](https://github.com/MuntasirSZN/getquotes/pull/45) in [MuntasirSZN/getquotes](https://github.com/MuntasirSZN/getquotes)
+1. 🗣 Commented on [#148](https://github.com/cordx56/rustowl/pull/148#issuecomment-2858240876) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
+2. 💪 Opened PR [#148](https://github.com/cordx56/rustowl/pull/148) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
+3. 🎉 Merged PR [#145](https://github.com/cordx56/rustowl/pull/145) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
+4. 🗣 Commented on [#143](https://github.com/cordx56/rustowl/pull/143#issuecomment-2857242872) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
+5. 🎉 Merged PR [#143](https://github.com/cordx56/rustowl/pull/143) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
 <!--END_SECTION:activity-->
 
 </details>
