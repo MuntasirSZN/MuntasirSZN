@@ -122,11 +122,11 @@
 <summary><img src="https://readme-typing-svg.herokuapp.com/?lines=⚡+Recent+Activity;&font=Poppins"></summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#90](https://github.com/cordx56/rustowl/issues/90#issuecomment-2863198057) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
-2. 🗣 Commented on [#90](https://github.com/cordx56/rustowl/issues/90#issuecomment-2863190286) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
-3. 🗣 Commented on [#90](https://github.com/cordx56/rustowl/issues/90#issuecomment-2863163248) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
-4. 🗣 Commented on [#90](https://github.com/cordx56/rustowl/issues/90#issuecomment-2863158918) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
-5. 🎉 Merged PR [#150](https://github.com/cordx56/rustowl/pull/150) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
+1. 🗣 Commented on [#90](https://github.com/cordx56/rustowl/issues/90#issuecomment-2863255942) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
+2. 🗣 Commented on [#90](https://github.com/cordx56/rustowl/issues/90#issuecomment-2863198057) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
+3. 🗣 Commented on [#90](https://github.com/cordx56/rustowl/issues/90#issuecomment-2863190286) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
+4. 🗣 Commented on [#90](https://github.com/cordx56/rustowl/issues/90#issuecomment-2863163248) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
+5. 🗣 Commented on [#90](https://github.com/cordx56/rustowl/issues/90#issuecomment-2863158918) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
 <!--END_SECTION:activity-->
 
 </details>
