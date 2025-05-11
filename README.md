@@ -122,11 +122,11 @@
 <summary><img src="https://readme-typing-svg.herokuapp.com/?lines=⚡+Recent+Activity;&font=Poppins"></summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#156](https://github.com/cordx56/rustowl/pull/156) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
-2. 🎉 Merged PR [#154](https://github.com/cordx56/rustowl/pull/154) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
-3. 🗣 Commented on [#153](https://github.com/cordx56/rustowl/pull/153#issuecomment-2868871034) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
-4. 🗣 Commented on [#152](https://github.com/cordx56/rustowl/pull/152#issuecomment-2866354637) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
-5. 🗣 Commented on [#152](https://github.com/cordx56/rustowl/pull/152#issuecomment-2866351458) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
+1. 🗣 Commented on [#2](https://github.com/uncenter/tree-sitter-tera/issues/2#issuecomment-2869972400) in [uncenter/tree-sitter-tera](https://github.com/uncenter/tree-sitter-tera)
+2. 💪 Opened PR [#156](https://github.com/cordx56/rustowl/pull/156) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
+3. 🎉 Merged PR [#154](https://github.com/cordx56/rustowl/pull/154) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
+4. 🗣 Commented on [#153](https://github.com/cordx56/rustowl/pull/153#issuecomment-2868871034) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
+5. 🗣 Commented on [#152](https://github.com/cordx56/rustowl/pull/152#issuecomment-2866354637) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
 <!--END_SECTION:activity-->
 
 </details>
