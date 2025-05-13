@@ -21,7 +21,7 @@
 <details>
 <summary><h3 align="center"><img src="https://readme-typing-svg.herokuapp.com/?lines=📊My+Statistics;&font=Poppins"></h3></summary>
 
-<p align="center"><img src="https://streak-stats.demolab.com/?user=MuntasirSZN&theme=tokyonight&hide_border=true"/></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MuntasirSZN&theme=tokyonight&hide_border=true"/></p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/?username=MuntasirSZN&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&rank_icon=github"/></p>
 <p align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MuntasirSZN&theme=tokyonight"/></p>
 <p align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=MuntasirSZN&theme=tokyo-night"/></p>
