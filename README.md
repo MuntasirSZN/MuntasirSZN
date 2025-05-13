@@ -122,11 +122,11 @@
 <summary><img src="https://readme-typing-svg.herokuapp.com/?lines=⚡+Recent+Activity;&font=Poppins"></summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2556](https://github.com/better-auth/better-auth/issues/2556#issuecomment-2876758256) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
-2. 🎉 Merged PR [#164](https://github.com/cordx56/rustowl/pull/164) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
-3. 🗣 Commented on [#164](https://github.com/cordx56/rustowl/pull/164#issuecomment-2875692144) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
-4. ❌ Reopened PR [#164](https://github.com/cordx56/rustowl/pull/164) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
-5. ❌ Closed PR [#164](https://github.com/cordx56/rustowl/pull/164) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
+1. 💪 Opened PR [#2](https://github.com/ping-maxwell/better-auth-dashboard/pull/2) in [ping-maxwell/better-auth-dashboard](https://github.com/ping-maxwell/better-auth-dashboard)
+2. 🗣 Commented on [#2556](https://github.com/better-auth/better-auth/issues/2556#issuecomment-2876758256) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
+3. 🎉 Merged PR [#164](https://github.com/cordx56/rustowl/pull/164) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
+4. 🗣 Commented on [#164](https://github.com/cordx56/rustowl/pull/164#issuecomment-2875692144) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
+5. ❌ Reopened PR [#164](https://github.com/cordx56/rustowl/pull/164) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
 <!--END_SECTION:activity-->
 
 </details>
