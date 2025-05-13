@@ -122,11 +122,11 @@
 <summary><img src="https://readme-typing-svg.herokuapp.com/?lines=⚡+Recent+Activity;&font=Poppins"></summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#164](https://github.com/cordx56/rustowl/pull/164#issuecomment-2875624574) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
-2. 🗣 Commented on [#164](https://github.com/cordx56/rustowl/pull/164#issuecomment-2875623977) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
-3. 🎉 Merged PR [#163](https://github.com/cordx56/rustowl/pull/163) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
-4. 🗣 Commented on [#20](https://github.com/MuntasirSZN/sublime-tera/pull/20#issuecomment-2875416297) in [MuntasirSZN/sublime-tera](https://github.com/MuntasirSZN/sublime-tera)
-5. 🚀 Published release [v1.1.0](https://github.com/MuntasirSZN/sublime-tera/releases/tag/v1.1.0) in [MuntasirSZN/sublime-tera](https://github.com/MuntasirSZN/sublime-tera)
+1. 🎉 Merged PR [#164](https://github.com/cordx56/rustowl/pull/164) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
+2. 🗣 Commented on [#164](https://github.com/cordx56/rustowl/pull/164#issuecomment-2875692144) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
+3. ❌ Reopened PR [#164](https://github.com/cordx56/rustowl/pull/164) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
+4. ❌ Closed PR [#164](https://github.com/cordx56/rustowl/pull/164) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
+5. 🗣 Commented on [#164](https://github.com/cordx56/rustowl/pull/164#issuecomment-2875624574) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
 <!--END_SECTION:activity-->
 
 </details>
