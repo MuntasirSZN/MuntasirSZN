@@ -122,11 +122,11 @@
 <summary><img src="https://readme-typing-svg.herokuapp.com/?lines=⚡+Recent+Activity;&font=Poppins"></summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#158](https://github.com/cordx56/rustowl/pull/158) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
-2. 🗣 Commented on [#1734](https://github.com/folke/snacks.nvim/pull/1734#issuecomment-2871932440) in [folke/snacks.nvim](https://github.com/folke/snacks.nvim)
-3. 🎉 Merged PR [#47](https://github.com/MuntasirSZN/getquotes/pull/47) in [MuntasirSZN/getquotes](https://github.com/MuntasirSZN/getquotes)
-4. 🗣 Commented on [#1734](https://github.com/folke/snacks.nvim/pull/1734#issuecomment-2870754443) in [folke/snacks.nvim](https://github.com/folke/snacks.nvim)
-5. 🗣 Commented on [#2](https://github.com/uncenter/tree-sitter-tera/issues/2#issuecomment-2870754100) in [uncenter/tree-sitter-tera](https://github.com/uncenter/tree-sitter-tera)
+1. 💪 Opened PR [#20](https://github.com/MuntasirSZN/sublime-tera/pull/20) in [MuntasirSZN/sublime-tera](https://github.com/MuntasirSZN/sublime-tera)
+2. 🎉 Merged PR [#158](https://github.com/cordx56/rustowl/pull/158) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
+3. 🗣 Commented on [#1734](https://github.com/folke/snacks.nvim/pull/1734#issuecomment-2871932440) in [folke/snacks.nvim](https://github.com/folke/snacks.nvim)
+4. 🎉 Merged PR [#47](https://github.com/MuntasirSZN/getquotes/pull/47) in [MuntasirSZN/getquotes](https://github.com/MuntasirSZN/getquotes)
+5. 🗣 Commented on [#1734](https://github.com/folke/snacks.nvim/pull/1734#issuecomment-2870754443) in [folke/snacks.nvim](https://github.com/folke/snacks.nvim)
 <!--END_SECTION:activity-->
 
 </details>
