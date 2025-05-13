@@ -122,11 +122,11 @@
 <summary><img src="https://readme-typing-svg.herokuapp.com/?lines=⚡+Recent+Activity;&font=Poppins"></summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#161](https://github.com/cordx56/rustowl/issues/161#issuecomment-2875109950) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
-2. 🗣 Commented on [#156](https://github.com/cordx56/rustowl/pull/156#issuecomment-2875108192) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
-3. 💪 Opened PR [#162](https://github.com/cordx56/rustowl/pull/162) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
-4. 🗣 Commented on [#12](https://github.com/MuntasirSZN/sublime-tera/pull/12#issuecomment-2875012977) in [MuntasirSZN/sublime-tera](https://github.com/MuntasirSZN/sublime-tera)
-5. 💪 Opened PR [#20](https://github.com/MuntasirSZN/sublime-tera/pull/20) in [MuntasirSZN/sublime-tera](https://github.com/MuntasirSZN/sublime-tera)
+1. 🗣 Commented on [#20](https://github.com/MuntasirSZN/sublime-tera/pull/20#issuecomment-2875416297) in [MuntasirSZN/sublime-tera](https://github.com/MuntasirSZN/sublime-tera)
+2. 🚀 Published release [v1.1.0](https://github.com/MuntasirSZN/sublime-tera/releases/tag/v1.1.0) in [MuntasirSZN/sublime-tera](https://github.com/MuntasirSZN/sublime-tera)
+3. 🎉 Merged PR [#20](https://github.com/MuntasirSZN/sublime-tera/pull/20) in [MuntasirSZN/sublime-tera](https://github.com/MuntasirSZN/sublime-tera)
+4. 🗣 Commented on [#161](https://github.com/cordx56/rustowl/issues/161#issuecomment-2875109950) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
+5. 🗣 Commented on [#156](https://github.com/cordx56/rustowl/pull/156#issuecomment-2875108192) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
 <!--END_SECTION:activity-->
 
 </details>
