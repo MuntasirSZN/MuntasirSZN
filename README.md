@@ -122,11 +122,11 @@
 <summary><img src="https://readme-typing-svg.herokuapp.com/?lines=⚡+Recent+Activity;&font=Poppins"></summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/uncenter/tree-sitter-tera/issues/2#issuecomment-2880474242) in [uncenter/tree-sitter-tera](https://github.com/uncenter/tree-sitter-tera)
-2. 🎉 Merged PR [#165](https://github.com/cordx56/rustowl/pull/165) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
-3. 💪 Opened PR [#2654](https://github.com/better-auth/better-auth/pull/2654) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
-4. 💪 Opened PR [#2](https://github.com/ping-maxwell/better-auth-dashboard/pull/2) in [ping-maxwell/better-auth-dashboard](https://github.com/ping-maxwell/better-auth-dashboard)
-5. 🗣 Commented on [#2556](https://github.com/better-auth/better-auth/issues/2556#issuecomment-2876758256) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
+1. 🗣 Commented on [#2](https://github.com/uncenter/tree-sitter-tera/issues/2#issuecomment-2882425735) in [uncenter/tree-sitter-tera](https://github.com/uncenter/tree-sitter-tera)
+2. 🗣 Commented on [#2](https://github.com/uncenter/tree-sitter-tera/issues/2#issuecomment-2880474242) in [uncenter/tree-sitter-tera](https://github.com/uncenter/tree-sitter-tera)
+3. 🎉 Merged PR [#165](https://github.com/cordx56/rustowl/pull/165) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
+4. 💪 Opened PR [#2654](https://github.com/better-auth/better-auth/pull/2654) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
+5. 💪 Opened PR [#2](https://github.com/ping-maxwell/better-auth-dashboard/pull/2) in [ping-maxwell/better-auth-dashboard](https://github.com/ping-maxwell/better-auth-dashboard)
 <!--END_SECTION:activity-->
 
 </details>
