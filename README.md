@@ -122,11 +122,11 @@
 <summary><img src="https://readme-typing-svg.herokuapp.com/?lines=⚡+Recent+Activity;&font=Poppins"></summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#223535](https://github.com/Homebrew/homebrew-core/pull/223535#issuecomment-2884481002) in [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core)
-2. 🗣 Commented on [#223535](https://github.com/Homebrew/homebrew-core/pull/223535#issuecomment-2883386577) in [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core)
-3. 💪 Opened PR [#223535](https://github.com/Homebrew/homebrew-core/pull/223535) in [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core)
-4. 🎉 Merged PR [#167](https://github.com/cordx56/rustowl/pull/167) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
-5. 🎉 Merged PR [#166](https://github.com/cordx56/rustowl/pull/166) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
+1. 🗣 Commented on [#12](https://github.com/cordx56/rustowl/issues/12#issuecomment-2885666698) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
+2. 🗣 Commented on [#223535](https://github.com/Homebrew/homebrew-core/pull/223535#issuecomment-2884481002) in [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core)
+3. 🗣 Commented on [#223535](https://github.com/Homebrew/homebrew-core/pull/223535#issuecomment-2883386577) in [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core)
+4. 💪 Opened PR [#223535](https://github.com/Homebrew/homebrew-core/pull/223535) in [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core)
+5. 🎉 Merged PR [#167](https://github.com/cordx56/rustowl/pull/167) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
 <!--END_SECTION:activity-->
 
 </details>
