@@ -122,11 +122,11 @@
 <summary><img src="https://readme-typing-svg.herokuapp.com/?lines=⚡+Recent+Activity;&font=Poppins"></summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#257384](https://github.com/microsoft/winget-pkgs/pull/257384#issuecomment-2888368176) in [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
-2. 🗣 Commented on [#257384](https://github.com/microsoft/winget-pkgs/pull/257384#issuecomment-2888364599) in [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
-3. 🗣 Commented on [#257384](https://github.com/microsoft/winget-pkgs/pull/257384#issuecomment-2888363466) in [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
-4. 🗣 Commented on [#257384](https://github.com/microsoft/winget-pkgs/pull/257384#issuecomment-2888237273) in [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
-5. 💪 Opened PR [#257384](https://github.com/microsoft/winget-pkgs/pull/257384) in [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
+1. 🗣 Commented on [#223535](https://github.com/Homebrew/homebrew-core/pull/223535#issuecomment-2888486685) in [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core)
+2. 🗣 Commented on [#257384](https://github.com/microsoft/winget-pkgs/pull/257384#issuecomment-2888368176) in [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
+3. 🗣 Commented on [#257384](https://github.com/microsoft/winget-pkgs/pull/257384#issuecomment-2888364599) in [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
+4. 🗣 Commented on [#257384](https://github.com/microsoft/winget-pkgs/pull/257384#issuecomment-2888363466) in [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
+5. 🗣 Commented on [#257384](https://github.com/microsoft/winget-pkgs/pull/257384#issuecomment-2888237273) in [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
 <!--END_SECTION:activity-->
 
 </details>
