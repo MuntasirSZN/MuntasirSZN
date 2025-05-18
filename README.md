@@ -122,11 +122,11 @@
 <summary><img src="https://readme-typing-svg.herokuapp.com/?lines=⚡+Recent+Activity;&font=Poppins"></summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#223535](https://github.com/Homebrew/homebrew-core/pull/223535#issuecomment-2888871374) in [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core)
-2. 🗣 Commented on [#223535](https://github.com/Homebrew/homebrew-core/pull/223535#issuecomment-2888814991) in [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core)
-3. ❗ Opened issue [#942](https://github.com/Jas-SinghFSU/HyprPanel/issues/942) in [Jas-SinghFSU/HyprPanel](https://github.com/Jas-SinghFSU/HyprPanel)
-4. 🗣 Commented on [#223535](https://github.com/Homebrew/homebrew-core/pull/223535#issuecomment-2888698056) in [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core)
-5. 🗣 Commented on [#223535](https://github.com/Homebrew/homebrew-core/pull/223535#issuecomment-2888486685) in [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core)
+1. 🗣 Commented on [#223535](https://github.com/Homebrew/homebrew-core/pull/223535#issuecomment-2888886827) in [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core)
+2. 🗣 Commented on [#223535](https://github.com/Homebrew/homebrew-core/pull/223535#issuecomment-2888871374) in [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core)
+3. 🗣 Commented on [#223535](https://github.com/Homebrew/homebrew-core/pull/223535#issuecomment-2888814991) in [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core)
+4. ❗ Opened issue [#942](https://github.com/Jas-SinghFSU/HyprPanel/issues/942) in [Jas-SinghFSU/HyprPanel](https://github.com/Jas-SinghFSU/HyprPanel)
+5. 🗣 Commented on [#223535](https://github.com/Homebrew/homebrew-core/pull/223535#issuecomment-2888698056) in [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core)
 <!--END_SECTION:activity-->
 
 </details>
