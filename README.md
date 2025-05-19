@@ -122,11 +122,11 @@
 <summary><img src="https://readme-typing-svg.herokuapp.com/?lines=⚡+Recent+Activity;&font=Poppins"></summary>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1896](https://github.com/folke/snacks.nvim/issues/1896) in [folke/snacks.nvim](https://github.com/folke/snacks.nvim)
-2. 🎉 Merged PR [#173](https://github.com/cordx56/rustowl/pull/173) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
-3. 🎉 Merged PR [#172](https://github.com/cordx56/rustowl/pull/172) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
-4. 🎉 Merged PR [#171](https://github.com/cordx56/rustowl/pull/171) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
-5. 🗣 Commented on [#836](https://github.com/Saghen/blink.cmp/issues/836#issuecomment-2890090623) in [Saghen/blink.cmp](https://github.com/Saghen/blink.cmp)
+1. 🗣 Commented on [#488](https://github.com/zbirenbaum/copilot.lua/pull/488#issuecomment-2891505076) in [zbirenbaum/copilot.lua](https://github.com/zbirenbaum/copilot.lua)
+2. 🗣 Commented on [#836](https://github.com/Saghen/blink.cmp/issues/836#issuecomment-2891473281) in [Saghen/blink.cmp](https://github.com/Saghen/blink.cmp)
+3. ❗ Opened issue [#1896](https://github.com/folke/snacks.nvim/issues/1896) in [folke/snacks.nvim](https://github.com/folke/snacks.nvim)
+4. 🎉 Merged PR [#173](https://github.com/cordx56/rustowl/pull/173) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
+5. 🎉 Merged PR [#172](https://github.com/cordx56/rustowl/pull/172) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
 <!--END_SECTION:activity-->
 
 </details>
