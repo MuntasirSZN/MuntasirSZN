@@ -122,11 +122,11 @@
 <summary><img src="https://readme-typing-svg.herokuapp.com/?lines=⚡+Recent+Activity;&font=Poppins"></summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#173](https://github.com/cordx56/rustowl/pull/173) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
-2. 🎉 Merged PR [#172](https://github.com/cordx56/rustowl/pull/172) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
-3. 🎉 Merged PR [#171](https://github.com/cordx56/rustowl/pull/171) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
-4. 🗣 Commented on [#836](https://github.com/Saghen/blink.cmp/issues/836#issuecomment-2890090623) in [Saghen/blink.cmp](https://github.com/Saghen/blink.cmp)
-5. 🎉 Merged PR [#170](https://github.com/cordx56/rustowl/pull/170) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
+1. ❗ Opened issue [#1896](https://github.com/folke/snacks.nvim/issues/1896) in [folke/snacks.nvim](https://github.com/folke/snacks.nvim)
+2. 🎉 Merged PR [#173](https://github.com/cordx56/rustowl/pull/173) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
+3. 🎉 Merged PR [#172](https://github.com/cordx56/rustowl/pull/172) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
+4. 🎉 Merged PR [#171](https://github.com/cordx56/rustowl/pull/171) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
+5. 🗣 Commented on [#836](https://github.com/Saghen/blink.cmp/issues/836#issuecomment-2890090623) in [Saghen/blink.cmp](https://github.com/Saghen/blink.cmp)
 <!--END_SECTION:activity-->
 
 </details>
