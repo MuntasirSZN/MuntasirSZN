@@ -122,11 +122,11 @@
 <summary><img src="https://readme-typing-svg.herokuapp.com/?lines=⚡+Recent+Activity;&font=Poppins"></summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#174](https://github.com/cordx56/rustowl/pull/174#issuecomment-2893836438) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
-2. 🗣 Commented on [#174](https://github.com/cordx56/rustowl/pull/174#issuecomment-2893830004) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
-3. 🗣 Commented on [#488](https://github.com/zbirenbaum/copilot.lua/pull/488#issuecomment-2891505076) in [zbirenbaum/copilot.lua](https://github.com/zbirenbaum/copilot.lua)
-4. 🗣 Commented on [#836](https://github.com/Saghen/blink.cmp/issues/836#issuecomment-2891473281) in [Saghen/blink.cmp](https://github.com/Saghen/blink.cmp)
-5. ❗ Opened issue [#1896](https://github.com/folke/snacks.nvim/issues/1896) in [folke/snacks.nvim](https://github.com/folke/snacks.nvim)
+1. ❗ Opened issue [#175](https://github.com/cordx56/rustowl/issues/175) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
+2. 🗣 Commented on [#174](https://github.com/cordx56/rustowl/pull/174#issuecomment-2893836438) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
+3. 🗣 Commented on [#174](https://github.com/cordx56/rustowl/pull/174#issuecomment-2893830004) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
+4. 🗣 Commented on [#488](https://github.com/zbirenbaum/copilot.lua/pull/488#issuecomment-2891505076) in [zbirenbaum/copilot.lua](https://github.com/zbirenbaum/copilot.lua)
+5. 🗣 Commented on [#836](https://github.com/Saghen/blink.cmp/issues/836#issuecomment-2891473281) in [Saghen/blink.cmp](https://github.com/Saghen/blink.cmp)
 <!--END_SECTION:activity-->
 
 </details>
