@@ -122,11 +122,11 @@
 <summary><img src="https://readme-typing-svg.herokuapp.com/?lines=⚡+Recent+Activity;&font=Poppins"></summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8489](https://github.com/zen-browser/desktop/issues/8489#issuecomment-2901241087) in [zen-browser/desktop](https://github.com/zen-browser/desktop)
-2. 🎉 Merged PR [#1](https://github.com/MuntasirSZN/csmc/pull/1) in [MuntasirSZN/csmc](https://github.com/MuntasirSZN/csmc)
-3. 🗣 Commented on [#1896](https://github.com/folke/snacks.nvim/issues/1896#issuecomment-2900558771) in [folke/snacks.nvim](https://github.com/folke/snacks.nvim)
-4. 🗣 Commented on [#30](https://github.com/rachartier/tiny-code-action.nvim/issues/30#issuecomment-2900518817) in [rachartier/tiny-code-action.nvim](https://github.com/rachartier/tiny-code-action.nvim)
-5. 🎉 Merged PR [#181](https://github.com/cordx56/rustowl/pull/181) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
+1. 🗣 Commented on [#12](https://github.com/cordx56/rustowl/issues/12#issuecomment-2901297865) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
+2. 🗣 Commented on [#8489](https://github.com/zen-browser/desktop/issues/8489#issuecomment-2901241087) in [zen-browser/desktop](https://github.com/zen-browser/desktop)
+3. 🎉 Merged PR [#1](https://github.com/MuntasirSZN/csmc/pull/1) in [MuntasirSZN/csmc](https://github.com/MuntasirSZN/csmc)
+4. 🗣 Commented on [#1896](https://github.com/folke/snacks.nvim/issues/1896#issuecomment-2900558771) in [folke/snacks.nvim](https://github.com/folke/snacks.nvim)
+5. 🗣 Commented on [#30](https://github.com/rachartier/tiny-code-action.nvim/issues/30#issuecomment-2900518817) in [rachartier/tiny-code-action.nvim](https://github.com/rachartier/tiny-code-action.nvim)
 <!--END_SECTION:activity-->
 
 </details>
