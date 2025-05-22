@@ -122,11 +122,11 @@
 <summary><img src="https://readme-typing-svg.herokuapp.com/?lines=⚡+Recent+Activity;&font=Poppins"></summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1896](https://github.com/folke/snacks.nvim/issues/1896#issuecomment-2900558771) in [folke/snacks.nvim](https://github.com/folke/snacks.nvim)
-2. 🗣 Commented on [#30](https://github.com/rachartier/tiny-code-action.nvim/issues/30#issuecomment-2900518817) in [rachartier/tiny-code-action.nvim](https://github.com/rachartier/tiny-code-action.nvim)
-3. 🎉 Merged PR [#181](https://github.com/cordx56/rustowl/pull/181) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
-4. 🎉 Merged PR [#180](https://github.com/cordx56/rustowl/pull/180) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
-5. 🗣 Commented on [#30](https://github.com/rachartier/tiny-code-action.nvim/issues/30#issuecomment-2899643765) in [rachartier/tiny-code-action.nvim](https://github.com/rachartier/tiny-code-action.nvim)
+1. 🎉 Merged PR [#1](https://github.com/MuntasirSZN/csmc/pull/1) in [MuntasirSZN/csmc](https://github.com/MuntasirSZN/csmc)
+2. 🗣 Commented on [#1896](https://github.com/folke/snacks.nvim/issues/1896#issuecomment-2900558771) in [folke/snacks.nvim](https://github.com/folke/snacks.nvim)
+3. 🗣 Commented on [#30](https://github.com/rachartier/tiny-code-action.nvim/issues/30#issuecomment-2900518817) in [rachartier/tiny-code-action.nvim](https://github.com/rachartier/tiny-code-action.nvim)
+4. 🎉 Merged PR [#181](https://github.com/cordx56/rustowl/pull/181) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
+5. 🎉 Merged PR [#180](https://github.com/cordx56/rustowl/pull/180) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
 <!--END_SECTION:activity-->
 
 </details>
