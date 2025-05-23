@@ -122,11 +122,11 @@
 <summary><img src="https://readme-typing-svg.herokuapp.com/?lines=⚡+Recent+Activity;&font=Poppins"></summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#184](https://github.com/cordx56/rustowl/pull/184) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
-2. 💪 Opened PR [#41](https://github.com/rachartier/tiny-code-action.nvim/pull/41) in [rachartier/tiny-code-action.nvim](https://github.com/rachartier/tiny-code-action.nvim)
-3. 🎉 Merged PR [#183](https://github.com/cordx56/rustowl/pull/183) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
-4. 🎉 Merged PR [#182](https://github.com/cordx56/rustowl/pull/182) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
-5. 🗣 Commented on [#8489](https://github.com/zen-browser/desktop/issues/8489#issuecomment-2901423385) in [zen-browser/desktop](https://github.com/zen-browser/desktop)
+1. 🗣 Commented on [#41](https://github.com/rachartier/tiny-code-action.nvim/pull/41#issuecomment-2904228316) in [rachartier/tiny-code-action.nvim](https://github.com/rachartier/tiny-code-action.nvim)
+2. 🎉 Merged PR [#184](https://github.com/cordx56/rustowl/pull/184) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
+3. 💪 Opened PR [#41](https://github.com/rachartier/tiny-code-action.nvim/pull/41) in [rachartier/tiny-code-action.nvim](https://github.com/rachartier/tiny-code-action.nvim)
+4. 🎉 Merged PR [#183](https://github.com/cordx56/rustowl/pull/183) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
+5. 🎉 Merged PR [#182](https://github.com/cordx56/rustowl/pull/182) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
 <!--END_SECTION:activity-->
 
 </details>
