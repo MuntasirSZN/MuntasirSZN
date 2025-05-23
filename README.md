@@ -122,11 +122,11 @@
 <summary><img src="https://readme-typing-svg.herokuapp.com/?lines=⚡+Recent+Activity;&font=Poppins"></summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#41](https://github.com/rachartier/tiny-code-action.nvim/pull/41#issuecomment-2904769277) in [rachartier/tiny-code-action.nvim](https://github.com/rachartier/tiny-code-action.nvim)
-2. 🗣 Commented on [#41](https://github.com/rachartier/tiny-code-action.nvim/pull/41#issuecomment-2904685070) in [rachartier/tiny-code-action.nvim](https://github.com/rachartier/tiny-code-action.nvim)
-3. 🗣 Commented on [#41](https://github.com/rachartier/tiny-code-action.nvim/pull/41#issuecomment-2904228316) in [rachartier/tiny-code-action.nvim](https://github.com/rachartier/tiny-code-action.nvim)
-4. 🎉 Merged PR [#184](https://github.com/cordx56/rustowl/pull/184) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
-5. 💪 Opened PR [#41](https://github.com/rachartier/tiny-code-action.nvim/pull/41) in [rachartier/tiny-code-action.nvim](https://github.com/rachartier/tiny-code-action.nvim)
+1. ❌ Closed PR [#456](https://github.com/catppuccin/vscode-icons/pull/456) in [catppuccin/vscode-icons](https://github.com/catppuccin/vscode-icons)
+2. 🗣 Commented on [#41](https://github.com/rachartier/tiny-code-action.nvim/pull/41#issuecomment-2904769277) in [rachartier/tiny-code-action.nvim](https://github.com/rachartier/tiny-code-action.nvim)
+3. 🗣 Commented on [#41](https://github.com/rachartier/tiny-code-action.nvim/pull/41#issuecomment-2904685070) in [rachartier/tiny-code-action.nvim](https://github.com/rachartier/tiny-code-action.nvim)
+4. 🗣 Commented on [#41](https://github.com/rachartier/tiny-code-action.nvim/pull/41#issuecomment-2904228316) in [rachartier/tiny-code-action.nvim](https://github.com/rachartier/tiny-code-action.nvim)
+5. 🎉 Merged PR [#184](https://github.com/cordx56/rustowl/pull/184) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
 <!--END_SECTION:activity-->
 
 </details>
