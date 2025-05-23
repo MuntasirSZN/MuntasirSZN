@@ -122,11 +122,11 @@
 <summary><img src="https://readme-typing-svg.herokuapp.com/?lines=⚡+Recent+Activity;&font=Poppins"></summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8489](https://github.com/zen-browser/desktop/issues/8489#issuecomment-2901423385) in [zen-browser/desktop](https://github.com/zen-browser/desktop)
-2. 🗣 Commented on [#12](https://github.com/cordx56/rustowl/issues/12#issuecomment-2901297865) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
-3. 🗣 Commented on [#8489](https://github.com/zen-browser/desktop/issues/8489#issuecomment-2901241087) in [zen-browser/desktop](https://github.com/zen-browser/desktop)
-4. 🎉 Merged PR [#1](https://github.com/MuntasirSZN/csmc/pull/1) in [MuntasirSZN/csmc](https://github.com/MuntasirSZN/csmc)
-5. 🗣 Commented on [#1896](https://github.com/folke/snacks.nvim/issues/1896#issuecomment-2900558771) in [folke/snacks.nvim](https://github.com/folke/snacks.nvim)
+1. 💪 Opened PR [#41](https://github.com/rachartier/tiny-code-action.nvim/pull/41) in [rachartier/tiny-code-action.nvim](https://github.com/rachartier/tiny-code-action.nvim)
+2. 🎉 Merged PR [#183](https://github.com/cordx56/rustowl/pull/183) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
+3. 🎉 Merged PR [#182](https://github.com/cordx56/rustowl/pull/182) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
+4. 🗣 Commented on [#8489](https://github.com/zen-browser/desktop/issues/8489#issuecomment-2901423385) in [zen-browser/desktop](https://github.com/zen-browser/desktop)
+5. 🗣 Commented on [#12](https://github.com/cordx56/rustowl/issues/12#issuecomment-2901297865) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
 <!--END_SECTION:activity-->
 
 </details>
