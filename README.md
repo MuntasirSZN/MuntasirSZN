@@ -122,11 +122,11 @@
 <summary><img src="https://readme-typing-svg.herokuapp.com/?lines=⚡+Recent+Activity;&font=Poppins"></summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com/MuntasirSZN/rou3-rs/pull/3) in [MuntasirSZN/rou3-rs](https://github.com/MuntasirSZN/rou3-rs)
-2. ❌ Closed PR [#2](https://github.com/MuntasirSZN/rou3-rs/pull/2) in [MuntasirSZN/rou3-rs](https://github.com/MuntasirSZN/rou3-rs)
-3. 💪 Opened PR [#2](https://github.com/MuntasirSZN/rou3-rs/pull/2) in [MuntasirSZN/rou3-rs](https://github.com/MuntasirSZN/rou3-rs)
-4. 🎉 Merged PR [#215](https://github.com/cordx56/rustowl/pull/215) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
-5. 🎉 Merged PR [#213](https://github.com/cordx56/rustowl/pull/213) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
+1. 🚀 Published release [v0.1.0](https://github.com/MuntasirSZN/rou3-rs/releases/tag/v0.1.0) in [MuntasirSZN/rou3-rs](https://github.com/MuntasirSZN/rou3-rs)
+2. ❌ Closed PR [#9](https://github.com/MuntasirSZN/rou3-rs/pull/9) in [MuntasirSZN/rou3-rs](https://github.com/MuntasirSZN/rou3-rs)
+3. 💪 Opened PR [#9](https://github.com/MuntasirSZN/rou3-rs/pull/9) in [MuntasirSZN/rou3-rs](https://github.com/MuntasirSZN/rou3-rs)
+4. ❌ Closed PR [#8](https://github.com/MuntasirSZN/rou3-rs/pull/8) in [MuntasirSZN/rou3-rs](https://github.com/MuntasirSZN/rou3-rs)
+5. 💪 Opened PR [#8](https://github.com/MuntasirSZN/rou3-rs/pull/8) in [MuntasirSZN/rou3-rs](https://github.com/MuntasirSZN/rou3-rs)
 <!--END_SECTION:activity-->
 
 </details>
