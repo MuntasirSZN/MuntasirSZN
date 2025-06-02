@@ -122,11 +122,11 @@
 <summary><img src="https://readme-typing-svg.herokuapp.com/?lines=⚡+Recent+Activity;&font=Poppins"></summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#215](https://github.com/cordx56/rustowl/pull/215) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
-2. 🎉 Merged PR [#213](https://github.com/cordx56/rustowl/pull/213) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
-3. 🎉 Merged PR [#214](https://github.com/cordx56/rustowl/pull/214) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
-4. 🎉 Merged PR [#212](https://github.com/cordx56/rustowl/pull/212) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
-5. 🎉 Merged PR [#56](https://github.com/MuntasirSZN/getquotes/pull/56) in [MuntasirSZN/getquotes](https://github.com/MuntasirSZN/getquotes)
+1. 💪 Opened PR [#3](https://github.com/MuntasirSZN/rou3-rs/pull/3) in [MuntasirSZN/rou3-rs](https://github.com/MuntasirSZN/rou3-rs)
+2. ❌ Closed PR [#2](https://github.com/MuntasirSZN/rou3-rs/pull/2) in [MuntasirSZN/rou3-rs](https://github.com/MuntasirSZN/rou3-rs)
+3. 💪 Opened PR [#2](https://github.com/MuntasirSZN/rou3-rs/pull/2) in [MuntasirSZN/rou3-rs](https://github.com/MuntasirSZN/rou3-rs)
+4. 🎉 Merged PR [#215](https://github.com/cordx56/rustowl/pull/215) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
+5. 🎉 Merged PR [#213](https://github.com/cordx56/rustowl/pull/213) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
 <!--END_SECTION:activity-->
 
 </details>
