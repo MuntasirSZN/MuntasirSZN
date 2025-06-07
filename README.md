@@ -122,11 +122,11 @@
 <summary><img src="https://readme-typing-svg.herokuapp.com/?lines=⚡+Recent+Activity;&font=Poppins"></summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/MuntasirSZN/csmc/pull/8) in [MuntasirSZN/csmc](https://github.com/MuntasirSZN/csmc)
-2. 🗣 Commented on [#11302](https://github.com/rust-lang/crates.io/issues/11302#issuecomment-2948153541) in [rust-lang/crates.io](https://github.com/rust-lang/crates.io)
-3. 🗣 Commented on [#11302](https://github.com/rust-lang/crates.io/issues/11302#issuecomment-2948143595) in [rust-lang/crates.io](https://github.com/rust-lang/crates.io)
-4. ❗ Opened issue [#11302](https://github.com/rust-lang/crates.io/issues/11302) in [rust-lang/crates.io](https://github.com/rust-lang/crates.io)
-5. 🗣 Commented on [#226](https://github.com/cordx56/rustowl/pull/226#issuecomment-2946930932) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
+1. 🎉 Merged PR [#229](https://github.com/cordx56/rustowl/pull/229) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
+2. 🎉 Merged PR [#228](https://github.com/cordx56/rustowl/pull/228) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
+3. 🎉 Merged PR [#227](https://github.com/cordx56/rustowl/pull/227) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
+4. 🎉 Merged PR [#8](https://github.com/MuntasirSZN/csmc/pull/8) in [MuntasirSZN/csmc](https://github.com/MuntasirSZN/csmc)
+5. 🗣 Commented on [#11302](https://github.com/rust-lang/crates.io/issues/11302#issuecomment-2948153541) in [rust-lang/crates.io](https://github.com/rust-lang/crates.io)
 <!--END_SECTION:activity-->
 
 </details>
