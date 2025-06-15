@@ -122,11 +122,11 @@
 <summary><img src="https://readme-typing-svg.herokuapp.com/?lines=⚡+Recent+Activity;&font=Poppins"></summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4065](https://github.com/TanStack/router/issues/4065#issuecomment-2972554344) in [TanStack/router](https://github.com/TanStack/router)
-2. 🎉 Merged PR [#14](https://github.com/MuntasirSZN/csmc/pull/14) in [MuntasirSZN/csmc](https://github.com/MuntasirSZN/csmc)
-3. 🎉 Merged PR [#254](https://github.com/cordx56/rustowl/pull/254) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
-4. 🎉 Merged PR [#253](https://github.com/cordx56/rustowl/pull/253) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
-5. 🗣 Commented on [#160](https://github.com/cordx56/rustowl/issues/160#issuecomment-2967353630) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
+1. ❌ Closed PR [#141](https://github.com/nvim-neotest/neotest-jest/pull/141) in [nvim-neotest/neotest-jest](https://github.com/nvim-neotest/neotest-jest)
+2. 🗣 Commented on [#141](https://github.com/nvim-neotest/neotest-jest/pull/141#issuecomment-2972754515) in [nvim-neotest/neotest-jest](https://github.com/nvim-neotest/neotest-jest)
+3. 🗣 Commented on [#4065](https://github.com/TanStack/router/issues/4065#issuecomment-2972554344) in [TanStack/router](https://github.com/TanStack/router)
+4. 🎉 Merged PR [#14](https://github.com/MuntasirSZN/csmc/pull/14) in [MuntasirSZN/csmc](https://github.com/MuntasirSZN/csmc)
+5. 🎉 Merged PR [#254](https://github.com/cordx56/rustowl/pull/254) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
 <!--END_SECTION:activity-->
 
 </details>
