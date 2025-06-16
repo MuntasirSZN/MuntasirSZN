@@ -122,11 +122,11 @@
 <summary><img src="https://readme-typing-svg.herokuapp.com/?lines=⚡+Recent+Activity;&font=Poppins"></summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#64](https://github.com/MuntasirSZN/getquotes/pull/64) in [MuntasirSZN/getquotes](https://github.com/MuntasirSZN/getquotes)
-2. ❗ Opened issue [#123](https://github.com/fuma-nama/fuma-comment/issues/123) in [fuma-nama/fuma-comment](https://github.com/fuma-nama/fuma-comment)
-3. ❌ Closed PR [#141](https://github.com/nvim-neotest/neotest-jest/pull/141) in [nvim-neotest/neotest-jest](https://github.com/nvim-neotest/neotest-jest)
-4. 🗣 Commented on [#141](https://github.com/nvim-neotest/neotest-jest/pull/141#issuecomment-2972754515) in [nvim-neotest/neotest-jest](https://github.com/nvim-neotest/neotest-jest)
-5. 🗣 Commented on [#4065](https://github.com/TanStack/router/issues/4065#issuecomment-2972554344) in [TanStack/router](https://github.com/TanStack/router)
+1. 🎉 Merged PR [#258](https://github.com/cordx56/rustowl/pull/258) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
+2. 🎉 Merged PR [#257](https://github.com/cordx56/rustowl/pull/257) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
+3. 🎉 Merged PR [#255](https://github.com/cordx56/rustowl/pull/255) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
+4. 🎉 Merged PR [#64](https://github.com/MuntasirSZN/getquotes/pull/64) in [MuntasirSZN/getquotes](https://github.com/MuntasirSZN/getquotes)
+5. ❗ Opened issue [#123](https://github.com/fuma-nama/fuma-comment/issues/123) in [fuma-nama/fuma-comment](https://github.com/fuma-nama/fuma-comment)
 <!--END_SECTION:activity-->
 
 </details>
