@@ -122,11 +122,11 @@
 <summary><img src="https://readme-typing-svg.herokuapp.com/?lines=⚡+Recent+Activity;&font=Poppins"></summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#258](https://github.com/cordx56/rustowl/pull/258) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
-2. 🎉 Merged PR [#257](https://github.com/cordx56/rustowl/pull/257) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
-3. 🎉 Merged PR [#255](https://github.com/cordx56/rustowl/pull/255) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
-4. 🎉 Merged PR [#64](https://github.com/MuntasirSZN/getquotes/pull/64) in [MuntasirSZN/getquotes](https://github.com/MuntasirSZN/getquotes)
-5. ❗ Opened issue [#123](https://github.com/fuma-nama/fuma-comment/issues/123) in [fuma-nama/fuma-comment](https://github.com/fuma-nama/fuma-comment)
+1. 🎉 Merged PR [#3](https://github.com/MuntasirSZN/upptime-monitoring/pull/3) in [MuntasirSZN/upptime-monitoring](https://github.com/MuntasirSZN/upptime-monitoring)
+2. 🎉 Merged PR [#3](https://github.com/MuntasirSZN/fetchttp/pull/3) in [MuntasirSZN/fetchttp](https://github.com/MuntasirSZN/fetchttp)
+3. 🎉 Merged PR [#12](https://github.com/MuntasirSZN/rou3-rs/pull/12) in [MuntasirSZN/rou3-rs](https://github.com/MuntasirSZN/rou3-rs)
+4. 🎉 Merged PR [#258](https://github.com/cordx56/rustowl/pull/258) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
+5. 🎉 Merged PR [#257](https://github.com/cordx56/rustowl/pull/257) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
 <!--END_SECTION:activity-->
 
 </details>
