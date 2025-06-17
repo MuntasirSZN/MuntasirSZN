@@ -122,11 +122,11 @@
 <summary><img src="https://readme-typing-svg.herokuapp.com/?lines=⚡+Recent+Activity;&font=Poppins"></summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#15](https://github.com/MuntasirSZN/csmc/pull/15) in [MuntasirSZN/csmc](https://github.com/MuntasirSZN/csmc)
-2. 🎉 Merged PR [#3](https://github.com/MuntasirSZN/upptime-monitoring/pull/3) in [MuntasirSZN/upptime-monitoring](https://github.com/MuntasirSZN/upptime-monitoring)
-3. 🎉 Merged PR [#3](https://github.com/MuntasirSZN/fetchttp/pull/3) in [MuntasirSZN/fetchttp](https://github.com/MuntasirSZN/fetchttp)
-4. 🎉 Merged PR [#12](https://github.com/MuntasirSZN/rou3-rs/pull/12) in [MuntasirSZN/rou3-rs](https://github.com/MuntasirSZN/rou3-rs)
-5. 🎉 Merged PR [#258](https://github.com/cordx56/rustowl/pull/258) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
+1. 🎉 Merged PR [#259](https://github.com/cordx56/rustowl/pull/259) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
+2. 🎉 Merged PR [#15](https://github.com/MuntasirSZN/csmc/pull/15) in [MuntasirSZN/csmc](https://github.com/MuntasirSZN/csmc)
+3. 🎉 Merged PR [#3](https://github.com/MuntasirSZN/upptime-monitoring/pull/3) in [MuntasirSZN/upptime-monitoring](https://github.com/MuntasirSZN/upptime-monitoring)
+4. 🎉 Merged PR [#3](https://github.com/MuntasirSZN/fetchttp/pull/3) in [MuntasirSZN/fetchttp](https://github.com/MuntasirSZN/fetchttp)
+5. 🎉 Merged PR [#12](https://github.com/MuntasirSZN/rou3-rs/pull/12) in [MuntasirSZN/rou3-rs](https://github.com/MuntasirSZN/rou3-rs)
 <!--END_SECTION:activity-->
 
 </details>
