@@ -122,11 +122,11 @@
 <summary><img src="https://readme-typing-svg.herokuapp.com/?lines=⚡+Recent+Activity;&font=Poppins"></summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/MuntasirSZN/vscode-icons/pull/2) in [MuntasirSZN/vscode-icons](https://github.com/MuntasirSZN/vscode-icons)
-2. 💪 Opened PR [#267](https://github.com/cordx56/rustowl/pull/267) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
-3. 🗣 Commented on [#266](https://github.com/cordx56/rustowl/pull/266#issuecomment-2993449660) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
-4. ❌ Reopened PR [#266](https://github.com/cordx56/rustowl/pull/266) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
-5. ❌ Closed PR [#266](https://github.com/cordx56/rustowl/pull/266) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
+1. 💪 Opened PR [#10551](https://github.com/mason-org/mason-registry/pull/10551) in [mason-org/mason-registry](https://github.com/mason-org/mason-registry)
+2. 🎉 Merged PR [#2](https://github.com/MuntasirSZN/vscode-icons/pull/2) in [MuntasirSZN/vscode-icons](https://github.com/MuntasirSZN/vscode-icons)
+3. 💪 Opened PR [#267](https://github.com/cordx56/rustowl/pull/267) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
+4. 🗣 Commented on [#266](https://github.com/cordx56/rustowl/pull/266#issuecomment-2993449660) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
+5. ❌ Reopened PR [#266](https://github.com/cordx56/rustowl/pull/266) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
 <!--END_SECTION:activity-->
 
 </details>
