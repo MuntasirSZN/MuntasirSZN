@@ -122,11 +122,11 @@
 <summary><img src="https://readme-typing-svg.herokuapp.com/?lines=⚡+Recent+Activity;&font=Poppins"></summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#10551](https://github.com/mason-org/mason-registry/pull/10551#issuecomment-2993490141) in [mason-org/mason-registry](https://github.com/mason-org/mason-registry)
-2. 💪 Opened PR [#10551](https://github.com/mason-org/mason-registry/pull/10551) in [mason-org/mason-registry](https://github.com/mason-org/mason-registry)
-3. 🎉 Merged PR [#2](https://github.com/MuntasirSZN/vscode-icons/pull/2) in [MuntasirSZN/vscode-icons](https://github.com/MuntasirSZN/vscode-icons)
-4. 💪 Opened PR [#267](https://github.com/cordx56/rustowl/pull/267) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
-5. 🗣 Commented on [#266](https://github.com/cordx56/rustowl/pull/266#issuecomment-2993449660) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
+1. 🗣 Commented on [#265](https://github.com/cordx56/rustowl/pull/265#issuecomment-2993886889) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
+2. 🗣 Commented on [#1896](https://github.com/folke/snacks.nvim/issues/1896#issuecomment-2993886430) in [folke/snacks.nvim](https://github.com/folke/snacks.nvim)
+3. 🎉 Merged PR [#6](https://github.com/MuntasirSZN/upptime-monitoring/pull/6) in [MuntasirSZN/upptime-monitoring](https://github.com/MuntasirSZN/upptime-monitoring)
+4. 🗣 Commented on [#264](https://github.com/cordx56/rustowl/issues/264#issuecomment-2993886259) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
+5. 🗣 Commented on [#10551](https://github.com/mason-org/mason-registry/pull/10551#issuecomment-2993490141) in [mason-org/mason-registry](https://github.com/mason-org/mason-registry)
 <!--END_SECTION:activity-->
 
 </details>
