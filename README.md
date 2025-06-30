@@ -122,11 +122,11 @@
 <summary><img src="https://readme-typing-svg.herokuapp.com/?lines=⚡+Recent+Activity;&font=Poppins"></summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#293](https://github.com/cordx56/rustowl/pull/293#issuecomment-3019184772) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
-2. 🎉 Merged PR [#292](https://github.com/cordx56/rustowl/pull/292) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
-3. 🎉 Merged PR [#25](https://github.com/MuntasirSZN/csmc/pull/25) in [MuntasirSZN/csmc](https://github.com/MuntasirSZN/csmc)
-4. 🎉 Merged PR [#24](https://github.com/MuntasirSZN/csmc/pull/24) in [MuntasirSZN/csmc](https://github.com/MuntasirSZN/csmc)
-5. 🎉 Merged PR [#23](https://github.com/MuntasirSZN/csmc/pull/23) in [MuntasirSZN/csmc](https://github.com/MuntasirSZN/csmc)
+1. ❗ Opened issue [#13](https://github.com/MuntasirSZN/upptime-monitoring/issues/13) in [MuntasirSZN/upptime-monitoring](https://github.com/MuntasirSZN/upptime-monitoring)
+2. ❗ Opened issue [#12](https://github.com/MuntasirSZN/upptime-monitoring/issues/12) in [MuntasirSZN/upptime-monitoring](https://github.com/MuntasirSZN/upptime-monitoring)
+3. ❗ Opened issue [#11](https://github.com/MuntasirSZN/upptime-monitoring/issues/11) in [MuntasirSZN/upptime-monitoring](https://github.com/MuntasirSZN/upptime-monitoring)
+4. 🗣 Commented on [#293](https://github.com/cordx56/rustowl/pull/293#issuecomment-3019184772) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
+5. 🎉 Merged PR [#292](https://github.com/cordx56/rustowl/pull/292) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
 <!--END_SECTION:activity-->
 
 </details>
