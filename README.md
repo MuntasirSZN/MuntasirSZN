@@ -122,11 +122,11 @@
 <summary><img src="https://readme-typing-svg.herokuapp.com/?lines=⚡+Recent+Activity;&font=Poppins"></summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#25](https://github.com/MuntasirSZN/csmc/pull/25) in [MuntasirSZN/csmc](https://github.com/MuntasirSZN/csmc)
-2. 🎉 Merged PR [#24](https://github.com/MuntasirSZN/csmc/pull/24) in [MuntasirSZN/csmc](https://github.com/MuntasirSZN/csmc)
-3. 🎉 Merged PR [#23](https://github.com/MuntasirSZN/csmc/pull/23) in [MuntasirSZN/csmc](https://github.com/MuntasirSZN/csmc)
-4. 🎉 Merged PR [#22](https://github.com/MuntasirSZN/csmc/pull/22) in [MuntasirSZN/csmc](https://github.com/MuntasirSZN/csmc)
-5. 💪 Opened PR [#291](https://github.com/cordx56/rustowl/pull/291) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
+1. 🎉 Merged PR [#292](https://github.com/cordx56/rustowl/pull/292) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
+2. 🎉 Merged PR [#25](https://github.com/MuntasirSZN/csmc/pull/25) in [MuntasirSZN/csmc](https://github.com/MuntasirSZN/csmc)
+3. 🎉 Merged PR [#24](https://github.com/MuntasirSZN/csmc/pull/24) in [MuntasirSZN/csmc](https://github.com/MuntasirSZN/csmc)
+4. 🎉 Merged PR [#23](https://github.com/MuntasirSZN/csmc/pull/23) in [MuntasirSZN/csmc](https://github.com/MuntasirSZN/csmc)
+5. 🎉 Merged PR [#22](https://github.com/MuntasirSZN/csmc/pull/22) in [MuntasirSZN/csmc](https://github.com/MuntasirSZN/csmc)
 <!--END_SECTION:activity-->
 
 </details>
