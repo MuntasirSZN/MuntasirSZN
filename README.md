@@ -122,11 +122,11 @@
 <summary><img src="https://readme-typing-svg.herokuapp.com/?lines=⚡+Recent+Activity;&font=Poppins"></summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#138](https://github.com/brenoprata10/nvim-highlight-colors/issues/138#issuecomment-3066650150) in [brenoprata10/nvim-highlight-colors](https://github.com/brenoprata10/nvim-highlight-colors)
-2. 💪 Opened PR [#330](https://github.com/cordx56/rustowl/pull/330) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
-3. ❗ Opened issue [#329](https://github.com/cordx56/rustowl/issues/329) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
-4. 🎉 Merged PR [#77](https://github.com/MuntasirSZN/getquotes/pull/77) in [MuntasirSZN/getquotes](https://github.com/MuntasirSZN/getquotes)
-5. 🎉 Merged PR [#72](https://github.com/MuntasirSZN/getquotes/pull/72) in [MuntasirSZN/getquotes](https://github.com/MuntasirSZN/getquotes)
+1. 🗣 Commented on [#322](https://github.com/cordx56/rustowl/pull/322#issuecomment-3067368274) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
+2. 🗣 Commented on [#290](https://github.com/cordx56/rustowl/pull/290#issuecomment-3067367554) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
+3. 🗣 Commented on [#286](https://github.com/cordx56/rustowl/pull/286#issuecomment-3067367425) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
+4. 🗣 Commented on [#138](https://github.com/brenoprata10/nvim-highlight-colors/issues/138#issuecomment-3066650150) in [brenoprata10/nvim-highlight-colors](https://github.com/brenoprata10/nvim-highlight-colors)
+5. 💪 Opened PR [#330](https://github.com/cordx56/rustowl/pull/330) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
 <!--END_SECTION:activity-->
 
 </details>
