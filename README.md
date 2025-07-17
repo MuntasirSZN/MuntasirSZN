@@ -122,11 +122,11 @@
 <summary><img src="https://readme-typing-svg.herokuapp.com/?lines=⚡+Recent+Activity;&font=Poppins"></summary>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#329](https://github.com/cordx56/rustowl/issues/329) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
-2. ❗ Opened issue [#3462](https://github.com/nuxt/content/issues/3462) in [nuxt/content](https://github.com/nuxt/content)
-3. 🗣 Commented on [#8489](https://github.com/zen-browser/desktop/issues/8489#issuecomment-3078721386) in [zen-browser/desktop](https://github.com/zen-browser/desktop)
-4. 🗣 Commented on [#339](https://github.com/cordx56/rustowl/pull/339#issuecomment-3078016546) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
-5. 🗣 Commented on [#286](https://github.com/cordx56/rustowl/pull/286#issuecomment-3077660877) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
+1. 💪 Opened PR [#341](https://github.com/cordx56/rustowl/pull/341) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
+2. 🔒 Closed issue [#329](https://github.com/cordx56/rustowl/issues/329) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
+3. ❗ Opened issue [#3462](https://github.com/nuxt/content/issues/3462) in [nuxt/content](https://github.com/nuxt/content)
+4. 🗣 Commented on [#8489](https://github.com/zen-browser/desktop/issues/8489#issuecomment-3078721386) in [zen-browser/desktop](https://github.com/zen-browser/desktop)
+5. 🗣 Commented on [#339](https://github.com/cordx56/rustowl/pull/339#issuecomment-3078016546) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
 <!--END_SECTION:activity-->
 
 </details>
