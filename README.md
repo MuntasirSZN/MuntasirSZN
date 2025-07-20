@@ -122,11 +122,11 @@
 <summary><img src="https://readme-typing-svg.herokuapp.com/?lines=⚡+Recent+Activity;&font=Poppins"></summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#346](https://github.com/cordx56/rustowl/pull/346) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
-2. 🗣 Commented on [#286](https://github.com/cordx56/rustowl/pull/286#issuecomment-3092369164) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
-3. 🗣 Commented on [#345](https://github.com/cordx56/rustowl/issues/345#issuecomment-3092295569) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
-4. 🗣 Commented on [#345](https://github.com/cordx56/rustowl/issues/345#issuecomment-3092281124) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
-5. 🗣 Commented on [#344](https://github.com/cordx56/rustowl/pull/344#issuecomment-3092278830) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
+1. 💪 Opened PR [#347](https://github.com/cordx56/rustowl/pull/347) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
+2. 💪 Opened PR [#346](https://github.com/cordx56/rustowl/pull/346) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
+3. 🗣 Commented on [#286](https://github.com/cordx56/rustowl/pull/286#issuecomment-3092369164) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
+4. 🗣 Commented on [#345](https://github.com/cordx56/rustowl/issues/345#issuecomment-3092295569) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
+5. 🗣 Commented on [#345](https://github.com/cordx56/rustowl/issues/345#issuecomment-3092281124) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
 <!--END_SECTION:activity-->
 
 </details>
