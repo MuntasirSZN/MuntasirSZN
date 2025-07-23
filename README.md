@@ -122,11 +122,11 @@
 <summary><img src="https://readme-typing-svg.herokuapp.com/?lines=⚡+Recent+Activity;&font=Poppins"></summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3465](https://github.com/nuxt/content/pull/3465#issuecomment-3102806119) in [nuxt/content](https://github.com/nuxt/content)
-2. 🎉 Merged PR [#18](https://github.com/MuntasirSZN/rou3-rs/pull/18) in [MuntasirSZN/rou3-rs](https://github.com/MuntasirSZN/rou3-rs)
-3. 🗣 Commented on [#344](https://github.com/cordx56/rustowl/pull/344#issuecomment-3097305604) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
-4. 💪 Opened PR [#24636](https://github.com/is-a-dev/register/pull/24636) in [is-a-dev/register](https://github.com/is-a-dev/register)
-5. 🎉 Merged PR [#348](https://github.com/cordx56/rustowl/pull/348) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
+1. 🎉 Merged PR [#14](https://github.com/MuntasirSZN/fetchttp/pull/14) in [MuntasirSZN/fetchttp](https://github.com/MuntasirSZN/fetchttp)
+2. 🎉 Merged PR [#13](https://github.com/MuntasirSZN/fetchttp/pull/13) in [MuntasirSZN/fetchttp](https://github.com/MuntasirSZN/fetchttp)
+3. 🗣 Commented on [#3465](https://github.com/nuxt/content/pull/3465#issuecomment-3102806119) in [nuxt/content](https://github.com/nuxt/content)
+4. 🎉 Merged PR [#18](https://github.com/MuntasirSZN/rou3-rs/pull/18) in [MuntasirSZN/rou3-rs](https://github.com/MuntasirSZN/rou3-rs)
+5. 🗣 Commented on [#344](https://github.com/cordx56/rustowl/pull/344#issuecomment-3097305604) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
 <!--END_SECTION:activity-->
 
 </details>
