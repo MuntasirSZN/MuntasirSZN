@@ -122,11 +122,11 @@
 <summary><img src="https://readme-typing-svg.herokuapp.com/?lines=⚡+Recent+Activity;&font=Poppins"></summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1341](https://github.com/sst/opencode/issues/1341#issuecomment-3122091632) in [sst/opencode](https://github.com/sst/opencode)
-2. 🗣 Commented on [#1341](https://github.com/sst/opencode/issues/1341#issuecomment-3122002898) in [sst/opencode](https://github.com/sst/opencode)
-3. 🗣 Commented on [#3482](https://github.com/nuxt/content/pull/3482#issuecomment-3121637601) in [nuxt/content](https://github.com/nuxt/content)
-4. 💪 Opened PR [#3482](https://github.com/nuxt/content/pull/3482) in [nuxt/content](https://github.com/nuxt/content)
-5. 🎉 Merged PR [#15](https://github.com/MuntasirSZN/fetchttp/pull/15) in [MuntasirSZN/fetchttp](https://github.com/MuntasirSZN/fetchttp)
+1. 🗣 Commented on [#1341](https://github.com/sst/opencode/issues/1341#issuecomment-3122114289) in [sst/opencode](https://github.com/sst/opencode)
+2. 🗣 Commented on [#1341](https://github.com/sst/opencode/issues/1341#issuecomment-3122091632) in [sst/opencode](https://github.com/sst/opencode)
+3. 🗣 Commented on [#1341](https://github.com/sst/opencode/issues/1341#issuecomment-3122002898) in [sst/opencode](https://github.com/sst/opencode)
+4. 🗣 Commented on [#3482](https://github.com/nuxt/content/pull/3482#issuecomment-3121637601) in [nuxt/content](https://github.com/nuxt/content)
+5. 💪 Opened PR [#3482](https://github.com/nuxt/content/pull/3482) in [nuxt/content](https://github.com/nuxt/content)
 <!--END_SECTION:activity-->
 
 </details>
