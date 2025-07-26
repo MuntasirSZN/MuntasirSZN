@@ -122,11 +122,11 @@
 <summary><img src="https://readme-typing-svg.herokuapp.com/?lines=⚡+Recent+Activity;&font=Poppins"></summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#15](https://github.com/MuntasirSZN/fetchttp/pull/15) in [MuntasirSZN/fetchttp](https://github.com/MuntasirSZN/fetchttp)
-2. 🎉 Merged PR [#19](https://github.com/MuntasirSZN/rou3-rs/pull/19) in [MuntasirSZN/rou3-rs](https://github.com/MuntasirSZN/rou3-rs)
-3. 💪 Opened PR [#635](https://github.com/nuxt-hub/core/pull/635) in [nuxt-hub/core](https://github.com/nuxt-hub/core)
-4. 🎉 Merged PR [#14](https://github.com/MuntasirSZN/fetchttp/pull/14) in [MuntasirSZN/fetchttp](https://github.com/MuntasirSZN/fetchttp)
-5. 🎉 Merged PR [#13](https://github.com/MuntasirSZN/fetchttp/pull/13) in [MuntasirSZN/fetchttp](https://github.com/MuntasirSZN/fetchttp)
+1. 🗣 Commented on [#3482](https://github.com/nuxt/content/pull/3482#issuecomment-3121637601) in [nuxt/content](https://github.com/nuxt/content)
+2. 💪 Opened PR [#3482](https://github.com/nuxt/content/pull/3482) in [nuxt/content](https://github.com/nuxt/content)
+3. 🎉 Merged PR [#15](https://github.com/MuntasirSZN/fetchttp/pull/15) in [MuntasirSZN/fetchttp](https://github.com/MuntasirSZN/fetchttp)
+4. 🎉 Merged PR [#19](https://github.com/MuntasirSZN/rou3-rs/pull/19) in [MuntasirSZN/rou3-rs](https://github.com/MuntasirSZN/rou3-rs)
+5. 💪 Opened PR [#635](https://github.com/nuxt-hub/core/pull/635) in [nuxt-hub/core](https://github.com/nuxt-hub/core)
 <!--END_SECTION:activity-->
 
 </details>
