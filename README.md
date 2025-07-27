@@ -122,11 +122,11 @@
 <summary><img src="https://readme-typing-svg.herokuapp.com/?lines=⚡+Recent+Activity;&font=Poppins"></summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#351](https://github.com/cordx56/rustowl/pull/351) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
-2. 🗣 Commented on [#1341](https://github.com/sst/opencode/issues/1341#issuecomment-3122114289) in [sst/opencode](https://github.com/sst/opencode)
-3. 🗣 Commented on [#1341](https://github.com/sst/opencode/issues/1341#issuecomment-3122091632) in [sst/opencode](https://github.com/sst/opencode)
-4. 🗣 Commented on [#1341](https://github.com/sst/opencode/issues/1341#issuecomment-3122002898) in [sst/opencode](https://github.com/sst/opencode)
-5. 🗣 Commented on [#3482](https://github.com/nuxt/content/pull/3482#issuecomment-3121637601) in [nuxt/content](https://github.com/nuxt/content)
+1. 🗣 Commented on [#290](https://github.com/cordx56/rustowl/pull/290#issuecomment-3124502993) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
+2. 💪 Opened PR [#351](https://github.com/cordx56/rustowl/pull/351) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
+3. 🗣 Commented on [#1341](https://github.com/sst/opencode/issues/1341#issuecomment-3122114289) in [sst/opencode](https://github.com/sst/opencode)
+4. 🗣 Commented on [#1341](https://github.com/sst/opencode/issues/1341#issuecomment-3122091632) in [sst/opencode](https://github.com/sst/opencode)
+5. 🗣 Commented on [#1341](https://github.com/sst/opencode/issues/1341#issuecomment-3122002898) in [sst/opencode](https://github.com/sst/opencode)
 <!--END_SECTION:activity-->
 
 </details>
