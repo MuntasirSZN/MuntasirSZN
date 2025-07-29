@@ -124,11 +124,11 @@
 <summary><img src="https://readme-typing-svg.herokuapp.com/?lines=⚡+Recent+Activity;&font=Poppins"></summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#515](https://github.com/catppuccin/vscode-icons/pull/515#issuecomment-3127874645) in [catppuccin/vscode-icons](https://github.com/catppuccin/vscode-icons)
-2. 💪 Opened PR [#515](https://github.com/catppuccin/vscode-icons/pull/515) in [catppuccin/vscode-icons](https://github.com/catppuccin/vscode-icons)
-3. 🎉 Merged PR [#30](https://github.com/MuntasirSZN/csmc/pull/30) in [MuntasirSZN/csmc](https://github.com/MuntasirSZN/csmc)
-4. 🗣 Commented on [#286](https://github.com/cordx56/rustowl/pull/286#issuecomment-3126200870) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
-5. 🗣 Commented on [#352](https://github.com/cordx56/rustowl/pull/352#issuecomment-3126197127) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
+1. 🎉 Merged PR [#353](https://github.com/cordx56/rustowl/pull/353) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
+2. 🗣 Commented on [#515](https://github.com/catppuccin/vscode-icons/pull/515#issuecomment-3127874645) in [catppuccin/vscode-icons](https://github.com/catppuccin/vscode-icons)
+3. 💪 Opened PR [#515](https://github.com/catppuccin/vscode-icons/pull/515) in [catppuccin/vscode-icons](https://github.com/catppuccin/vscode-icons)
+4. 🎉 Merged PR [#30](https://github.com/MuntasirSZN/csmc/pull/30) in [MuntasirSZN/csmc](https://github.com/MuntasirSZN/csmc)
+5. 🗣 Commented on [#286](https://github.com/cordx56/rustowl/pull/286#issuecomment-3126200870) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
 <!--END_SECTION:activity-->
 
 </details>
