@@ -124,11 +124,11 @@
 <summary><img src="https://readme-typing-svg.herokuapp.com/?lines=⚡+Recent+Activity;&font=Poppins"></summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#353](https://github.com/cordx56/rustowl/pull/353) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
-2. 🗣 Commented on [#515](https://github.com/catppuccin/vscode-icons/pull/515#issuecomment-3127874645) in [catppuccin/vscode-icons](https://github.com/catppuccin/vscode-icons)
-3. 💪 Opened PR [#515](https://github.com/catppuccin/vscode-icons/pull/515) in [catppuccin/vscode-icons](https://github.com/catppuccin/vscode-icons)
-4. 🎉 Merged PR [#30](https://github.com/MuntasirSZN/csmc/pull/30) in [MuntasirSZN/csmc](https://github.com/MuntasirSZN/csmc)
-5. 🗣 Commented on [#286](https://github.com/cordx56/rustowl/pull/286#issuecomment-3126200870) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
+1. 🎉 Merged PR [#85](https://github.com/MuntasirSZN/getquotes/pull/85) in [MuntasirSZN/getquotes](https://github.com/MuntasirSZN/getquotes)
+2. 🎉 Merged PR [#84](https://github.com/MuntasirSZN/getquotes/pull/84) in [MuntasirSZN/getquotes](https://github.com/MuntasirSZN/getquotes)
+3. 🗣 Commented on [#1734](https://github.com/folke/snacks.nvim/pull/1734#issuecomment-3135000403) in [folke/snacks.nvim](https://github.com/folke/snacks.nvim)
+4. 🔒 Closed issue [#1896](https://github.com/folke/snacks.nvim/issues/1896) in [folke/snacks.nvim](https://github.com/folke/snacks.nvim)
+5. 🗣 Commented on [#1896](https://github.com/folke/snacks.nvim/issues/1896#issuecomment-3134999658) in [folke/snacks.nvim](https://github.com/folke/snacks.nvim)
 <!--END_SECTION:activity-->
 
 </details>
