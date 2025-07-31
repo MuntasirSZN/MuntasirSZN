@@ -124,11 +124,11 @@
 <summary><img src="https://readme-typing-svg.herokuapp.com/?lines=⚡+Recent+Activity;&font=Poppins"></summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#85](https://github.com/MuntasirSZN/getquotes/pull/85) in [MuntasirSZN/getquotes](https://github.com/MuntasirSZN/getquotes)
-2. 🎉 Merged PR [#84](https://github.com/MuntasirSZN/getquotes/pull/84) in [MuntasirSZN/getquotes](https://github.com/MuntasirSZN/getquotes)
-3. 🗣 Commented on [#1734](https://github.com/folke/snacks.nvim/pull/1734#issuecomment-3135000403) in [folke/snacks.nvim](https://github.com/folke/snacks.nvim)
-4. 🔒 Closed issue [#1896](https://github.com/folke/snacks.nvim/issues/1896) in [folke/snacks.nvim](https://github.com/folke/snacks.nvim)
-5. 🗣 Commented on [#1896](https://github.com/folke/snacks.nvim/issues/1896#issuecomment-3134999658) in [folke/snacks.nvim](https://github.com/folke/snacks.nvim)
+1. 🎉 Merged PR [#20](https://github.com/MuntasirSZN/rou3-rs/pull/20) in [MuntasirSZN/rou3-rs](https://github.com/MuntasirSZN/rou3-rs)
+2. 🎉 Merged PR [#85](https://github.com/MuntasirSZN/getquotes/pull/85) in [MuntasirSZN/getquotes](https://github.com/MuntasirSZN/getquotes)
+3. 🎉 Merged PR [#84](https://github.com/MuntasirSZN/getquotes/pull/84) in [MuntasirSZN/getquotes](https://github.com/MuntasirSZN/getquotes)
+4. 🗣 Commented on [#1734](https://github.com/folke/snacks.nvim/pull/1734#issuecomment-3135000403) in [folke/snacks.nvim](https://github.com/folke/snacks.nvim)
+5. 🔒 Closed issue [#1896](https://github.com/folke/snacks.nvim/issues/1896) in [folke/snacks.nvim](https://github.com/folke/snacks.nvim)
 <!--END_SECTION:activity-->
 
 </details>
