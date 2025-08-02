@@ -124,11 +124,11 @@
 <summary><img src="https://readme-typing-svg.herokuapp.com/?lines=⚡+Recent+Activity;&font=Poppins"></summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#17](https://github.com/MuntasirSZN/fetchttp/pull/17) in [MuntasirSZN/fetchttp](https://github.com/MuntasirSZN/fetchttp)
-2. 🎉 Merged PR [#20](https://github.com/MuntasirSZN/rou3-rs/pull/20) in [MuntasirSZN/rou3-rs](https://github.com/MuntasirSZN/rou3-rs)
-3. 🎉 Merged PR [#85](https://github.com/MuntasirSZN/getquotes/pull/85) in [MuntasirSZN/getquotes](https://github.com/MuntasirSZN/getquotes)
-4. 🎉 Merged PR [#84](https://github.com/MuntasirSZN/getquotes/pull/84) in [MuntasirSZN/getquotes](https://github.com/MuntasirSZN/getquotes)
-5. 🗣 Commented on [#1734](https://github.com/folke/snacks.nvim/pull/1734#issuecomment-3135000403) in [folke/snacks.nvim](https://github.com/folke/snacks.nvim)
+1. 🎉 Merged PR [#19](https://github.com/MuntasirSZN/fetchttp/pull/19) in [MuntasirSZN/fetchttp](https://github.com/MuntasirSZN/fetchttp)
+2. 🎉 Merged PR [#18](https://github.com/MuntasirSZN/fetchttp/pull/18) in [MuntasirSZN/fetchttp](https://github.com/MuntasirSZN/fetchttp)
+3. 🎉 Merged PR [#17](https://github.com/MuntasirSZN/fetchttp/pull/17) in [MuntasirSZN/fetchttp](https://github.com/MuntasirSZN/fetchttp)
+4. 🎉 Merged PR [#20](https://github.com/MuntasirSZN/rou3-rs/pull/20) in [MuntasirSZN/rou3-rs](https://github.com/MuntasirSZN/rou3-rs)
+5. 🎉 Merged PR [#85](https://github.com/MuntasirSZN/getquotes/pull/85) in [MuntasirSZN/getquotes](https://github.com/MuntasirSZN/getquotes)
 <!--END_SECTION:activity-->
 
 </details>
