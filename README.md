@@ -124,11 +124,11 @@
 <summary><img src="https://readme-typing-svg.herokuapp.com/?lines=⚡+Recent+Activity;&font=Poppins"></summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#19](https://github.com/MuntasirSZN/fetchttp/pull/19) in [MuntasirSZN/fetchttp](https://github.com/MuntasirSZN/fetchttp)
-2. 🎉 Merged PR [#18](https://github.com/MuntasirSZN/fetchttp/pull/18) in [MuntasirSZN/fetchttp](https://github.com/MuntasirSZN/fetchttp)
-3. 🎉 Merged PR [#17](https://github.com/MuntasirSZN/fetchttp/pull/17) in [MuntasirSZN/fetchttp](https://github.com/MuntasirSZN/fetchttp)
-4. 🎉 Merged PR [#20](https://github.com/MuntasirSZN/rou3-rs/pull/20) in [MuntasirSZN/rou3-rs](https://github.com/MuntasirSZN/rou3-rs)
-5. 🎉 Merged PR [#85](https://github.com/MuntasirSZN/getquotes/pull/85) in [MuntasirSZN/getquotes](https://github.com/MuntasirSZN/getquotes)
+1. 🎉 Merged PR [#87](https://github.com/MuntasirSZN/getquotes/pull/87) in [MuntasirSZN/getquotes](https://github.com/MuntasirSZN/getquotes)
+2. 🎉 Merged PR [#19](https://github.com/MuntasirSZN/fetchttp/pull/19) in [MuntasirSZN/fetchttp](https://github.com/MuntasirSZN/fetchttp)
+3. 🎉 Merged PR [#18](https://github.com/MuntasirSZN/fetchttp/pull/18) in [MuntasirSZN/fetchttp](https://github.com/MuntasirSZN/fetchttp)
+4. 🎉 Merged PR [#17](https://github.com/MuntasirSZN/fetchttp/pull/17) in [MuntasirSZN/fetchttp](https://github.com/MuntasirSZN/fetchttp)
+5. 🎉 Merged PR [#20](https://github.com/MuntasirSZN/rou3-rs/pull/20) in [MuntasirSZN/rou3-rs](https://github.com/MuntasirSZN/rou3-rs)
 <!--END_SECTION:activity-->
 
 </details>
