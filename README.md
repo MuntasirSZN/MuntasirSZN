@@ -124,11 +124,11 @@
 <summary><img src="https://readme-typing-svg.herokuapp.com/?lines=⚡+Recent+Activity;&font=Poppins"></summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#80](https://github.com/STEAMer-Academy/steamer-academy.me/pull/80) in [STEAMer-Academy/steamer-academy.me](https://github.com/STEAMer-Academy/steamer-academy.me)
-2. 🎉 Merged PR [#76](https://github.com/STEAMer-Academy/steamer-academy.me/pull/76) in [STEAMer-Academy/steamer-academy.me](https://github.com/STEAMer-Academy/steamer-academy.me)
-3. 🎉 Merged PR [#77](https://github.com/STEAMer-Academy/steamer-academy.me/pull/77) in [STEAMer-Academy/steamer-academy.me](https://github.com/STEAMer-Academy/steamer-academy.me)
-4. 🎉 Merged PR [#79](https://github.com/STEAMer-Academy/steamer-academy.me/pull/79) in [STEAMer-Academy/steamer-academy.me](https://github.com/STEAMer-Academy/steamer-academy.me)
-5. 🎉 Merged PR [#78](https://github.com/STEAMer-Academy/steamer-academy.me/pull/78) in [STEAMer-Academy/steamer-academy.me](https://github.com/STEAMer-Academy/steamer-academy.me)
+1. 🗣 Commented on [#74](https://github.com/MuntasirSZN/csmc/pull/74#issuecomment-3191491534) in [MuntasirSZN/csmc](https://github.com/MuntasirSZN/csmc)
+2. 🗣 Commented on [#73](https://github.com/MuntasirSZN/csmc/pull/73#issuecomment-3191490991) in [MuntasirSZN/csmc](https://github.com/MuntasirSZN/csmc)
+3. 🗣 Commented on [#72](https://github.com/MuntasirSZN/csmc/pull/72#issuecomment-3191490308) in [MuntasirSZN/csmc](https://github.com/MuntasirSZN/csmc)
+4. 🎉 Merged PR [#71](https://github.com/MuntasirSZN/csmc/pull/71) in [MuntasirSZN/csmc](https://github.com/MuntasirSZN/csmc)
+5. 🎉 Merged PR [#80](https://github.com/STEAMer-Academy/steamer-academy.me/pull/80) in [STEAMer-Academy/steamer-academy.me](https://github.com/STEAMer-Academy/steamer-academy.me)
 <!--END_SECTION:activity-->
 
 </details>
