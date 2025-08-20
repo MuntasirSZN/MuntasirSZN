@@ -124,11 +124,11 @@
 <summary><img src="https://readme-typing-svg.herokuapp.com/?lines=⚡+Recent+Activity;&font=Poppins"></summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#77](https://github.com/MuntasirSZN/csmc/pull/77#issuecomment-3201460493) in [MuntasirSZN/csmc](https://github.com/MuntasirSZN/csmc)
-2. 🗣 Commented on [#76](https://github.com/MuntasirSZN/csmc/pull/76#issuecomment-3201459648) in [MuntasirSZN/csmc](https://github.com/MuntasirSZN/csmc)
-3. 🎉 Merged PR [#75](https://github.com/MuntasirSZN/csmc/pull/75) in [MuntasirSZN/csmc](https://github.com/MuntasirSZN/csmc)
-4. 🎉 Merged PR [#82](https://github.com/STEAMer-Academy/steamer-academy.me/pull/82) in [STEAMer-Academy/steamer-academy.me](https://github.com/STEAMer-Academy/steamer-academy.me)
-5. 🎉 Merged PR [#96](https://github.com/MuntasirSZN/getquotes/pull/96) in [MuntasirSZN/getquotes](https://github.com/MuntasirSZN/getquotes)
+1. 🗣 Commented on [#78](https://github.com/MuntasirSZN/csmc/pull/78#issuecomment-3202867359) in [MuntasirSZN/csmc](https://github.com/MuntasirSZN/csmc)
+2. 🗣 Commented on [#82](https://github.com/MuntasirSZN/csmc/pull/82#issuecomment-3202863220) in [MuntasirSZN/csmc](https://github.com/MuntasirSZN/csmc)
+3. 🗣 Commented on [#81](https://github.com/MuntasirSZN/csmc/pull/81#issuecomment-3202856527) in [MuntasirSZN/csmc](https://github.com/MuntasirSZN/csmc)
+4. 🗣 Commented on [#80](https://github.com/MuntasirSZN/csmc/pull/80#issuecomment-3202853902) in [MuntasirSZN/csmc](https://github.com/MuntasirSZN/csmc)
+5. 🗣 Commented on [#79](https://github.com/MuntasirSZN/csmc/pull/79#issuecomment-3202848605) in [MuntasirSZN/csmc](https://github.com/MuntasirSZN/csmc)
 <!--END_SECTION:activity-->
 
 </details>
