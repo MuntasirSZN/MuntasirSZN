@@ -124,11 +124,11 @@
 <summary><img src="https://readme-typing-svg.herokuapp.com/?lines=⚡+Recent+Activity;&font=Poppins"></summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#78](https://github.com/MuntasirSZN/csmc/pull/78#issuecomment-3202867359) in [MuntasirSZN/csmc](https://github.com/MuntasirSZN/csmc)
-2. 🗣 Commented on [#82](https://github.com/MuntasirSZN/csmc/pull/82#issuecomment-3202863220) in [MuntasirSZN/csmc](https://github.com/MuntasirSZN/csmc)
-3. 🗣 Commented on [#81](https://github.com/MuntasirSZN/csmc/pull/81#issuecomment-3202856527) in [MuntasirSZN/csmc](https://github.com/MuntasirSZN/csmc)
-4. 🗣 Commented on [#80](https://github.com/MuntasirSZN/csmc/pull/80#issuecomment-3202853902) in [MuntasirSZN/csmc](https://github.com/MuntasirSZN/csmc)
-5. 🗣 Commented on [#79](https://github.com/MuntasirSZN/csmc/pull/79#issuecomment-3202848605) in [MuntasirSZN/csmc](https://github.com/MuntasirSZN/csmc)
+1. 🎉 Merged PR [#27](https://github.com/MuntasirSZN/rou3-rs/pull/27) in [MuntasirSZN/rou3-rs](https://github.com/MuntasirSZN/rou3-rs)
+2. 🗣 Commented on [#78](https://github.com/MuntasirSZN/csmc/pull/78#issuecomment-3202867359) in [MuntasirSZN/csmc](https://github.com/MuntasirSZN/csmc)
+3. 🗣 Commented on [#82](https://github.com/MuntasirSZN/csmc/pull/82#issuecomment-3202863220) in [MuntasirSZN/csmc](https://github.com/MuntasirSZN/csmc)
+4. 🗣 Commented on [#81](https://github.com/MuntasirSZN/csmc/pull/81#issuecomment-3202856527) in [MuntasirSZN/csmc](https://github.com/MuntasirSZN/csmc)
+5. 🗣 Commented on [#80](https://github.com/MuntasirSZN/csmc/pull/80#issuecomment-3202853902) in [MuntasirSZN/csmc](https://github.com/MuntasirSZN/csmc)
 <!--END_SECTION:activity-->
 
 </details>
