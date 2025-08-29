@@ -124,11 +124,11 @@
 <summary><img src="https://readme-typing-svg.herokuapp.com/?lines=⚡+Recent+Activity;&font=Poppins"></summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#31](https://github.com/MuntasirSZN/rou3-rs/pull/31) in [MuntasirSZN/rou3-rs](https://github.com/MuntasirSZN/rou3-rs)
-2. ❌ Closed PR [#32](https://github.com/MuntasirSZN/rou3-rs/pull/32) in [MuntasirSZN/rou3-rs](https://github.com/MuntasirSZN/rou3-rs)
-3. 🗣 Commented on [#31](https://github.com/MuntasirSZN/rou3-rs/pull/31#issuecomment-3234154957) in [MuntasirSZN/rou3-rs](https://github.com/MuntasirSZN/rou3-rs)
-4. 🗣 Commented on [#104](https://github.com/MuntasirSZN/csmc/pull/104#issuecomment-3228991091) in [MuntasirSZN/csmc](https://github.com/MuntasirSZN/csmc)
-5. 🎉 Merged PR [#101](https://github.com/MuntasirSZN/csmc/pull/101) in [MuntasirSZN/csmc](https://github.com/MuntasirSZN/csmc)
+1. 🎉 Merged PR [#97](https://github.com/STEAMer-Academy/steamer-academy.me/pull/97) in [STEAMer-Academy/steamer-academy.me](https://github.com/STEAMer-Academy/steamer-academy.me)
+2. 🎉 Merged PR [#99](https://github.com/STEAMer-Academy/steamer-academy.me/pull/99) in [STEAMer-Academy/steamer-academy.me](https://github.com/STEAMer-Academy/steamer-academy.me)
+3. 🎉 Merged PR [#100](https://github.com/STEAMer-Academy/steamer-academy.me/pull/100) in [STEAMer-Academy/steamer-academy.me](https://github.com/STEAMer-Academy/steamer-academy.me)
+4. 🎉 Merged PR [#110](https://github.com/MuntasirSZN/csmc/pull/110) in [MuntasirSZN/csmc](https://github.com/MuntasirSZN/csmc)
+5. 🎉 Merged PR [#109](https://github.com/MuntasirSZN/csmc/pull/109) in [MuntasirSZN/csmc](https://github.com/MuntasirSZN/csmc)
 <!--END_SECTION:activity-->
 
 </details>
