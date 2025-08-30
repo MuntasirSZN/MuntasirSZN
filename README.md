@@ -124,11 +124,11 @@
 <summary><img src="https://readme-typing-svg.herokuapp.com/?lines=⚡+Recent+Activity;&font=Poppins"></summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#408](https://github.com/cordx56/rustowl/pull/408#issuecomment-3239169992) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
-2. 💪 Opened PR [#408](https://github.com/cordx56/rustowl/pull/408) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
-3. 🎉 Merged PR [#28](https://github.com/MuntasirSZN/fetchttp/pull/28) in [MuntasirSZN/fetchttp](https://github.com/MuntasirSZN/fetchttp)
-4. 🎉 Merged PR [#33](https://github.com/MuntasirSZN/rou3-rs/pull/33) in [MuntasirSZN/rou3-rs](https://github.com/MuntasirSZN/rou3-rs)
-5. 🎉 Merged PR [#97](https://github.com/STEAMer-Academy/steamer-academy.me/pull/97) in [STEAMer-Academy/steamer-academy.me](https://github.com/STEAMer-Academy/steamer-academy.me)
+1. 🎉 Merged PR [#407](https://github.com/cordx56/rustowl/pull/407) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
+2. 🗣 Commented on [#408](https://github.com/cordx56/rustowl/pull/408#issuecomment-3239169992) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
+3. 💪 Opened PR [#408](https://github.com/cordx56/rustowl/pull/408) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
+4. 🎉 Merged PR [#28](https://github.com/MuntasirSZN/fetchttp/pull/28) in [MuntasirSZN/fetchttp](https://github.com/MuntasirSZN/fetchttp)
+5. 🎉 Merged PR [#33](https://github.com/MuntasirSZN/rou3-rs/pull/33) in [MuntasirSZN/rou3-rs](https://github.com/MuntasirSZN/rou3-rs)
 <!--END_SECTION:activity-->
 
 </details>
