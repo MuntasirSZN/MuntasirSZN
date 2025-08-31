@@ -124,11 +124,11 @@
 <summary><img src="https://readme-typing-svg.herokuapp.com/?lines=⚡+Recent+Activity;&font=Poppins"></summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#81](https://github.com/MuntasirSZN/rustowl/pull/81#issuecomment-3240197771) in [MuntasirSZN/rustowl](https://github.com/MuntasirSZN/rustowl)
-2. 🗣 Commented on [#81](https://github.com/MuntasirSZN/rustowl/pull/81#issuecomment-3240193891) in [MuntasirSZN/rustowl](https://github.com/MuntasirSZN/rustowl)
-3. 🗣 Commented on [#81](https://github.com/MuntasirSZN/rustowl/pull/81#issuecomment-3240120903) in [MuntasirSZN/rustowl](https://github.com/MuntasirSZN/rustowl)
-4. 🗣 Commented on [#81](https://github.com/MuntasirSZN/rustowl/pull/81#issuecomment-3240034061) in [MuntasirSZN/rustowl](https://github.com/MuntasirSZN/rustowl)
-5. 🗣 Commented on [#81](https://github.com/MuntasirSZN/rustowl/pull/81#issuecomment-3240020457) in [MuntasirSZN/rustowl](https://github.com/MuntasirSZN/rustowl)
+1. ❗ Opened issue [#409](https://github.com/cordx56/rustowl/issues/409) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
+2. 🗣 Commented on [#81](https://github.com/MuntasirSZN/rustowl/pull/81#issuecomment-3240229799) in [MuntasirSZN/rustowl](https://github.com/MuntasirSZN/rustowl)
+3. 🗣 Commented on [#81](https://github.com/MuntasirSZN/rustowl/pull/81#issuecomment-3240197771) in [MuntasirSZN/rustowl](https://github.com/MuntasirSZN/rustowl)
+4. 🗣 Commented on [#81](https://github.com/MuntasirSZN/rustowl/pull/81#issuecomment-3240193891) in [MuntasirSZN/rustowl](https://github.com/MuntasirSZN/rustowl)
+5. 🗣 Commented on [#81](https://github.com/MuntasirSZN/rustowl/pull/81#issuecomment-3240120903) in [MuntasirSZN/rustowl](https://github.com/MuntasirSZN/rustowl)
 <!--END_SECTION:activity-->
 
 </details>
