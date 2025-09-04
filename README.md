@@ -124,11 +124,11 @@
 <summary><img src="https://readme-typing-svg.herokuapp.com/?lines=⚡+Recent+Activity;&font=Poppins"></summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#119](https://github.com/MuntasirSZN/csmc/pull/119#issuecomment-3254060281) in [MuntasirSZN/csmc](https://github.com/MuntasirSZN/csmc)
-2. ❌ Closed PR [#94](https://github.com/MuntasirSZN/rustowl/pull/94) in [MuntasirSZN/rustowl](https://github.com/MuntasirSZN/rustowl)
-3. 🗣 Commented on [#91](https://github.com/MuntasirSZN/rustowl/pull/91#issuecomment-3254053962) in [MuntasirSZN/rustowl](https://github.com/MuntasirSZN/rustowl)
-4. 🗣 Commented on [#406](https://github.com/cordx56/rustowl/issues/406#issuecomment-3249001438) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
-5. 🗣 Commented on [#420](https://github.com/cordx56/rustowl/pull/420#issuecomment-3248994633) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
+1. 🗣 Commented on [#1](https://github.com/MuntasirSZN/tera-autoextsyn.nvim/issues/1#issuecomment-3254102671) in [MuntasirSZN/tera-autoextsyn.nvim](https://github.com/MuntasirSZN/tera-autoextsyn.nvim)
+2. 🔒 Closed issue [#1](https://github.com/MuntasirSZN/tera-autoextsyn.nvim/issues/1) in [MuntasirSZN/tera-autoextsyn.nvim](https://github.com/MuntasirSZN/tera-autoextsyn.nvim)
+3. 🗣 Commented on [#119](https://github.com/MuntasirSZN/csmc/pull/119#issuecomment-3254060281) in [MuntasirSZN/csmc](https://github.com/MuntasirSZN/csmc)
+4. ❌ Closed PR [#94](https://github.com/MuntasirSZN/rustowl/pull/94) in [MuntasirSZN/rustowl](https://github.com/MuntasirSZN/rustowl)
+5. 🗣 Commented on [#91](https://github.com/MuntasirSZN/rustowl/pull/91#issuecomment-3254053962) in [MuntasirSZN/rustowl](https://github.com/MuntasirSZN/rustowl)
 <!--END_SECTION:activity-->
 
 </details>
