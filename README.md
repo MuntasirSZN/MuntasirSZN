@@ -124,11 +124,11 @@
 <summary><img src="https://readme-typing-svg.herokuapp.com/?lines=⚡+Recent+Activity;&font=Poppins"></summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#29](https://github.com/MuntasirSZN/fetchttp/pull/29) in [MuntasirSZN/fetchttp](https://github.com/MuntasirSZN/fetchttp)
-2. 🎉 Merged PR [#30](https://github.com/MuntasirSZN/fetchttp/pull/30) in [MuntasirSZN/fetchttp](https://github.com/MuntasirSZN/fetchttp)
-3. 🎉 Merged PR [#34](https://github.com/MuntasirSZN/rou3-rs/pull/34) in [MuntasirSZN/rou3-rs](https://github.com/MuntasirSZN/rou3-rs)
-4. 🎉 Merged PR [#35](https://github.com/MuntasirSZN/rou3-rs/pull/35) in [MuntasirSZN/rou3-rs](https://github.com/MuntasirSZN/rou3-rs)
-5. 🗣 Commented on [#1](https://github.com/MuntasirSZN/tera-autoextsyn.nvim/issues/1#issuecomment-3254102671) in [MuntasirSZN/tera-autoextsyn.nvim](https://github.com/MuntasirSZN/tera-autoextsyn.nvim)
+1. 🎉 Merged PR [#111](https://github.com/STEAMer-Academy/steamer-academy.me/pull/111) in [STEAMer-Academy/steamer-academy.me](https://github.com/STEAMer-Academy/steamer-academy.me)
+2. 🎉 Merged PR [#120](https://github.com/MuntasirSZN/csmc/pull/120) in [MuntasirSZN/csmc](https://github.com/MuntasirSZN/csmc)
+3. 🎉 Merged PR [#29](https://github.com/MuntasirSZN/fetchttp/pull/29) in [MuntasirSZN/fetchttp](https://github.com/MuntasirSZN/fetchttp)
+4. 🎉 Merged PR [#30](https://github.com/MuntasirSZN/fetchttp/pull/30) in [MuntasirSZN/fetchttp](https://github.com/MuntasirSZN/fetchttp)
+5. 🎉 Merged PR [#34](https://github.com/MuntasirSZN/rou3-rs/pull/34) in [MuntasirSZN/rou3-rs](https://github.com/MuntasirSZN/rou3-rs)
 <!--END_SECTION:activity-->
 
 </details>
