@@ -124,11 +124,11 @@
 <summary><img src="https://readme-typing-svg.herokuapp.com/?lines=⚡+Recent+Activity;&font=Poppins"></summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/MuntasirSZN/tera-autoextsyn.nvim/issues/1#issuecomment-3254102671) in [MuntasirSZN/tera-autoextsyn.nvim](https://github.com/MuntasirSZN/tera-autoextsyn.nvim)
-2. 🔒 Closed issue [#1](https://github.com/MuntasirSZN/tera-autoextsyn.nvim/issues/1) in [MuntasirSZN/tera-autoextsyn.nvim](https://github.com/MuntasirSZN/tera-autoextsyn.nvim)
-3. 🗣 Commented on [#119](https://github.com/MuntasirSZN/csmc/pull/119#issuecomment-3254060281) in [MuntasirSZN/csmc](https://github.com/MuntasirSZN/csmc)
-4. ❌ Closed PR [#94](https://github.com/MuntasirSZN/rustowl/pull/94) in [MuntasirSZN/rustowl](https://github.com/MuntasirSZN/rustowl)
-5. 🗣 Commented on [#91](https://github.com/MuntasirSZN/rustowl/pull/91#issuecomment-3254053962) in [MuntasirSZN/rustowl](https://github.com/MuntasirSZN/rustowl)
+1. 🎉 Merged PR [#29](https://github.com/MuntasirSZN/fetchttp/pull/29) in [MuntasirSZN/fetchttp](https://github.com/MuntasirSZN/fetchttp)
+2. 🎉 Merged PR [#30](https://github.com/MuntasirSZN/fetchttp/pull/30) in [MuntasirSZN/fetchttp](https://github.com/MuntasirSZN/fetchttp)
+3. 🎉 Merged PR [#34](https://github.com/MuntasirSZN/rou3-rs/pull/34) in [MuntasirSZN/rou3-rs](https://github.com/MuntasirSZN/rou3-rs)
+4. 🎉 Merged PR [#35](https://github.com/MuntasirSZN/rou3-rs/pull/35) in [MuntasirSZN/rou3-rs](https://github.com/MuntasirSZN/rou3-rs)
+5. 🗣 Commented on [#1](https://github.com/MuntasirSZN/tera-autoextsyn.nvim/issues/1#issuecomment-3254102671) in [MuntasirSZN/tera-autoextsyn.nvim](https://github.com/MuntasirSZN/tera-autoextsyn.nvim)
 <!--END_SECTION:activity-->
 
 </details>
