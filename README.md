@@ -124,11 +124,11 @@
 <summary><img src="https://readme-typing-svg.herokuapp.com/?lines=⚡+Recent+Activity;&font=Poppins"></summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#113](https://github.com/STEAMer-Academy/steamer-academy.me/pull/113) in [STEAMer-Academy/steamer-academy.me](https://github.com/STEAMer-Academy/steamer-academy.me)
-2. 🗣 Commented on [#421](https://github.com/cordx56/rustowl/pull/421#issuecomment-3263810280) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
-3. 🗣 Commented on [#421](https://github.com/cordx56/rustowl/pull/421#issuecomment-3263631563) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
-4. 💪 Opened PR [#421](https://github.com/cordx56/rustowl/pull/421) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
-5. 🎉 Merged PR [#91](https://github.com/MuntasirSZN/rustowl/pull/91) in [MuntasirSZN/rustowl](https://github.com/MuntasirSZN/rustowl)
+1. 🗣 Commented on [#3524](https://github.com/nuxt/content/pull/3524#issuecomment-3264808544) in [nuxt/content](https://github.com/nuxt/content)
+2. 🎉 Merged PR [#113](https://github.com/STEAMer-Academy/steamer-academy.me/pull/113) in [STEAMer-Academy/steamer-academy.me](https://github.com/STEAMer-Academy/steamer-academy.me)
+3. 🗣 Commented on [#421](https://github.com/cordx56/rustowl/pull/421#issuecomment-3263810280) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
+4. 🗣 Commented on [#421](https://github.com/cordx56/rustowl/pull/421#issuecomment-3263631563) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
+5. 💪 Opened PR [#421](https://github.com/cordx56/rustowl/pull/421) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
 <!--END_SECTION:activity-->
 
 </details>
