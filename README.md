@@ -124,11 +124,11 @@
 <summary><img src="https://readme-typing-svg.herokuapp.com/?lines=⚡+Recent+Activity;&font=Poppins"></summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#112](https://github.com/STEAMer-Academy/steamer-academy.me/pull/112) in [STEAMer-Academy/steamer-academy.me](https://github.com/STEAMer-Academy/steamer-academy.me)
-2. 🎉 Merged PR [#104](https://github.com/STEAMer-Academy/steamer-academy.me/pull/104) in [STEAMer-Academy/steamer-academy.me](https://github.com/STEAMer-Academy/steamer-academy.me)
-3. 🎉 Merged PR [#110](https://github.com/STEAMer-Academy/steamer-academy.me/pull/110) in [STEAMer-Academy/steamer-academy.me](https://github.com/STEAMer-Academy/steamer-academy.me)
-4. 🎉 Merged PR [#114](https://github.com/STEAMer-Academy/steamer-academy.me/pull/114) in [STEAMer-Academy/steamer-academy.me](https://github.com/STEAMer-Academy/steamer-academy.me)
-5. 🎉 Merged PR [#115](https://github.com/STEAMer-Academy/steamer-academy.me/pull/115) in [STEAMer-Academy/steamer-academy.me](https://github.com/STEAMer-Academy/steamer-academy.me)
+1. 🚀 Published release [v0.1.0](https://github.com/MuntasirSZN/regex_ansi/releases/tag/v0.1.0) in [MuntasirSZN/regex_ansi](https://github.com/MuntasirSZN/regex_ansi)
+2. 🎉 Merged PR [#112](https://github.com/STEAMer-Academy/steamer-academy.me/pull/112) in [STEAMer-Academy/steamer-academy.me](https://github.com/STEAMer-Academy/steamer-academy.me)
+3. 🎉 Merged PR [#104](https://github.com/STEAMer-Academy/steamer-academy.me/pull/104) in [STEAMer-Academy/steamer-academy.me](https://github.com/STEAMer-Academy/steamer-academy.me)
+4. 🎉 Merged PR [#110](https://github.com/STEAMer-Academy/steamer-academy.me/pull/110) in [STEAMer-Academy/steamer-academy.me](https://github.com/STEAMer-Academy/steamer-academy.me)
+5. 🎉 Merged PR [#114](https://github.com/STEAMer-Academy/steamer-academy.me/pull/114) in [STEAMer-Academy/steamer-academy.me](https://github.com/STEAMer-Academy/steamer-academy.me)
 <!--END_SECTION:activity-->
 
 </details>
