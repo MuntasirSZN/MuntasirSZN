@@ -124,11 +124,11 @@
 <summary><img src="https://readme-typing-svg.herokuapp.com/?lines=⚡+Recent+Activity;&font=Poppins"></summary>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#10](https://github.com/OXY2DEV/patterns.nvim/issues/10) in [OXY2DEV/patterns.nvim](https://github.com/OXY2DEV/patterns.nvim)
-2. 🗣 Commented on [#22](https://github.com/nvzone/menu/issues/22#issuecomment-3284236559) in [nvzone/menu](https://github.com/nvzone/menu)
-3. 🎉 Merged PR [#125](https://github.com/MuntasirSZN/csmc/pull/125) in [MuntasirSZN/csmc](https://github.com/MuntasirSZN/csmc)
-4. 🎉 Merged PR [#102](https://github.com/MuntasirSZN/getquotes/pull/102) in [MuntasirSZN/getquotes](https://github.com/MuntasirSZN/getquotes)
-5. 🎉 Merged PR [#36](https://github.com/MuntasirSZN/rou3-rs/pull/36) in [MuntasirSZN/rou3-rs](https://github.com/MuntasirSZN/rou3-rs)
+1. 🎉 Merged PR [#38](https://github.com/MuntasirSZN/rou3-rs/pull/38) in [MuntasirSZN/rou3-rs](https://github.com/MuntasirSZN/rou3-rs)
+2. ❗ Opened issue [#10](https://github.com/OXY2DEV/patterns.nvim/issues/10) in [OXY2DEV/patterns.nvim](https://github.com/OXY2DEV/patterns.nvim)
+3. 🗣 Commented on [#22](https://github.com/nvzone/menu/issues/22#issuecomment-3284236559) in [nvzone/menu](https://github.com/nvzone/menu)
+4. 🎉 Merged PR [#125](https://github.com/MuntasirSZN/csmc/pull/125) in [MuntasirSZN/csmc](https://github.com/MuntasirSZN/csmc)
+5. 🎉 Merged PR [#102](https://github.com/MuntasirSZN/getquotes/pull/102) in [MuntasirSZN/getquotes](https://github.com/MuntasirSZN/getquotes)
 <!--END_SECTION:activity-->
 
 </details>
