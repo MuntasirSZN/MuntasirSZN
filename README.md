@@ -124,11 +124,11 @@
 <summary><img src="https://readme-typing-svg.herokuapp.com/?lines=⚡+Recent+Activity;&font=Poppins"></summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#109](https://github.com/MuntasirSZN/getquotes/pull/109) in [MuntasirSZN/getquotes](https://github.com/MuntasirSZN/getquotes)
-2. 🎉 Merged PR [#39](https://github.com/MuntasirSZN/rou3-rs/pull/39) in [MuntasirSZN/rou3-rs](https://github.com/MuntasirSZN/rou3-rs)
-3. 🎉 Merged PR [#38](https://github.com/MuntasirSZN/rou3-rs/pull/38) in [MuntasirSZN/rou3-rs](https://github.com/MuntasirSZN/rou3-rs)
-4. ❗ Opened issue [#10](https://github.com/OXY2DEV/patterns.nvim/issues/10) in [OXY2DEV/patterns.nvim](https://github.com/OXY2DEV/patterns.nvim)
-5. 🗣 Commented on [#22](https://github.com/nvzone/menu/issues/22#issuecomment-3284236559) in [nvzone/menu](https://github.com/nvzone/menu)
+1. ❗ Opened issue [#194](https://github.com/unrs/unrs-resolver/issues/194) in [unrs/unrs-resolver](https://github.com/unrs/unrs-resolver)
+2. 🎉 Merged PR [#109](https://github.com/MuntasirSZN/getquotes/pull/109) in [MuntasirSZN/getquotes](https://github.com/MuntasirSZN/getquotes)
+3. 🎉 Merged PR [#39](https://github.com/MuntasirSZN/rou3-rs/pull/39) in [MuntasirSZN/rou3-rs](https://github.com/MuntasirSZN/rou3-rs)
+4. 🎉 Merged PR [#38](https://github.com/MuntasirSZN/rou3-rs/pull/38) in [MuntasirSZN/rou3-rs](https://github.com/MuntasirSZN/rou3-rs)
+5. ❗ Opened issue [#10](https://github.com/OXY2DEV/patterns.nvim/issues/10) in [OXY2DEV/patterns.nvim](https://github.com/OXY2DEV/patterns.nvim)
 <!--END_SECTION:activity-->
 
 </details>
