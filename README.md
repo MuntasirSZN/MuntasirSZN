@@ -124,11 +124,11 @@
 <summary><img src="https://readme-typing-svg.herokuapp.com/?lines=⚡+Recent+Activity;&font=Poppins"></summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#111](https://github.com/MuntasirSZN/getquotes/pull/111) in [MuntasirSZN/getquotes](https://github.com/MuntasirSZN/getquotes)
-2. 🎉 Merged PR [#110](https://github.com/MuntasirSZN/getquotes/pull/110) in [MuntasirSZN/getquotes](https://github.com/MuntasirSZN/getquotes)
-3. ❗ Opened issue [#1](https://github.com/T1ckbase/vscode-langservers-extracted/issues/1) in [T1ckbase/vscode-langservers-extracted](https://github.com/T1ckbase/vscode-langservers-extracted)
-4. ❗ Opened issue [#194](https://github.com/unrs/unrs-resolver/issues/194) in [unrs/unrs-resolver](https://github.com/unrs/unrs-resolver)
-5. 🎉 Merged PR [#109](https://github.com/MuntasirSZN/getquotes/pull/109) in [MuntasirSZN/getquotes](https://github.com/MuntasirSZN/getquotes)
+1. 🎉 Merged PR [#431](https://github.com/cordx56/rustowl/pull/431) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
+2. 🎉 Merged PR [#131](https://github.com/MuntasirSZN/csmc/pull/131) in [MuntasirSZN/csmc](https://github.com/MuntasirSZN/csmc)
+3. 🎉 Merged PR [#111](https://github.com/MuntasirSZN/getquotes/pull/111) in [MuntasirSZN/getquotes](https://github.com/MuntasirSZN/getquotes)
+4. 🎉 Merged PR [#110](https://github.com/MuntasirSZN/getquotes/pull/110) in [MuntasirSZN/getquotes](https://github.com/MuntasirSZN/getquotes)
+5. ❗ Opened issue [#1](https://github.com/T1ckbase/vscode-langservers-extracted/issues/1) in [T1ckbase/vscode-langservers-extracted](https://github.com/T1ckbase/vscode-langservers-extracted)
 <!--END_SECTION:activity-->
 
 </details>
