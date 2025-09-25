@@ -125,10 +125,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#135](https://github.com/MuntasirSZN/csmc/pull/135#issuecomment-3328109221) in [MuntasirSZN/csmc](https://github.com/MuntasirSZN/csmc)
-2. 🗣 Commented on [#1](https://github.com/T1ckbase/vscode-langservers-extracted/issues/1#issuecomment-3324343502) in [T1ckbase/vscode-langservers-extracted](https://github.com/T1ckbase/vscode-langservers-extracted)
-3. ❗ Opened issue [#1](https://github.com/T1ckbase/vscode-langservers-extracted/issues/1) in [T1ckbase/vscode-langservers-extracted](https://github.com/T1ckbase/vscode-langservers-extracted)
-4. ❗ Opened issue [#194](https://github.com/unrs/unrs-resolver/issues/194) in [unrs/unrs-resolver](https://github.com/unrs/unrs-resolver)
-5. 🚀 Published release [v1.0.0](https://github.com/MuntasirSZN/mise-codelldb/releases/tag/v1.0.0) in [MuntasirSZN/mise-codelldb](https://github.com/MuntasirSZN/mise-codelldb)
+2. 🎉 Merged PR [#134](https://github.com/MuntasirSZN/csmc/pull/134) in [MuntasirSZN/csmc](https://github.com/MuntasirSZN/csmc)
+3. 🎉 Merged PR [#133](https://github.com/MuntasirSZN/csmc/pull/133) in [MuntasirSZN/csmc](https://github.com/MuntasirSZN/csmc)
+4. 🎉 Merged PR [#112](https://github.com/MuntasirSZN/getquotes/pull/112) in [MuntasirSZN/getquotes](https://github.com/MuntasirSZN/getquotes)
+5. 🎉 Merged PR [#132](https://github.com/MuntasirSZN/csmc/pull/132) in [MuntasirSZN/csmc](https://github.com/MuntasirSZN/csmc)
 <!--END_SECTION:activity-->
 
 </details>
