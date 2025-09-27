@@ -124,11 +124,11 @@
 <summary><img src="https://readme-typing-svg.herokuapp.com/?lines=⚡+Recent+Activity;&font=Poppins"></summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#126](https://github.com/STEAMer-Academy/steamer-academy.me/pull/126) in [STEAMer-Academy/steamer-academy.me](https://github.com/STEAMer-Academy/steamer-academy.me)
-2. 🎉 Merged PR [#137](https://github.com/MuntasirSZN/csmc/pull/137) in [MuntasirSZN/csmc](https://github.com/MuntasirSZN/csmc)
-3. 🎉 Merged PR [#128](https://github.com/STEAMer-Academy/steamer-academy.me/pull/128) in [STEAMer-Academy/steamer-academy.me](https://github.com/STEAMer-Academy/steamer-academy.me)
-4. 🎉 Merged PR [#129](https://github.com/STEAMer-Academy/steamer-academy.me/pull/129) in [STEAMer-Academy/steamer-academy.me](https://github.com/STEAMer-Academy/steamer-academy.me)
-5. 🎉 Merged PR [#130](https://github.com/STEAMer-Academy/steamer-academy.me/pull/130) in [STEAMer-Academy/steamer-academy.me](https://github.com/STEAMer-Academy/steamer-academy.me)
+1. 🎉 Merged PR [#37](https://github.com/MuntasirSZN/fetchttp/pull/37) in [MuntasirSZN/fetchttp](https://github.com/MuntasirSZN/fetchttp)
+2. 🎉 Merged PR [#126](https://github.com/STEAMer-Academy/steamer-academy.me/pull/126) in [STEAMer-Academy/steamer-academy.me](https://github.com/STEAMer-Academy/steamer-academy.me)
+3. 🎉 Merged PR [#137](https://github.com/MuntasirSZN/csmc/pull/137) in [MuntasirSZN/csmc](https://github.com/MuntasirSZN/csmc)
+4. 🎉 Merged PR [#128](https://github.com/STEAMer-Academy/steamer-academy.me/pull/128) in [STEAMer-Academy/steamer-academy.me](https://github.com/STEAMer-Academy/steamer-academy.me)
+5. 🎉 Merged PR [#129](https://github.com/STEAMer-Academy/steamer-academy.me/pull/129) in [STEAMer-Academy/steamer-academy.me](https://github.com/STEAMer-Academy/steamer-academy.me)
 <!--END_SECTION:activity-->
 
 </details>
