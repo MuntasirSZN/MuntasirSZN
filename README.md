@@ -124,11 +124,11 @@
 <summary><img src="https://readme-typing-svg.herokuapp.com/?lines=⚡+Recent+Activity;&font=Poppins"></summary>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.0.1](https://github.com/MuntasirSZN/mise-codelldb/releases/tag/v1.0.1) in [MuntasirSZN/mise-codelldb](https://github.com/MuntasirSZN/mise-codelldb)
-2. 💪 Opened PR [#29](https://github.com/catppuccin/.github/pull/29) in [catppuccin/.github](https://github.com/catppuccin/.github)
-3. ❗ Opened issue [#935](https://github.com/catppuccin/nvim/issues/935) in [catppuccin/nvim](https://github.com/catppuccin/nvim)
-4. 🎉 Merged PR [#37](https://github.com/MuntasirSZN/fetchttp/pull/37) in [MuntasirSZN/fetchttp](https://github.com/MuntasirSZN/fetchttp)
-5. 🎉 Merged PR [#126](https://github.com/STEAMer-Academy/steamer-academy.me/pull/126) in [STEAMer-Academy/steamer-academy.me](https://github.com/STEAMer-Academy/steamer-academy.me)
+1. 🚀 Published release [v1.0.2](https://github.com/MuntasirSZN/mise-codelldb/releases/tag/v1.0.2) in [MuntasirSZN/mise-codelldb](https://github.com/MuntasirSZN/mise-codelldb)
+2. 🚀 Published release [v1.0.1](https://github.com/MuntasirSZN/mise-codelldb/releases/tag/v1.0.1) in [MuntasirSZN/mise-codelldb](https://github.com/MuntasirSZN/mise-codelldb)
+3. 💪 Opened PR [#29](https://github.com/catppuccin/.github/pull/29) in [catppuccin/.github](https://github.com/catppuccin/.github)
+4. ❗ Opened issue [#935](https://github.com/catppuccin/nvim/issues/935) in [catppuccin/nvim](https://github.com/catppuccin/nvim)
+5. 🎉 Merged PR [#37](https://github.com/MuntasirSZN/fetchttp/pull/37) in [MuntasirSZN/fetchttp](https://github.com/MuntasirSZN/fetchttp)
 <!--END_SECTION:activity-->
 
 </details>
