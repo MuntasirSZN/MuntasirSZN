@@ -124,11 +124,11 @@
 <summary><img src="https://readme-typing-svg.herokuapp.com/?lines=⚡+Recent+Activity;&font=Poppins"></summary>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.0.3](https://github.com/MuntasirSZN/mise-codelldb/releases/tag/v1.0.3) in [MuntasirSZN/mise-codelldb](https://github.com/MuntasirSZN/mise-codelldb)
-2. 🗣 Commented on [#935](https://github.com/catppuccin/nvim/issues/935#issuecomment-3343784091) in [catppuccin/nvim](https://github.com/catppuccin/nvim)
-3. 🚀 Published release [v1.0.2](https://github.com/MuntasirSZN/mise-codelldb/releases/tag/v1.0.2) in [MuntasirSZN/mise-codelldb](https://github.com/MuntasirSZN/mise-codelldb)
-4. 🚀 Published release [v1.0.1](https://github.com/MuntasirSZN/mise-codelldb/releases/tag/v1.0.1) in [MuntasirSZN/mise-codelldb](https://github.com/MuntasirSZN/mise-codelldb)
-5. 💪 Opened PR [#29](https://github.com/catppuccin/.github/pull/29) in [catppuccin/.github](https://github.com/catppuccin/.github)
+1. 🔒 Closed issue [#935](https://github.com/catppuccin/nvim/issues/935) in [catppuccin/nvim](https://github.com/catppuccin/nvim)
+2. 🗣 Commented on [#935](https://github.com/catppuccin/nvim/issues/935#issuecomment-3344633916) in [catppuccin/nvim](https://github.com/catppuccin/nvim)
+3. 🎉 Merged PR [#114](https://github.com/MuntasirSZN/getquotes/pull/114) in [MuntasirSZN/getquotes](https://github.com/MuntasirSZN/getquotes)
+4. 🚀 Published release [v1.0.3](https://github.com/MuntasirSZN/mise-codelldb/releases/tag/v1.0.3) in [MuntasirSZN/mise-codelldb](https://github.com/MuntasirSZN/mise-codelldb)
+5. 🗣 Commented on [#935](https://github.com/catppuccin/nvim/issues/935#issuecomment-3343784091) in [catppuccin/nvim](https://github.com/catppuccin/nvim)
 <!--END_SECTION:activity-->
 
 </details>
