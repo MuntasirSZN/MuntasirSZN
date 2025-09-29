@@ -124,11 +124,11 @@
 <summary><img src="https://readme-typing-svg.herokuapp.com/?lines=⚡+Recent+Activity;&font=Poppins"></summary>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#935](https://github.com/catppuccin/nvim/issues/935) in [catppuccin/nvim](https://github.com/catppuccin/nvim)
-2. 🗣 Commented on [#935](https://github.com/catppuccin/nvim/issues/935#issuecomment-3344633916) in [catppuccin/nvim](https://github.com/catppuccin/nvim)
-3. 🎉 Merged PR [#114](https://github.com/MuntasirSZN/getquotes/pull/114) in [MuntasirSZN/getquotes](https://github.com/MuntasirSZN/getquotes)
-4. 🚀 Published release [v1.0.3](https://github.com/MuntasirSZN/mise-codelldb/releases/tag/v1.0.3) in [MuntasirSZN/mise-codelldb](https://github.com/MuntasirSZN/mise-codelldb)
-5. 🗣 Commented on [#935](https://github.com/catppuccin/nvim/issues/935#issuecomment-3343784091) in [catppuccin/nvim](https://github.com/catppuccin/nvim)
+1. 🎉 Merged PR [#132](https://github.com/STEAMer-Academy/steamer-academy.me/pull/132) in [STEAMer-Academy/steamer-academy.me](https://github.com/STEAMer-Academy/steamer-academy.me)
+2. 🎉 Merged PR [#131](https://github.com/STEAMer-Academy/steamer-academy.me/pull/131) in [STEAMer-Academy/steamer-academy.me](https://github.com/STEAMer-Academy/steamer-academy.me)
+3. 🎉 Merged PR [#133](https://github.com/STEAMer-Academy/steamer-academy.me/pull/133) in [STEAMer-Academy/steamer-academy.me](https://github.com/STEAMer-Academy/steamer-academy.me)
+4. 🎉 Merged PR [#135](https://github.com/STEAMer-Academy/steamer-academy.me/pull/135) in [STEAMer-Academy/steamer-academy.me](https://github.com/STEAMer-Academy/steamer-academy.me)
+5. 🎉 Merged PR [#134](https://github.com/STEAMer-Academy/steamer-academy.me/pull/134) in [STEAMer-Academy/steamer-academy.me](https://github.com/STEAMer-Academy/steamer-academy.me)
 <!--END_SECTION:activity-->
 
 </details>
