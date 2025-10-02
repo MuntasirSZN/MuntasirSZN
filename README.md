@@ -124,11 +124,11 @@
 <summary><img src="https://readme-typing-svg.herokuapp.com/?lines=⚡+Recent+Activity;&font=Poppins"></summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#194](https://github.com/unrs/unrs-resolver/issues/194#issuecomment-3360670195) in [unrs/unrs-resolver](https://github.com/unrs/unrs-resolver)
-2. ❌ Closed PR [#10](https://github.com/MuntasirSZN/changelogen-rs/pull/10) in [MuntasirSZN/changelogen-rs](https://github.com/MuntasirSZN/changelogen-rs)
-3. ❗ Opened issue [#9](https://github.com/MuntasirSZN/changelogen-rs/issues/9) in [MuntasirSZN/changelogen-rs](https://github.com/MuntasirSZN/changelogen-rs)
-4. 🎉 Merged PR [#143](https://github.com/MuntasirSZN/csmc/pull/143) in [MuntasirSZN/csmc](https://github.com/MuntasirSZN/csmc)
-5. 🎉 Merged PR [#142](https://github.com/STEAMer-Academy/steamer-academy.me/pull/142) in [STEAMer-Academy/steamer-academy.me](https://github.com/STEAMer-Academy/steamer-academy.me)
+1. 🗣 Commented on [#11](https://github.com/MuntasirSZN/changelogen-rs/pull/11#issuecomment-3361266688) in [MuntasirSZN/changelogen-rs](https://github.com/MuntasirSZN/changelogen-rs)
+2. 🗣 Commented on [#11](https://github.com/MuntasirSZN/changelogen-rs/pull/11#issuecomment-3361201847) in [MuntasirSZN/changelogen-rs](https://github.com/MuntasirSZN/changelogen-rs)
+3. 🗣 Commented on [#194](https://github.com/unrs/unrs-resolver/issues/194#issuecomment-3360670195) in [unrs/unrs-resolver](https://github.com/unrs/unrs-resolver)
+4. ❌ Closed PR [#10](https://github.com/MuntasirSZN/changelogen-rs/pull/10) in [MuntasirSZN/changelogen-rs](https://github.com/MuntasirSZN/changelogen-rs)
+5. ❗ Opened issue [#9](https://github.com/MuntasirSZN/changelogen-rs/issues/9) in [MuntasirSZN/changelogen-rs](https://github.com/MuntasirSZN/changelogen-rs)
 <!--END_SECTION:activity-->
 
 </details>
