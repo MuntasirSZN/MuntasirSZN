@@ -124,11 +124,11 @@
 <summary><img src="https://readme-typing-svg.herokuapp.com/?lines=⚡+Recent+Activity;&font=Poppins"></summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#11](https://github.com/MuntasirSZN/changelogen-rs/pull/11#issuecomment-3361266688) in [MuntasirSZN/changelogen-rs](https://github.com/MuntasirSZN/changelogen-rs)
-2. 🗣 Commented on [#11](https://github.com/MuntasirSZN/changelogen-rs/pull/11#issuecomment-3361201847) in [MuntasirSZN/changelogen-rs](https://github.com/MuntasirSZN/changelogen-rs)
-3. 🗣 Commented on [#194](https://github.com/unrs/unrs-resolver/issues/194#issuecomment-3360670195) in [unrs/unrs-resolver](https://github.com/unrs/unrs-resolver)
-4. ❌ Closed PR [#10](https://github.com/MuntasirSZN/changelogen-rs/pull/10) in [MuntasirSZN/changelogen-rs](https://github.com/MuntasirSZN/changelogen-rs)
-5. ❗ Opened issue [#9](https://github.com/MuntasirSZN/changelogen-rs/issues/9) in [MuntasirSZN/changelogen-rs](https://github.com/MuntasirSZN/changelogen-rs)
+1. 🗣 Commented on [#11](https://github.com/MuntasirSZN/changelogen-rs/pull/11#issuecomment-3362192760) in [MuntasirSZN/changelogen-rs](https://github.com/MuntasirSZN/changelogen-rs)
+2. 🗣 Commented on [#11](https://github.com/MuntasirSZN/changelogen-rs/pull/11#issuecomment-3361266688) in [MuntasirSZN/changelogen-rs](https://github.com/MuntasirSZN/changelogen-rs)
+3. 🗣 Commented on [#11](https://github.com/MuntasirSZN/changelogen-rs/pull/11#issuecomment-3361201847) in [MuntasirSZN/changelogen-rs](https://github.com/MuntasirSZN/changelogen-rs)
+4. 🗣 Commented on [#194](https://github.com/unrs/unrs-resolver/issues/194#issuecomment-3360670195) in [unrs/unrs-resolver](https://github.com/unrs/unrs-resolver)
+5. ❌ Closed PR [#10](https://github.com/MuntasirSZN/changelogen-rs/pull/10) in [MuntasirSZN/changelogen-rs](https://github.com/MuntasirSZN/changelogen-rs)
 <!--END_SECTION:activity-->
 
 </details>
