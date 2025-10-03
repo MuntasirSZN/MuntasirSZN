@@ -124,11 +124,11 @@
 <summary><img src="https://readme-typing-svg.herokuapp.com/?lines=⚡+Recent+Activity;&font=Poppins"></summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#11](https://github.com/MuntasirSZN/changelogen-rs/pull/11#issuecomment-3364399136) in [MuntasirSZN/changelogen-rs](https://github.com/MuntasirSZN/changelogen-rs)
-2. 🎉 Merged PR [#148](https://github.com/STEAMer-Academy/steamer-academy.me/pull/148) in [STEAMer-Academy/steamer-academy.me](https://github.com/STEAMer-Academy/steamer-academy.me)
-3. 🎉 Merged PR [#150](https://github.com/STEAMer-Academy/steamer-academy.me/pull/150) in [STEAMer-Academy/steamer-academy.me](https://github.com/STEAMer-Academy/steamer-academy.me)
-4. 🎉 Merged PR [#151](https://github.com/STEAMer-Academy/steamer-academy.me/pull/151) in [STEAMer-Academy/steamer-academy.me](https://github.com/STEAMer-Academy/steamer-academy.me)
-5. 🎉 Merged PR [#152](https://github.com/STEAMer-Academy/steamer-academy.me/pull/152) in [STEAMer-Academy/steamer-academy.me](https://github.com/STEAMer-Academy/steamer-academy.me)
+1. 🗣 Commented on [#11](https://github.com/MuntasirSZN/changelogen-rs/pull/11#issuecomment-3364762704) in [MuntasirSZN/changelogen-rs](https://github.com/MuntasirSZN/changelogen-rs)
+2. 🎉 Merged PR [#148](https://github.com/MuntasirSZN/csmc/pull/148) in [MuntasirSZN/csmc](https://github.com/MuntasirSZN/csmc)
+3. 🎉 Merged PR [#1](https://github.com/MuntasirSZN/regex_ansi/pull/1) in [MuntasirSZN/regex_ansi](https://github.com/MuntasirSZN/regex_ansi)
+4. 🗣 Commented on [#11](https://github.com/MuntasirSZN/changelogen-rs/pull/11#issuecomment-3364399136) in [MuntasirSZN/changelogen-rs](https://github.com/MuntasirSZN/changelogen-rs)
+5. 🎉 Merged PR [#148](https://github.com/STEAMer-Academy/steamer-academy.me/pull/148) in [STEAMer-Academy/steamer-academy.me](https://github.com/STEAMer-Academy/steamer-academy.me)
 <!--END_SECTION:activity-->
 
 </details>
