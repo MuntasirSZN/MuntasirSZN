@@ -124,11 +124,11 @@
 <summary><img src="https://readme-typing-svg.herokuapp.com/?lines=⚡+Recent+Activity;&font=Poppins"></summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#11](https://github.com/MuntasirSZN/changelogen-rs/pull/11) in [MuntasirSZN/changelogen-rs](https://github.com/MuntasirSZN/changelogen-rs)
-2. 🎉 Merged PR [#7](https://github.com/MuntasirSZN/consola-rs/pull/7) in [MuntasirSZN/consola-rs](https://github.com/MuntasirSZN/consola-rs)
-3. 🗣 Commented on [#11](https://github.com/MuntasirSZN/changelogen-rs/pull/11#issuecomment-3365376454) in [MuntasirSZN/changelogen-rs](https://github.com/MuntasirSZN/changelogen-rs)
-4. 🗣 Commented on [#11](https://github.com/MuntasirSZN/changelogen-rs/pull/11#issuecomment-3364762704) in [MuntasirSZN/changelogen-rs](https://github.com/MuntasirSZN/changelogen-rs)
-5. 🎉 Merged PR [#148](https://github.com/MuntasirSZN/csmc/pull/148) in [MuntasirSZN/csmc](https://github.com/MuntasirSZN/csmc)
+1. 🗣 Commented on [#438](https://github.com/cordx56/rustowl/pull/438#issuecomment-3367960726) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
+2. 🎉 Merged PR [#11](https://github.com/MuntasirSZN/changelogen-rs/pull/11) in [MuntasirSZN/changelogen-rs](https://github.com/MuntasirSZN/changelogen-rs)
+3. 🎉 Merged PR [#7](https://github.com/MuntasirSZN/consola-rs/pull/7) in [MuntasirSZN/consola-rs](https://github.com/MuntasirSZN/consola-rs)
+4. 🗣 Commented on [#11](https://github.com/MuntasirSZN/changelogen-rs/pull/11#issuecomment-3365376454) in [MuntasirSZN/changelogen-rs](https://github.com/MuntasirSZN/changelogen-rs)
+5. 🗣 Commented on [#11](https://github.com/MuntasirSZN/changelogen-rs/pull/11#issuecomment-3364762704) in [MuntasirSZN/changelogen-rs](https://github.com/MuntasirSZN/changelogen-rs)
 <!--END_SECTION:activity-->
 
 </details>
