@@ -124,11 +124,11 @@
 <summary><img src="https://readme-typing-svg.herokuapp.com/?lines=⚡+Recent+Activity;&font=Poppins"></summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#438](https://github.com/cordx56/rustowl/pull/438#issuecomment-3370043703) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
-2. 🎉 Merged PR [#17](https://github.com/nanodelabs/novalyn/pull/17) in [nanodelabs/novalyn](https://github.com/nanodelabs/novalyn)
-3. 💪 Opened PR [#17](https://github.com/nanodelabs/novalyn/pull/17) in [nanodelabs/novalyn](https://github.com/nanodelabs/novalyn)
-4. 🎉 Merged PR [#12](https://github.com/nanodelabs/novalyn/pull/12) in [nanodelabs/novalyn](https://github.com/nanodelabs/novalyn)
-5. 🎉 Merged PR [#13](https://github.com/nanodelabs/novalyn/pull/13) in [nanodelabs/novalyn](https://github.com/nanodelabs/novalyn)
+1. 🎉 Merged PR [#441](https://github.com/cordx56/rustowl/pull/441) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
+2. 🎉 Merged PR [#440](https://github.com/cordx56/rustowl/pull/440) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
+3. 🎉 Merged PR [#439](https://github.com/cordx56/rustowl/pull/439) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
+4. 🎉 Merged PR [#150](https://github.com/MuntasirSZN/csmc/pull/150) in [MuntasirSZN/csmc](https://github.com/MuntasirSZN/csmc)
+5. 🗣 Commented on [#438](https://github.com/cordx56/rustowl/pull/438#issuecomment-3370043703) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
 <!--END_SECTION:activity-->
 
 </details>
