@@ -124,11 +124,11 @@
 <summary><img src="https://readme-typing-svg.herokuapp.com/?lines=⚡+Recent+Activity;&font=Poppins"></summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#155](https://github.com/MuntasirSZN/csmc/pull/155) in [MuntasirSZN/csmc](https://github.com/MuntasirSZN/csmc)
-2. 🗣 Commented on [#154](https://github.com/MuntasirSZN/csmc/pull/154#issuecomment-3380190158) in [MuntasirSZN/csmc](https://github.com/MuntasirSZN/csmc)
-3. 🎉 Merged PR [#152](https://github.com/MuntasirSZN/csmc/pull/152) in [MuntasirSZN/csmc](https://github.com/MuntasirSZN/csmc)
-4. 🎉 Merged PR [#163](https://github.com/STEAMer-Academy/steamer-academy.me/pull/163) in [STEAMer-Academy/steamer-academy.me](https://github.com/STEAMer-Academy/steamer-academy.me)
-5. 🎉 Merged PR [#160](https://github.com/STEAMer-Academy/steamer-academy.me/pull/160) in [STEAMer-Academy/steamer-academy.me](https://github.com/STEAMer-Academy/steamer-academy.me)
+1. 🗣 Commented on [#3361](https://github.com/sharkdp/bat/issues/3361#issuecomment-3393085628) in [sharkdp/bat](https://github.com/sharkdp/bat)
+2. 🎉 Merged PR [#155](https://github.com/MuntasirSZN/csmc/pull/155) in [MuntasirSZN/csmc](https://github.com/MuntasirSZN/csmc)
+3. 🗣 Commented on [#154](https://github.com/MuntasirSZN/csmc/pull/154#issuecomment-3380190158) in [MuntasirSZN/csmc](https://github.com/MuntasirSZN/csmc)
+4. 🎉 Merged PR [#152](https://github.com/MuntasirSZN/csmc/pull/152) in [MuntasirSZN/csmc](https://github.com/MuntasirSZN/csmc)
+5. 🎉 Merged PR [#163](https://github.com/STEAMer-Academy/steamer-academy.me/pull/163) in [STEAMer-Academy/steamer-academy.me](https://github.com/STEAMer-Academy/steamer-academy.me)
 <!--END_SECTION:activity-->
 
 </details>
