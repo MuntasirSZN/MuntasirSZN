@@ -124,11 +124,11 @@
 <summary><img src="https://readme-typing-svg.herokuapp.com/?lines=⚡+Recent+Activity;&font=Poppins"></summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3148](https://github.com/sharkdp/bat/issues/3148#issuecomment-3393104442) in [sharkdp/bat](https://github.com/sharkdp/bat)
-2. 🗣 Commented on [#3361](https://github.com/sharkdp/bat/issues/3361#issuecomment-3393085628) in [sharkdp/bat](https://github.com/sharkdp/bat)
-3. 🎉 Merged PR [#155](https://github.com/MuntasirSZN/csmc/pull/155) in [MuntasirSZN/csmc](https://github.com/MuntasirSZN/csmc)
-4. 🗣 Commented on [#154](https://github.com/MuntasirSZN/csmc/pull/154#issuecomment-3380190158) in [MuntasirSZN/csmc](https://github.com/MuntasirSZN/csmc)
-5. 🎉 Merged PR [#152](https://github.com/MuntasirSZN/csmc/pull/152) in [MuntasirSZN/csmc](https://github.com/MuntasirSZN/csmc)
+1. 💪 Opened PR [#3432](https://github.com/sharkdp/bat/pull/3432) in [sharkdp/bat](https://github.com/sharkdp/bat)
+2. 🗣 Commented on [#3148](https://github.com/sharkdp/bat/issues/3148#issuecomment-3393104442) in [sharkdp/bat](https://github.com/sharkdp/bat)
+3. 🗣 Commented on [#3361](https://github.com/sharkdp/bat/issues/3361#issuecomment-3393085628) in [sharkdp/bat](https://github.com/sharkdp/bat)
+4. 🎉 Merged PR [#155](https://github.com/MuntasirSZN/csmc/pull/155) in [MuntasirSZN/csmc](https://github.com/MuntasirSZN/csmc)
+5. 🗣 Commented on [#154](https://github.com/MuntasirSZN/csmc/pull/154#issuecomment-3380190158) in [MuntasirSZN/csmc](https://github.com/MuntasirSZN/csmc)
 <!--END_SECTION:activity-->
 
 </details>
