@@ -124,11 +124,11 @@
 <summary><img src="https://readme-typing-svg.herokuapp.com/?lines=⚡+Recent+Activity;&font=Poppins"></summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#10](https://github.com/MuntasirSZN/consola-rs/pull/10) in [MuntasirSZN/consola-rs](https://github.com/MuntasirSZN/consola-rs)
-2. 💪 Opened PR [#3432](https://github.com/sharkdp/bat/pull/3432) in [sharkdp/bat](https://github.com/sharkdp/bat)
-3. 🗣 Commented on [#3148](https://github.com/sharkdp/bat/issues/3148#issuecomment-3393104442) in [sharkdp/bat](https://github.com/sharkdp/bat)
-4. 🗣 Commented on [#3361](https://github.com/sharkdp/bat/issues/3361#issuecomment-3393085628) in [sharkdp/bat](https://github.com/sharkdp/bat)
-5. 🎉 Merged PR [#155](https://github.com/MuntasirSZN/csmc/pull/155) in [MuntasirSZN/csmc](https://github.com/MuntasirSZN/csmc)
+1. ❌ Closed PR [#19](https://github.com/nanodelabs/novalyn/pull/19) in [nanodelabs/novalyn](https://github.com/nanodelabs/novalyn)
+2. 🗣 Commented on [#19](https://github.com/nanodelabs/novalyn/pull/19#issuecomment-3394074972) in [nanodelabs/novalyn](https://github.com/nanodelabs/novalyn)
+3. 🎉 Merged PR [#10](https://github.com/MuntasirSZN/consola-rs/pull/10) in [MuntasirSZN/consola-rs](https://github.com/MuntasirSZN/consola-rs)
+4. 💪 Opened PR [#3432](https://github.com/sharkdp/bat/pull/3432) in [sharkdp/bat](https://github.com/sharkdp/bat)
+5. 🗣 Commented on [#3148](https://github.com/sharkdp/bat/issues/3148#issuecomment-3393104442) in [sharkdp/bat](https://github.com/sharkdp/bat)
 <!--END_SECTION:activity-->
 
 </details>
