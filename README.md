@@ -124,11 +124,11 @@
 <summary><img src="https://readme-typing-svg.herokuapp.com/?lines=⚡+Recent+Activity;&font=Poppins"></summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#20](https://github.com/nanodelabs/novalyn/pull/20) in [nanodelabs/novalyn](https://github.com/nanodelabs/novalyn)
-2. 💪 Opened PR [#20](https://github.com/nanodelabs/novalyn/pull/20) in [nanodelabs/novalyn](https://github.com/nanodelabs/novalyn)
-3. ❌ Closed PR [#19](https://github.com/nanodelabs/novalyn/pull/19) in [nanodelabs/novalyn](https://github.com/nanodelabs/novalyn)
-4. 🗣 Commented on [#19](https://github.com/nanodelabs/novalyn/pull/19#issuecomment-3394074972) in [nanodelabs/novalyn](https://github.com/nanodelabs/novalyn)
-5. 🎉 Merged PR [#10](https://github.com/MuntasirSZN/consola-rs/pull/10) in [MuntasirSZN/consola-rs](https://github.com/MuntasirSZN/consola-rs)
+1. 🎉 Merged PR [#22](https://github.com/nanodelabs/novalyn/pull/22) in [nanodelabs/novalyn](https://github.com/nanodelabs/novalyn)
+2. 🎉 Merged PR [#23](https://github.com/nanodelabs/novalyn/pull/23) in [nanodelabs/novalyn](https://github.com/nanodelabs/novalyn)
+3. 🎉 Merged PR [#21](https://github.com/nanodelabs/novalyn/pull/21) in [nanodelabs/novalyn](https://github.com/nanodelabs/novalyn)
+4. 🎉 Merged PR [#24](https://github.com/nanodelabs/novalyn/pull/24) in [nanodelabs/novalyn](https://github.com/nanodelabs/novalyn)
+5. 🎉 Merged PR [#20](https://github.com/nanodelabs/novalyn/pull/20) in [nanodelabs/novalyn](https://github.com/nanodelabs/novalyn)
 <!--END_SECTION:activity-->
 
 </details>
