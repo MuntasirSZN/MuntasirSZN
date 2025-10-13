@@ -124,11 +124,11 @@
 <summary><img src="https://readme-typing-svg.herokuapp.com/?lines=⚡+Recent+Activity;&font=Poppins"></summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#158](https://github.com/MuntasirSZN/csmc/pull/158) in [MuntasirSZN/csmc](https://github.com/MuntasirSZN/csmc)
-2. 🗣 Commented on [#3432](https://github.com/sharkdp/bat/pull/3432#issuecomment-3395221958) in [sharkdp/bat](https://github.com/sharkdp/bat)
-3. 🗣 Commented on [#3432](https://github.com/sharkdp/bat/pull/3432#issuecomment-3395207394) in [sharkdp/bat](https://github.com/sharkdp/bat)
-4. 🎉 Merged PR [#25](https://github.com/nanodelabs/novalyn/pull/25) in [nanodelabs/novalyn](https://github.com/nanodelabs/novalyn)
-5. 🗣 Commented on [#25](https://github.com/nanodelabs/novalyn/pull/25#issuecomment-3395179325) in [nanodelabs/novalyn](https://github.com/nanodelabs/novalyn)
+1. 🗣 Commented on [#3432](https://github.com/sharkdp/bat/pull/3432#issuecomment-3396331369) in [sharkdp/bat](https://github.com/sharkdp/bat)
+2. 🗣 Commented on [#3432](https://github.com/sharkdp/bat/pull/3432#issuecomment-3396329123) in [sharkdp/bat](https://github.com/sharkdp/bat)
+3. 🎉 Merged PR [#158](https://github.com/MuntasirSZN/csmc/pull/158) in [MuntasirSZN/csmc](https://github.com/MuntasirSZN/csmc)
+4. 🗣 Commented on [#3432](https://github.com/sharkdp/bat/pull/3432#issuecomment-3395221958) in [sharkdp/bat](https://github.com/sharkdp/bat)
+5. 🗣 Commented on [#3432](https://github.com/sharkdp/bat/pull/3432#issuecomment-3395207394) in [sharkdp/bat](https://github.com/sharkdp/bat)
 <!--END_SECTION:activity-->
 
 </details>
