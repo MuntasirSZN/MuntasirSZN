@@ -124,11 +124,11 @@
 <summary><img src="https://readme-typing-svg.herokuapp.com/?lines=⚡+Recent+Activity;&font=Poppins"></summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#27](https://github.com/nanodelabs/novalyn/pull/27) in [nanodelabs/novalyn](https://github.com/nanodelabs/novalyn)
-2. 💪 Opened PR [#27](https://github.com/nanodelabs/novalyn/pull/27) in [nanodelabs/novalyn](https://github.com/nanodelabs/novalyn)
-3. 🎉 Merged PR [#170](https://github.com/STEAMer-Academy/steamer-academy.me/pull/170) in [STEAMer-Academy/steamer-academy.me](https://github.com/STEAMer-Academy/steamer-academy.me)
-4. 🎉 Merged PR [#171](https://github.com/STEAMer-Academy/steamer-academy.me/pull/171) in [STEAMer-Academy/steamer-academy.me](https://github.com/STEAMer-Academy/steamer-academy.me)
-5. 🎉 Merged PR [#160](https://github.com/MuntasirSZN/csmc/pull/160) in [MuntasirSZN/csmc](https://github.com/MuntasirSZN/csmc)
+1. 🗣 Commented on [#3435](https://github.com/sharkdp/bat/pull/3435#issuecomment-3400897498) in [sharkdp/bat](https://github.com/sharkdp/bat)
+2. 🎉 Merged PR [#27](https://github.com/nanodelabs/novalyn/pull/27) in [nanodelabs/novalyn](https://github.com/nanodelabs/novalyn)
+3. 💪 Opened PR [#27](https://github.com/nanodelabs/novalyn/pull/27) in [nanodelabs/novalyn](https://github.com/nanodelabs/novalyn)
+4. 🎉 Merged PR [#170](https://github.com/STEAMer-Academy/steamer-academy.me/pull/170) in [STEAMer-Academy/steamer-academy.me](https://github.com/STEAMer-Academy/steamer-academy.me)
+5. 🎉 Merged PR [#171](https://github.com/STEAMer-Academy/steamer-academy.me/pull/171) in [STEAMer-Academy/steamer-academy.me](https://github.com/STEAMer-Academy/steamer-academy.me)
 <!--END_SECTION:activity-->
 
 </details>
