@@ -128,7 +128,7 @@
 2. 🗣 Commented on [#3432](https://github.com/sharkdp/bat/pull/3432#issuecomment-3401091219) in [sharkdp/bat](https://github.com/sharkdp/bat)
 3. 🗣 Commented on [#3435](https://github.com/sharkdp/bat/pull/3435#issuecomment-3401070172) in [sharkdp/bat](https://github.com/sharkdp/bat)
 4. 🗣 Commented on [#3435](https://github.com/sharkdp/bat/pull/3435#issuecomment-3400897498) in [sharkdp/bat](https://github.com/sharkdp/bat)
-5. 🎉 Merged PR [#27](https://github.com/nanodelabs/novalyn/pull/27) in [nanodelabs/novalyn](https://github.com/nanodelabs/novalyn)
+5. 💪 Opened PR [#27](undefined) in [nanodelabs/novalyn](https://github.com/nanodelabs/novalyn)
 <!--END_SECTION:activity-->
 
 </details>
