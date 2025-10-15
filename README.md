@@ -124,11 +124,11 @@
 <summary><img src="https://readme-typing-svg.herokuapp.com/?lines=⚡+Recent+Activity;&font=Poppins"></summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3432](https://github.com/sharkdp/bat/pull/3432#issuecomment-3405183330) in [sharkdp/bat](https://github.com/sharkdp/bat)
-2. 🗣 Commented on [#1](https://github.com/cafkafk/natord-plus-plus/pull/1#issuecomment-3404944810) in [cafkafk/natord-plus-plus](https://github.com/cafkafk/natord-plus-plus)
-3. 🗣 Commented on [#1](https://github.com/cafkafk/natord-plus-plus/pull/1#issuecomment-3404942773) in [cafkafk/natord-plus-plus](https://github.com/cafkafk/natord-plus-plus)
-4. 💪 Opened PR [#1](undefined) in [cafkafk/natord-plus-plus](https://github.com/cafkafk/natord-plus-plus)
-5. 🗣 Commented on [#164](https://github.com/MuntasirSZN/csmc/pull/164#issuecomment-3404881113) in [MuntasirSZN/csmc](https://github.com/MuntasirSZN/csmc)
+1. ❌ Closed PR [#1734](undefined) in [folke/snacks.nvim](https://github.com/folke/snacks.nvim)
+2. 🗣 Commented on [#3432](https://github.com/sharkdp/bat/pull/3432#issuecomment-3405183330) in [sharkdp/bat](https://github.com/sharkdp/bat)
+3. 🗣 Commented on [#1](https://github.com/cafkafk/natord-plus-plus/pull/1#issuecomment-3404944810) in [cafkafk/natord-plus-plus](https://github.com/cafkafk/natord-plus-plus)
+4. 🗣 Commented on [#1](https://github.com/cafkafk/natord-plus-plus/pull/1#issuecomment-3404942773) in [cafkafk/natord-plus-plus](https://github.com/cafkafk/natord-plus-plus)
+5. 💪 Opened PR [#1](undefined) in [cafkafk/natord-plus-plus](https://github.com/cafkafk/natord-plus-plus)
 <!--END_SECTION:activity-->
 
 </details>
