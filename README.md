@@ -124,11 +124,11 @@
 <summary><img src="https://readme-typing-svg.herokuapp.com/?lines=⚡+Recent+Activity;&font=Poppins"></summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3435](https://github.com/sharkdp/bat/pull/3435#issuecomment-3401110326) in [sharkdp/bat](https://github.com/sharkdp/bat)
-2. 🗣 Commented on [#3432](https://github.com/sharkdp/bat/pull/3432#issuecomment-3401091219) in [sharkdp/bat](https://github.com/sharkdp/bat)
-3. 🗣 Commented on [#3435](https://github.com/sharkdp/bat/pull/3435#issuecomment-3401070172) in [sharkdp/bat](https://github.com/sharkdp/bat)
-4. 🗣 Commented on [#3435](https://github.com/sharkdp/bat/pull/3435#issuecomment-3400897498) in [sharkdp/bat](https://github.com/sharkdp/bat)
-5. 💪 Opened PR [#27](undefined) in [nanodelabs/novalyn](https://github.com/nanodelabs/novalyn)
+1. 🗣 Commented on [#164](https://github.com/MuntasirSZN/csmc/pull/164#issuecomment-3404881113) in [MuntasirSZN/csmc](https://github.com/MuntasirSZN/csmc)
+2. 🗣 Commented on [#3435](https://github.com/sharkdp/bat/pull/3435#issuecomment-3401110326) in [sharkdp/bat](https://github.com/sharkdp/bat)
+3. 🗣 Commented on [#3432](https://github.com/sharkdp/bat/pull/3432#issuecomment-3401091219) in [sharkdp/bat](https://github.com/sharkdp/bat)
+4. 🗣 Commented on [#3435](https://github.com/sharkdp/bat/pull/3435#issuecomment-3401070172) in [sharkdp/bat](https://github.com/sharkdp/bat)
+5. 🗣 Commented on [#3435](https://github.com/sharkdp/bat/pull/3435#issuecomment-3400897498) in [sharkdp/bat](https://github.com/sharkdp/bat)
 <!--END_SECTION:activity-->
 
 </details>
