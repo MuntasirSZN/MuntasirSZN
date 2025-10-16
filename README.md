@@ -124,11 +124,11 @@
 <summary><img src="https://readme-typing-svg.herokuapp.com/?lines=⚡+Recent+Activity;&font=Poppins"></summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1641](https://github.com/eza-community/eza/pull/1641#issuecomment-3409472145) in [eza-community/eza](https://github.com/eza-community/eza)
-2. 🗣 Commented on [#3432](https://github.com/sharkdp/bat/pull/3432#issuecomment-3408804915) in [sharkdp/bat](https://github.com/sharkdp/bat)
-3. 🗣 Commented on [#3432](https://github.com/sharkdp/bat/pull/3432#issuecomment-3408774674) in [sharkdp/bat](https://github.com/sharkdp/bat)
-4. 💪 Opened PR [#1641](undefined) in [eza-community/eza](https://github.com/eza-community/eza)
-5. 🗣 Commented on [#1](https://github.com/cafkafk/natord-plus-plus/pull/1#issuecomment-3405956440) in [cafkafk/natord-plus-plus](https://github.com/cafkafk/natord-plus-plus)
+1. 🗣 Commented on [#1641](https://github.com/eza-community/eza/pull/1641#issuecomment-3411787711) in [eza-community/eza](https://github.com/eza-community/eza)
+2. 🗣 Commented on [#1641](https://github.com/eza-community/eza/pull/1641#issuecomment-3409472145) in [eza-community/eza](https://github.com/eza-community/eza)
+3. 🗣 Commented on [#3432](https://github.com/sharkdp/bat/pull/3432#issuecomment-3408804915) in [sharkdp/bat](https://github.com/sharkdp/bat)
+4. 🗣 Commented on [#3432](https://github.com/sharkdp/bat/pull/3432#issuecomment-3408774674) in [sharkdp/bat](https://github.com/sharkdp/bat)
+5. 💪 Opened PR [#1641](undefined) in [eza-community/eza](https://github.com/eza-community/eza)
 <!--END_SECTION:activity-->
 
 </details>
