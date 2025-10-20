@@ -124,11 +124,11 @@
 <summary><img src="https://readme-typing-svg.herokuapp.com/?lines=⚡+Recent+Activity;&font=Poppins"></summary>
 
 <!--START_SECTION:activity-->
-1. ❌ Unlabeled PR [#419](undefined) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
-2. ❌ Labeled PR [#419](undefined) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
-3. 🗣 Commented on [#3432](https://github.com/sharkdp/bat/pull/3432#issuecomment-3419793749) in [sharkdp/bat](https://github.com/sharkdp/bat)
-4. 🗣 Commented on [#3432](https://github.com/sharkdp/bat/pull/3432#issuecomment-3419106183) in [sharkdp/bat](https://github.com/sharkdp/bat)
-5. 🗣 Commented on [#1641](https://github.com/eza-community/eza/pull/1641#issuecomment-3411787711) in [eza-community/eza](https://github.com/eza-community/eza)
+1. 🗣 Commented on [#3432](https://github.com/sharkdp/bat/pull/3432#issuecomment-3422873101) in [sharkdp/bat](https://github.com/sharkdp/bat)
+2. ❌ Unlabeled PR [#419](undefined) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
+3. ❌ Labeled PR [#419](undefined) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
+4. 🗣 Commented on [#3432](https://github.com/sharkdp/bat/pull/3432#issuecomment-3419793749) in [sharkdp/bat](https://github.com/sharkdp/bat)
+5. 🗣 Commented on [#3432](https://github.com/sharkdp/bat/pull/3432#issuecomment-3419106183) in [sharkdp/bat](https://github.com/sharkdp/bat)
 <!--END_SECTION:activity-->
 
 </details>
