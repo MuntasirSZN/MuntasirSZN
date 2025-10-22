@@ -124,11 +124,11 @@
 <summary><img src="https://readme-typing-svg.herokuapp.com/?lines=⚡+Recent+Activity;&font=Poppins"></summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#197](undefined) in [STEAMer-Academy/steamer-academy.me](https://github.com/STEAMer-Academy/steamer-academy.me)
-2. 💪 Opened PR [#34](undefined) in [nanodelabs/novalyn](https://github.com/nanodelabs/novalyn)
-3. 💪 Opened PR [#33](undefined) in [nanodelabs/novalyn](https://github.com/nanodelabs/novalyn)
-4. 🗣 Commented on [#3432](https://github.com/sharkdp/bat/pull/3432#issuecomment-3422873101) in [sharkdp/bat](https://github.com/sharkdp/bat)
-5. ❌ Unlabeled PR [#419](undefined) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
+1. ❌ Closed PR [#3](undefined) in [MuntasirSZN/csmc-infinity-contest](https://github.com/MuntasirSZN/csmc-infinity-contest)
+2. 💪 Opened PR [#3](undefined) in [MuntasirSZN/csmc-infinity-contest](https://github.com/MuntasirSZN/csmc-infinity-contest)
+3. 💪 Opened PR [#197](undefined) in [STEAMer-Academy/steamer-academy.me](https://github.com/STEAMer-Academy/steamer-academy.me)
+4. 💪 Opened PR [#34](undefined) in [nanodelabs/novalyn](https://github.com/nanodelabs/novalyn)
+5. 💪 Opened PR [#33](undefined) in [nanodelabs/novalyn](https://github.com/nanodelabs/novalyn)
 <!--END_SECTION:activity-->
 
 </details>
