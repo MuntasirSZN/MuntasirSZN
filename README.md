@@ -112,8 +112,8 @@
 <summary><img src="https://readme-typing-svg.herokuapp.com/?lines=⚡+Recent+Activity;&font=Poppins"></summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#12](https://github.com/MuntasirSZN/consola-rs/pull/12#issuecomment-3460179038) in [MuntasirSZN/consola-rs](https://github.com/MuntasirSZN/consola-rs)
-2. ❌ Closed PR [#3](undefined) in [MuntasirSZN/csmc-infinity-contest](https://github.com/MuntasirSZN/csmc-infinity-contest)
+1. 🗣 Commented on [#3432](https://github.com/sharkdp/bat/pull/3432#issuecomment-3477964811) in [sharkdp/bat](https://github.com/sharkdp/bat)
+2. 🗣 Commented on [#12](https://github.com/MuntasirSZN/consola-rs/pull/12#issuecomment-3460179038) in [MuntasirSZN/consola-rs](https://github.com/MuntasirSZN/consola-rs)
 3. 💪 Opened PR [#3](undefined) in [MuntasirSZN/csmc-infinity-contest](https://github.com/MuntasirSZN/csmc-infinity-contest)
 4. 💪 Opened PR [#197](undefined) in [STEAMer-Academy/steamer-academy.me](https://github.com/STEAMer-Academy/steamer-academy.me)
 5. 💪 Opened PR [#33](undefined) in [nanodelabs/novalyn](https://github.com/nanodelabs/novalyn)
