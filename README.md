@@ -112,9 +112,9 @@
 <summary><img src="https://readme-typing-svg.herokuapp.com/?lines=⚡+Recent+Activity;&font=Poppins"></summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#182](https://github.com/MuntasirSZN/csmc/pull/182#issuecomment-3489681512) in [MuntasirSZN/csmc](https://github.com/MuntasirSZN/csmc)
-2. 🗣 Commented on [#3432](https://github.com/sharkdp/bat/pull/3432#issuecomment-3477964811) in [sharkdp/bat](https://github.com/sharkdp/bat)
-3. 🗣 Commented on [#12](https://github.com/MuntasirSZN/consola-rs/pull/12#issuecomment-3460179038) in [MuntasirSZN/consola-rs](https://github.com/MuntasirSZN/consola-rs)
+1. 🗣 Commented on [#13](https://github.com/MuntasirSZN/consola-rs/pull/13#issuecomment-3489718314) in [MuntasirSZN/consola-rs](https://github.com/MuntasirSZN/consola-rs)
+2. 🗣 Commented on [#182](https://github.com/MuntasirSZN/csmc/pull/182#issuecomment-3489681512) in [MuntasirSZN/csmc](https://github.com/MuntasirSZN/csmc)
+3. 🗣 Commented on [#3432](https://github.com/sharkdp/bat/pull/3432#issuecomment-3477964811) in [sharkdp/bat](https://github.com/sharkdp/bat)
 4. 💪 Opened PR [#197](undefined) in [STEAMer-Academy/steamer-academy.me](https://github.com/STEAMer-Academy/steamer-academy.me)
 5. 💪 Opened PR [#33](undefined) in [nanodelabs/novalyn](https://github.com/nanodelabs/novalyn)
 <!--END_SECTION:activity-->
