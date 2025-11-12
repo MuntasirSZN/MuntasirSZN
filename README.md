@@ -112,10 +112,10 @@
 <summary><img src="https://readme-typing-svg.herokuapp.com/?lines=⚡+Recent+Activity;&font=Poppins"></summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3478](https://github.com/sharkdp/bat/pull/3478#issuecomment-3516357644) in [sharkdp/bat](https://github.com/sharkdp/bat)
-2. 🗣 Commented on [#45](https://github.com/nanodelabs/novalyn/pull/45#issuecomment-3508489334) in [nanodelabs/novalyn](https://github.com/nanodelabs/novalyn)
-3. 🗣 Commented on [#45](https://github.com/nanodelabs/novalyn/pull/45#issuecomment-3508269004) in [nanodelabs/novalyn](https://github.com/nanodelabs/novalyn)
-4. 🔒 Closed issue [#9](https://github.com/nanodelabs/novalyn/issues/9) in [nanodelabs/novalyn](https://github.com/nanodelabs/novalyn)
+1. 🗣 Commented on [#189](https://github.com/MuntasirSZN/csmc/pull/189#issuecomment-3520901435) in [MuntasirSZN/csmc](https://github.com/MuntasirSZN/csmc)
+2. 🗣 Commented on [#3478](https://github.com/sharkdp/bat/pull/3478#issuecomment-3516357644) in [sharkdp/bat](https://github.com/sharkdp/bat)
+3. 🗣 Commented on [#45](https://github.com/nanodelabs/novalyn/pull/45#issuecomment-3508489334) in [nanodelabs/novalyn](https://github.com/nanodelabs/novalyn)
+4. 🗣 Commented on [#45](https://github.com/nanodelabs/novalyn/pull/45#issuecomment-3508269004) in [nanodelabs/novalyn](https://github.com/nanodelabs/novalyn)
 5. ❌ Unlabeled PR [#408](undefined) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
 <!--END_SECTION:activity-->
 
