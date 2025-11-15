@@ -112,11 +112,11 @@
 <summary><img src="https://readme-typing-svg.herokuapp.com/?lines=⚡+Recent+Activity;&font=Poppins"></summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#973](https://github.com/CachyOS/CachyOS-PKGBUILDS/issues/973#issuecomment-3536208365) in [CachyOS/CachyOS-PKGBUILDS](https://github.com/CachyOS/CachyOS-PKGBUILDS)
-2. 🗣 Commented on [#973](https://github.com/CachyOS/CachyOS-PKGBUILDS/issues/973#issuecomment-3536207702) in [CachyOS/CachyOS-PKGBUILDS](https://github.com/CachyOS/CachyOS-PKGBUILDS)
-3. 🗣 Commented on [#973](https://github.com/CachyOS/CachyOS-PKGBUILDS/issues/973#issuecomment-3536178874) in [CachyOS/CachyOS-PKGBUILDS](https://github.com/CachyOS/CachyOS-PKGBUILDS)
-4. ❗ Opened issue [#973](https://github.com/CachyOS/CachyOS-PKGBUILDS/issues/973) in [CachyOS/CachyOS-PKGBUILDS](https://github.com/CachyOS/CachyOS-PKGBUILDS)
-5. 🗣 Commented on [#189](https://github.com/MuntasirSZN/csmc/pull/189#issuecomment-3520901435) in [MuntasirSZN/csmc](https://github.com/MuntasirSZN/csmc)
+1. 🗣 Commented on [#973](https://github.com/CachyOS/CachyOS-PKGBUILDS/issues/973#issuecomment-3536411220) in [CachyOS/CachyOS-PKGBUILDS](https://github.com/CachyOS/CachyOS-PKGBUILDS)
+2. 🗣 Commented on [#973](https://github.com/CachyOS/CachyOS-PKGBUILDS/issues/973#issuecomment-3536401076) in [CachyOS/CachyOS-PKGBUILDS](https://github.com/CachyOS/CachyOS-PKGBUILDS)
+3. 🗣 Commented on [#973](https://github.com/CachyOS/CachyOS-PKGBUILDS/issues/973#issuecomment-3536208365) in [CachyOS/CachyOS-PKGBUILDS](https://github.com/CachyOS/CachyOS-PKGBUILDS)
+4. 🗣 Commented on [#973](https://github.com/CachyOS/CachyOS-PKGBUILDS/issues/973#issuecomment-3536207702) in [CachyOS/CachyOS-PKGBUILDS](https://github.com/CachyOS/CachyOS-PKGBUILDS)
+5. 🗣 Commented on [#973](https://github.com/CachyOS/CachyOS-PKGBUILDS/issues/973#issuecomment-3536178874) in [CachyOS/CachyOS-PKGBUILDS](https://github.com/CachyOS/CachyOS-PKGBUILDS)
 <!--END_SECTION:activity-->
 
 </details>
