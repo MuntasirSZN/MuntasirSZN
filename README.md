@@ -112,11 +112,11 @@
 <summary><img src="https://readme-typing-svg.herokuapp.com/?lines=⚡+Recent+Activity;&font=Poppins"></summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#973](https://github.com/CachyOS/CachyOS-PKGBUILDS/issues/973#issuecomment-3538579446) in [CachyOS/CachyOS-PKGBUILDS](https://github.com/CachyOS/CachyOS-PKGBUILDS)
-2. 🗣 Commented on [#12](https://github.com/Pelochus/armbian-build-rknpu-updates/pull/12#issuecomment-3538396431) in [Pelochus/armbian-build-rknpu-updates](https://github.com/Pelochus/armbian-build-rknpu-updates)
-3. 🗣 Commented on [#4](https://github.com/hoalamha/build/pull/4#issuecomment-3538393432) in [hoalamha/build](https://github.com/hoalamha/build)
-4. 🗣 Commented on [#12](https://github.com/sicXnull/armbian-build/pull/12#issuecomment-3538391007) in [sicXnull/armbian-build](https://github.com/sicXnull/armbian-build)
-5. 🗣 Commented on [#973](https://github.com/CachyOS/CachyOS-PKGBUILDS/issues/973#issuecomment-3536411220) in [CachyOS/CachyOS-PKGBUILDS](https://github.com/CachyOS/CachyOS-PKGBUILDS)
+1. ❗ Opened issue [#613](https://github.com/CachyOS/linux-cachyos/issues/613) in [CachyOS/linux-cachyos](https://github.com/CachyOS/linux-cachyos)
+2. 🗣 Commented on [#973](https://github.com/CachyOS/CachyOS-PKGBUILDS/issues/973#issuecomment-3538579446) in [CachyOS/CachyOS-PKGBUILDS](https://github.com/CachyOS/CachyOS-PKGBUILDS)
+3. 🗣 Commented on [#12](https://github.com/Pelochus/armbian-build-rknpu-updates/pull/12#issuecomment-3538396431) in [Pelochus/armbian-build-rknpu-updates](https://github.com/Pelochus/armbian-build-rknpu-updates)
+4. 🗣 Commented on [#4](https://github.com/hoalamha/build/pull/4#issuecomment-3538393432) in [hoalamha/build](https://github.com/hoalamha/build)
+5. 🗣 Commented on [#12](https://github.com/sicXnull/armbian-build/pull/12#issuecomment-3538391007) in [sicXnull/armbian-build](https://github.com/sicXnull/armbian-build)
 <!--END_SECTION:activity-->
 
 </details>
