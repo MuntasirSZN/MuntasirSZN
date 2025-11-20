@@ -112,11 +112,11 @@
 <summary><img src="https://readme-typing-svg.herokuapp.com/?lines=⚡+Recent+Activity;&font=Poppins"></summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#986](https://github.com/CachyOS/CachyOS-PKGBUILDS/issues/986#issuecomment-3558098690) in [CachyOS/CachyOS-PKGBUILDS](https://github.com/CachyOS/CachyOS-PKGBUILDS)
-2. ❗ Opened issue [#986](https://github.com/CachyOS/CachyOS-PKGBUILDS/issues/986) in [CachyOS/CachyOS-PKGBUILDS](https://github.com/CachyOS/CachyOS-PKGBUILDS)
-3. 🗣 Commented on [#613](https://github.com/CachyOS/linux-cachyos/issues/613#issuecomment-3547189074) in [CachyOS/linux-cachyos](https://github.com/CachyOS/linux-cachyos)
-4. 🗣 Commented on [#613](https://github.com/CachyOS/linux-cachyos/issues/613#issuecomment-3546899394) in [CachyOS/linux-cachyos](https://github.com/CachyOS/linux-cachyos)
-5. 🗣 Commented on [#252](https://github.com/STEAMer-Academy/steamer-academy.me/pull/252#issuecomment-3546235147) in [STEAMer-Academy/steamer-academy.me](https://github.com/STEAMer-Academy/steamer-academy.me)
+1.  Labeled issue [#20866](https://github.com/FortAwesome/Font-Awesome/issues/20866) in [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome)
+2. ❗ Opened issue [#20866](https://github.com/FortAwesome/Font-Awesome/issues/20866) in [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome)
+3. 🗣 Commented on [#986](https://github.com/CachyOS/CachyOS-PKGBUILDS/issues/986#issuecomment-3558098690) in [CachyOS/CachyOS-PKGBUILDS](https://github.com/CachyOS/CachyOS-PKGBUILDS)
+4. ❗ Opened issue [#986](https://github.com/CachyOS/CachyOS-PKGBUILDS/issues/986) in [CachyOS/CachyOS-PKGBUILDS](https://github.com/CachyOS/CachyOS-PKGBUILDS)
+5. 🗣 Commented on [#613](https://github.com/CachyOS/linux-cachyos/issues/613#issuecomment-3547189074) in [CachyOS/linux-cachyos](https://github.com/CachyOS/linux-cachyos)
 <!--END_SECTION:activity-->
 
 </details>
