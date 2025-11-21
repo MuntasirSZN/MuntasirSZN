@@ -112,11 +112,11 @@
 <summary><img src="https://readme-typing-svg.herokuapp.com/?lines=⚡+Recent+Activity;&font=Poppins"></summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#855](https://github.com/pwntester/octo.nvim/issues/855#issuecomment-3560880943) in [pwntester/octo.nvim](https://github.com/pwntester/octo.nvim)
-2.  Labeled issue [#20866](https://github.com/FortAwesome/Font-Awesome/issues/20866) in [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome)
-3. ❗ Opened issue [#20866](https://github.com/FortAwesome/Font-Awesome/issues/20866) in [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome)
-4. 🗣 Commented on [#986](https://github.com/CachyOS/CachyOS-PKGBUILDS/issues/986#issuecomment-3558098690) in [CachyOS/CachyOS-PKGBUILDS](https://github.com/CachyOS/CachyOS-PKGBUILDS)
-5. ❗ Opened issue [#986](https://github.com/CachyOS/CachyOS-PKGBUILDS/issues/986) in [CachyOS/CachyOS-PKGBUILDS](https://github.com/CachyOS/CachyOS-PKGBUILDS)
+1. 🔒 Closed issue [#986](https://github.com/CachyOS/CachyOS-PKGBUILDS/issues/986) in [CachyOS/CachyOS-PKGBUILDS](https://github.com/CachyOS/CachyOS-PKGBUILDS)
+2. 🗣 Commented on [#986](https://github.com/CachyOS/CachyOS-PKGBUILDS/issues/986#issuecomment-3562802481) in [CachyOS/CachyOS-PKGBUILDS](https://github.com/CachyOS/CachyOS-PKGBUILDS)
+3. 🗣 Commented on [#855](https://github.com/pwntester/octo.nvim/issues/855#issuecomment-3560880943) in [pwntester/octo.nvim](https://github.com/pwntester/octo.nvim)
+4.  Labeled issue [#20866](https://github.com/FortAwesome/Font-Awesome/issues/20866) in [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome)
+5. ❗ Opened issue [#20866](https://github.com/FortAwesome/Font-Awesome/issues/20866) in [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome)
 <!--END_SECTION:activity-->
 
 </details>
