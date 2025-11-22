@@ -112,11 +112,11 @@
 <summary><img src="https://readme-typing-svg.herokuapp.com/?lines=⚡+Recent+Activity;&font=Poppins"></summary>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#986](https://github.com/CachyOS/CachyOS-PKGBUILDS/issues/986) in [CachyOS/CachyOS-PKGBUILDS](https://github.com/CachyOS/CachyOS-PKGBUILDS)
-2. 🗣 Commented on [#986](https://github.com/CachyOS/CachyOS-PKGBUILDS/issues/986#issuecomment-3562802481) in [CachyOS/CachyOS-PKGBUILDS](https://github.com/CachyOS/CachyOS-PKGBUILDS)
-3. 🗣 Commented on [#855](https://github.com/pwntester/octo.nvim/issues/855#issuecomment-3560880943) in [pwntester/octo.nvim](https://github.com/pwntester/octo.nvim)
-4.  Labeled issue [#20866](https://github.com/FortAwesome/Font-Awesome/issues/20866) in [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome)
-5. ❗ Opened issue [#20866](https://github.com/FortAwesome/Font-Awesome/issues/20866) in [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome)
+1.  Labeled issue [#465](https://github.com/cordx56/rustowl/issues/465) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
+2.  Labeled issue [#465](https://github.com/cordx56/rustowl/issues/465) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
+3.  Labeled issue [#465](https://github.com/cordx56/rustowl/issues/465) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
+4.  Labeled issue [#465](https://github.com/cordx56/rustowl/issues/465) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
+5.  Unlabeled issue [#465](https://github.com/cordx56/rustowl/issues/465) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
 <!--END_SECTION:activity-->
 
 </details>
