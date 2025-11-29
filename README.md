@@ -29,11 +29,11 @@
 <img src="https://readme-typing-svg.herokuapp.com/?lines=⚡+Recent+Activity;&font=Poppins">
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.1.0](https://github.com/MuntasirSZN/d2o/releases/tag/v0.1.0) in [MuntasirSZN/d2o](https://github.com/MuntasirSZN/d2o)
-2. 🗣 Commented on [#421](https://github.com/OXY2DEV/markview.nvim/issues/421#issuecomment-3585577578) in [OXY2DEV/markview.nvim](https://github.com/OXY2DEV/markview.nvim)
-3.  Labeled issue [#466](https://github.com/cordx56/rustowl/issues/466) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
+1. 🚀 Published release [v0.1.0](https://github.com/MuntasirSZN/affs-read/releases/tag/v0.1.0) in [MuntasirSZN/affs-read](https://github.com/MuntasirSZN/affs-read)
+2. 🚀 Published release [v0.1.0](https://github.com/MuntasirSZN/d2o/releases/tag/v0.1.0) in [MuntasirSZN/d2o](https://github.com/MuntasirSZN/d2o)
+3. 🗣 Commented on [#421](https://github.com/OXY2DEV/markview.nvim/issues/421#issuecomment-3585577578) in [OXY2DEV/markview.nvim](https://github.com/OXY2DEV/markview.nvim)
 4.  Labeled issue [#466](https://github.com/cordx56/rustowl/issues/466) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
-5. 🗣 Commented on [#466](https://github.com/cordx56/rustowl/issues/466#issuecomment-3581765069) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
+5.  Labeled issue [#466](https://github.com/cordx56/rustowl/issues/466) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
 <!--END_SECTION:activity-->
 
 <img src="https://raw.githubusercontent.com/MuntasirSZN/MuntasirSZN/refs/heads/output/github-contribution-grid-snake.svg">
