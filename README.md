@@ -29,11 +29,11 @@
 <img src="https://readme-typing-svg.herokuapp.com/?lines=⚡+Recent+Activity;&font=Poppins">
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#132570](https://github.com/rust-lang/rust/pull/132570#issuecomment-3592131970) in [rust-lang/rust](https://github.com/rust-lang/rust)
-2. 🚀 Published release [v0.1.0](https://github.com/MuntasirSZN/affs-read/releases/tag/v0.1.0) in [MuntasirSZN/affs-read](https://github.com/MuntasirSZN/affs-read)
-3. 🚀 Published release [v0.1.0](https://github.com/MuntasirSZN/d2o/releases/tag/v0.1.0) in [MuntasirSZN/d2o](https://github.com/MuntasirSZN/d2o)
-4. 🗣 Commented on [#421](https://github.com/OXY2DEV/markview.nvim/issues/421#issuecomment-3585577578) in [OXY2DEV/markview.nvim](https://github.com/OXY2DEV/markview.nvim)
-5.  Labeled issue [#466](https://github.com/cordx56/rustowl/issues/466) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
+1. 🗣 Commented on [#260](https://github.com/STEAMer-Academy/steamer-academy.me/pull/260#issuecomment-3594549456) in [STEAMer-Academy/steamer-academy.me](https://github.com/STEAMer-Academy/steamer-academy.me)
+2. 🗣 Commented on [#132570](https://github.com/rust-lang/rust/pull/132570#issuecomment-3592131970) in [rust-lang/rust](https://github.com/rust-lang/rust)
+3. 🚀 Published release [v0.1.0](https://github.com/MuntasirSZN/affs-read/releases/tag/v0.1.0) in [MuntasirSZN/affs-read](https://github.com/MuntasirSZN/affs-read)
+4. 🚀 Published release [v0.1.0](https://github.com/MuntasirSZN/d2o/releases/tag/v0.1.0) in [MuntasirSZN/d2o](https://github.com/MuntasirSZN/d2o)
+5. 🗣 Commented on [#421](https://github.com/OXY2DEV/markview.nvim/issues/421#issuecomment-3585577578) in [OXY2DEV/markview.nvim](https://github.com/OXY2DEV/markview.nvim)
 <!--END_SECTION:activity-->
 
 <img src="https://raw.githubusercontent.com/MuntasirSZN/MuntasirSZN/refs/heads/output/github-contribution-grid-snake.svg">
