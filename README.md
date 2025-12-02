@@ -29,11 +29,11 @@
 <img src="https://readme-typing-svg.herokuapp.com/?lines=⚡+Recent+Activity;&font=Poppins">
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#34](https://github.com/awesomized/crc-fast-rust/issues/34) in [awesomized/crc-fast-rust](https://github.com/awesomized/crc-fast-rust)
-2. 🚀 Published release [v0.3.0](https://github.com/MuntasirSZN/affs-read/releases/tag/v0.3.0) in [MuntasirSZN/affs-read](https://github.com/MuntasirSZN/affs-read)
-3. 🚀 Published release [v0.2.0](https://github.com/MuntasirSZN/affs-read/releases/tag/v0.2.0) in [MuntasirSZN/affs-read](https://github.com/MuntasirSZN/affs-read)
-4. 🗣 Commented on [#260](https://github.com/STEAMer-Academy/steamer-academy.me/pull/260#issuecomment-3594549456) in [STEAMer-Academy/steamer-academy.me](https://github.com/STEAMer-Academy/steamer-academy.me)
-5. 🗣 Commented on [#132570](https://github.com/rust-lang/rust/pull/132570#issuecomment-3592131970) in [rust-lang/rust](https://github.com/rust-lang/rust)
+1. 🗣 Commented on [#421](https://github.com/OXY2DEV/markview.nvim/issues/421#issuecomment-3599927851) in [OXY2DEV/markview.nvim](https://github.com/OXY2DEV/markview.nvim)
+2. ❗ Opened issue [#34](https://github.com/awesomized/crc-fast-rust/issues/34) in [awesomized/crc-fast-rust](https://github.com/awesomized/crc-fast-rust)
+3. 🚀 Published release [v0.3.0](https://github.com/MuntasirSZN/affs-read/releases/tag/v0.3.0) in [MuntasirSZN/affs-read](https://github.com/MuntasirSZN/affs-read)
+4. 🚀 Published release [v0.2.0](https://github.com/MuntasirSZN/affs-read/releases/tag/v0.2.0) in [MuntasirSZN/affs-read](https://github.com/MuntasirSZN/affs-read)
+5. 🗣 Commented on [#260](https://github.com/STEAMer-Academy/steamer-academy.me/pull/260#issuecomment-3594549456) in [STEAMer-Academy/steamer-academy.me](https://github.com/STEAMer-Academy/steamer-academy.me)
 <!--END_SECTION:activity-->
 
 <img src="https://raw.githubusercontent.com/MuntasirSZN/MuntasirSZN/refs/heads/output/github-contribution-grid-snake.svg">
