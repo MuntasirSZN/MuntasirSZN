@@ -29,11 +29,11 @@
 <img src="https://readme-typing-svg.herokuapp.com/?lines=⚡+Recent+Activity;&font=Poppins">
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#421](https://github.com/OXY2DEV/markview.nvim/issues/421#issuecomment-3601066247) in [OXY2DEV/markview.nvim](https://github.com/OXY2DEV/markview.nvim)
-2. 🗣 Commented on [#421](https://github.com/OXY2DEV/markview.nvim/issues/421#issuecomment-3599927851) in [OXY2DEV/markview.nvim](https://github.com/OXY2DEV/markview.nvim)
-3. ❗ Opened issue [#34](https://github.com/awesomized/crc-fast-rust/issues/34) in [awesomized/crc-fast-rust](https://github.com/awesomized/crc-fast-rust)
-4. 🚀 Published release [v0.3.0](https://github.com/MuntasirSZN/affs-read/releases/tag/v0.3.0) in [MuntasirSZN/affs-read](https://github.com/MuntasirSZN/affs-read)
-5. 🚀 Published release [v0.2.0](https://github.com/MuntasirSZN/affs-read/releases/tag/v0.2.0) in [MuntasirSZN/affs-read](https://github.com/MuntasirSZN/affs-read)
+1. 🗣 Commented on [#3478](https://github.com/sharkdp/bat/pull/3478#issuecomment-3604814515) in [sharkdp/bat](https://github.com/sharkdp/bat)
+2. 🗣 Commented on [#3478](https://github.com/sharkdp/bat/pull/3478#issuecomment-3604806902) in [sharkdp/bat](https://github.com/sharkdp/bat)
+3. 🗣 Commented on [#421](https://github.com/OXY2DEV/markview.nvim/issues/421#issuecomment-3601066247) in [OXY2DEV/markview.nvim](https://github.com/OXY2DEV/markview.nvim)
+4. 🗣 Commented on [#421](https://github.com/OXY2DEV/markview.nvim/issues/421#issuecomment-3599927851) in [OXY2DEV/markview.nvim](https://github.com/OXY2DEV/markview.nvim)
+5. ❗ Opened issue [#34](https://github.com/awesomized/crc-fast-rust/issues/34) in [awesomized/crc-fast-rust](https://github.com/awesomized/crc-fast-rust)
 <!--END_SECTION:activity-->
 
 <img src="https://raw.githubusercontent.com/MuntasirSZN/MuntasirSZN/refs/heads/output/github-contribution-grid-snake.svg">
