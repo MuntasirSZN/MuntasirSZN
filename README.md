@@ -29,11 +29,11 @@
 <img src="https://readme-typing-svg.herokuapp.com/?lines=⚡+Recent+Activity;&font=Poppins">
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#465](https://github.com/cordx56/rustowl/issues/465#issuecomment-3622054346) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
-2. 🗣 Commented on [#475](https://github.com/cordx56/rustowl/pull/475#issuecomment-3621804812) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
-3. 🗣 Commented on [#475](https://github.com/cordx56/rustowl/pull/475#issuecomment-3621802703) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
-4. 🗣 Commented on [#3687](https://github.com/sst/opencode/issues/3687#issuecomment-3615718348) in [sst/opencode](https://github.com/sst/opencode)
-5. 🗣 Commented on [#421](https://github.com/OXY2DEV/markview.nvim/issues/421#issuecomment-3615339076) in [OXY2DEV/markview.nvim](https://github.com/OXY2DEV/markview.nvim)
+1. 🗣 Commented on [#2465](https://github.com/end-4/dots-hyprland/issues/2465#issuecomment-3624680677) in [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland)
+2. 🗣 Commented on [#2465](https://github.com/end-4/dots-hyprland/issues/2465#issuecomment-3624670961) in [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland)
+3. 🗣 Commented on [#465](https://github.com/cordx56/rustowl/issues/465#issuecomment-3622054346) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
+4. 🗣 Commented on [#475](https://github.com/cordx56/rustowl/pull/475#issuecomment-3621804812) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
+5. 🗣 Commented on [#475](https://github.com/cordx56/rustowl/pull/475#issuecomment-3621802703) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
 <!--END_SECTION:activity-->
 
 <img src="https://raw.githubusercontent.com/MuntasirSZN/MuntasirSZN/refs/heads/output/github-contribution-grid-snake.svg">
