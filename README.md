@@ -29,11 +29,11 @@
 <img src="https://readme-typing-svg.herokuapp.com/?lines=⚡+Recent+Activity;&font=Poppins">
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#421](https://github.com/cordx56/rustowl/pull/421#issuecomment-3645639463) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
-2. 🗣 Commented on [#421](https://github.com/cordx56/rustowl/pull/421#issuecomment-3641441795) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
-3. 🗣 Commented on [#480](https://github.com/cordx56/rustowl/pull/480#issuecomment-3636646297) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
-4. 💪 Opened PR [#480](undefined) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
-5. 🗣 Commented on [#479](https://github.com/cordx56/rustowl/pull/479#issuecomment-3636539136) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
+1. ❌ Closed PR [#216](undefined) in [MuntasirSZN/csmc](https://github.com/MuntasirSZN/csmc)
+2. 🗣 Commented on [#215](https://github.com/MuntasirSZN/csmc/pull/215#issuecomment-3655129592) in [MuntasirSZN/csmc](https://github.com/MuntasirSZN/csmc)
+3. 🗣 Commented on [#421](https://github.com/cordx56/rustowl/pull/421#issuecomment-3645639463) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
+4. 🗣 Commented on [#421](https://github.com/cordx56/rustowl/pull/421#issuecomment-3641441795) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
+5. 🗣 Commented on [#480](https://github.com/cordx56/rustowl/pull/480#issuecomment-3636646297) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
 <!--END_SECTION:activity-->
 
 <img src="https://raw.githubusercontent.com/MuntasirSZN/MuntasirSZN/refs/heads/output/github-contribution-grid-snake.svg">
