@@ -29,11 +29,11 @@
 <img src="https://readme-typing-svg.herokuapp.com/?lines=⚡+Recent+Activity;&font=Poppins">
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#479](https://github.com/cordx56/rustowl/pull/479#issuecomment-3678446234) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
-2. ❌ Closed PR [#479](undefined) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
-3. 💪 Opened PR [#1317](undefined) in [hyprwm/hyprland-wiki](https://github.com/hyprwm/hyprland-wiki)
-4. 🗣 Commented on [#13](https://github.com/sicXnull/armbian-build/pull/13#issuecomment-3658972453) in [sicXnull/armbian-build](https://github.com/sicXnull/armbian-build)
-5. ❌ Closed PR [#216](undefined) in [MuntasirSZN/csmc](https://github.com/MuntasirSZN/csmc)
+1. 🗣 Commented on [#382](https://github.com/cordx56/rustowl/pull/382#issuecomment-3678456337) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
+2. ❌ Closed PR [#382](undefined) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
+3. 🗣 Commented on [#479](https://github.com/cordx56/rustowl/pull/479#issuecomment-3678446234) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
+4. ❌ Closed PR [#479](undefined) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
+5. 💪 Opened PR [#1317](undefined) in [hyprwm/hyprland-wiki](https://github.com/hyprwm/hyprland-wiki)
 <!--END_SECTION:activity-->
 
 <img src="https://raw.githubusercontent.com/MuntasirSZN/MuntasirSZN/refs/heads/output/github-contribution-grid-snake.svg">
