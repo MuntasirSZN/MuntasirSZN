@@ -29,11 +29,11 @@
 <img src="https://readme-typing-svg.herokuapp.com/?lines=⚡+Recent+Activity;&font=Poppins">
 
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#1317](undefined) in [hyprwm/hyprland-wiki](https://github.com/hyprwm/hyprland-wiki)
-2. 🗣 Commented on [#97](https://github.com/compio-rs/winio/issues/97#issuecomment-3689175356) in [compio-rs/winio](https://github.com/compio-rs/winio)
-3. 🗣 Commented on [#97](https://github.com/compio-rs/winio/issues/97#issuecomment-3689158322) in [compio-rs/winio](https://github.com/compio-rs/winio)
-4. 🗣 Commented on [#97](https://github.com/compio-rs/winio/issues/97#issuecomment-3689060148) in [compio-rs/winio](https://github.com/compio-rs/winio)
-5. 🗣 Commented on [#97](https://github.com/compio-rs/winio/issues/97#issuecomment-3689032996) in [compio-rs/winio](https://github.com/compio-rs/winio)
+1. 🗣 Commented on [#421](https://github.com/cordx56/rustowl/pull/421#issuecomment-3691608678) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
+2. ❌ Merged PR [#1317](undefined) in [hyprwm/hyprland-wiki](https://github.com/hyprwm/hyprland-wiki)
+3. 🗣 Commented on [#97](https://github.com/compio-rs/winio/issues/97#issuecomment-3689175356) in [compio-rs/winio](https://github.com/compio-rs/winio)
+4. 🗣 Commented on [#97](https://github.com/compio-rs/winio/issues/97#issuecomment-3689158322) in [compio-rs/winio](https://github.com/compio-rs/winio)
+5. 🗣 Commented on [#97](https://github.com/compio-rs/winio/issues/97#issuecomment-3689060148) in [compio-rs/winio](https://github.com/compio-rs/winio)
 <!--END_SECTION:activity-->
 
 <img src="https://raw.githubusercontent.com/MuntasirSZN/MuntasirSZN/refs/heads/output/github-contribution-grid-snake.svg">
