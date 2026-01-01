@@ -30,10 +30,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#421](https://github.com/cordx56/rustowl/pull/421#issuecomment-3702241705) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
-2. ❌ Labeled PR [#421](undefined) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
-3. ❌ Unlabeled PR [#421](undefined) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
+2. ℹ️ Labeled PR [#421](https://github.com/cordx56/rustowl/pull/421) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
+3. ℹ️ Unlabeled PR [#421](https://github.com/cordx56/rustowl/pull/421) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
 4. 🗣 Commented on [#421](https://github.com/cordx56/rustowl/pull/421#issuecomment-3699486132) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
-5. ❌ Labeled PR [#421](undefined) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
+5. ℹ️ Labeled PR [#421](https://github.com/cordx56/rustowl/pull/421) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
 <!--END_SECTION:activity-->
 
 <img src="https://raw.githubusercontent.com/MuntasirSZN/MuntasirSZN/refs/heads/output/github-contribution-grid-snake.svg">
