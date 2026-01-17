@@ -29,11 +29,11 @@
 <img src="https://readme-typing-svg.herokuapp.com/?lines=⚡+Recent+Activity;&font=Poppins">
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#805](https://github.com/mierak/rmpc/issues/805#issuecomment-3762679551) in [mierak/rmpc](https://github.com/mierak/rmpc)
-2. 🎉 Merged PR [#29](https://github.com/catppuccin/.github/pull/29) in [catppuccin/.github](https://github.com/catppuccin/.github)
-3. 🗣 Commented on [#421](https://github.com/cordx56/rustowl/pull/421#issuecomment-3743845731) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
-4. 🗣 Commented on [#286](https://github.com/cordx56/rustowl/pull/286#issuecomment-3743776888) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
-5. 🗣 Commented on [#480](https://github.com/cordx56/rustowl/pull/480#issuecomment-3743637834) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
+1. 🗣 Commented on [#2362](https://github.com/MusicPlayerDaemon/MPD/issues/2362#issuecomment-3763142140) in [MusicPlayerDaemon/MPD](https://github.com/MusicPlayerDaemon/MPD)
+2. 🗣 Commented on [#805](https://github.com/mierak/rmpc/issues/805#issuecomment-3762679551) in [mierak/rmpc](https://github.com/mierak/rmpc)
+3. 🎉 Merged PR [#29](https://github.com/catppuccin/.github/pull/29) in [catppuccin/.github](https://github.com/catppuccin/.github)
+4. 🗣 Commented on [#421](https://github.com/cordx56/rustowl/pull/421#issuecomment-3743845731) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
+5. 🗣 Commented on [#286](https://github.com/cordx56/rustowl/pull/286#issuecomment-3743776888) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
 <!--END_SECTION:activity-->
 
 <img src="https://raw.githubusercontent.com/MuntasirSZN/MuntasirSZN/refs/heads/output/github-contribution-grid-snake.svg">
