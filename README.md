@@ -29,11 +29,11 @@
 <img src="https://readme-typing-svg.herokuapp.com/?lines=⚡+Recent+Activity;&font=Poppins">
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#805](https://github.com/mierak/rmpc/issues/805#issuecomment-3763999557) in [mierak/rmpc](https://github.com/mierak/rmpc)
-2. 🗣 Commented on [#2362](https://github.com/MusicPlayerDaemon/MPD/issues/2362#issuecomment-3763142140) in [MusicPlayerDaemon/MPD](https://github.com/MusicPlayerDaemon/MPD)
-3. 🗣 Commented on [#805](https://github.com/mierak/rmpc/issues/805#issuecomment-3762679551) in [mierak/rmpc](https://github.com/mierak/rmpc)
-4. 🎉 Merged PR [#29](https://github.com/catppuccin/.github/pull/29) in [catppuccin/.github](https://github.com/catppuccin/.github)
-5. 🗣 Commented on [#421](https://github.com/cordx56/rustowl/pull/421#issuecomment-3743845731) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
+1. 🗣 Commented on [#2990](https://github.com/nextest-rs/nextest/issues/2990#issuecomment-3793373045) in [nextest-rs/nextest](https://github.com/nextest-rs/nextest)
+2. 🗣 Commented on [#71](https://github.com/MuntasirSZN/rou3-rs/pull/71#issuecomment-3793371067) in [MuntasirSZN/rou3-rs](https://github.com/MuntasirSZN/rou3-rs)
+3. ❌ Closed PR [#72](https://github.com/MuntasirSZN/rou3-rs/pull/72) in [MuntasirSZN/rou3-rs](https://github.com/MuntasirSZN/rou3-rs)
+4. 🗣 Commented on [#71](https://github.com/MuntasirSZN/rou3-rs/pull/71#issuecomment-3793362786) in [MuntasirSZN/rou3-rs](https://github.com/MuntasirSZN/rou3-rs)
+5. 🗣 Commented on [#805](https://github.com/mierak/rmpc/issues/805#issuecomment-3763999557) in [mierak/rmpc](https://github.com/mierak/rmpc)
 <!--END_SECTION:activity-->
 
 <img src="https://raw.githubusercontent.com/MuntasirSZN/MuntasirSZN/refs/heads/output/github-contribution-grid-snake.svg">
