@@ -29,11 +29,11 @@
 <img src="https://readme-typing-svg.herokuapp.com/?lines=⚡+Recent+Activity;&font=Poppins">
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#480](https://github.com/cordx56/rustowl/pull/480) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
-2. 🎉 Merged PR [#399](https://github.com/cordx56/rustowl/pull/399) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
-3. 🗣 Commented on [#2445](https://github.com/end-4/dots-hyprland/issues/2445#issuecomment-3796822150) in [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland)
-4. 🗣 Commented on [#2990](https://github.com/nextest-rs/nextest/issues/2990#issuecomment-3793373045) in [nextest-rs/nextest](https://github.com/nextest-rs/nextest)
-5. 🗣 Commented on [#71](https://github.com/MuntasirSZN/rou3-rs/pull/71#issuecomment-3793371067) in [MuntasirSZN/rou3-rs](https://github.com/MuntasirSZN/rou3-rs)
+1. 🗣 Commented on [#2445](https://github.com/end-4/dots-hyprland/issues/2445#issuecomment-3799511313) in [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland)
+2. 🎉 Merged PR [#480](https://github.com/cordx56/rustowl/pull/480) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
+3. 🎉 Merged PR [#399](https://github.com/cordx56/rustowl/pull/399) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
+4. 🗣 Commented on [#2445](https://github.com/end-4/dots-hyprland/issues/2445#issuecomment-3796822150) in [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland)
+5. 🗣 Commented on [#2990](https://github.com/nextest-rs/nextest/issues/2990#issuecomment-3793373045) in [nextest-rs/nextest](https://github.com/nextest-rs/nextest)
 <!--END_SECTION:activity-->
 
 <img src="https://raw.githubusercontent.com/MuntasirSZN/MuntasirSZN/refs/heads/output/github-contribution-grid-snake.svg">
