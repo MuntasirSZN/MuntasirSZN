@@ -29,11 +29,11 @@
 <img src="https://readme-typing-svg.herokuapp.com/?lines=⚡+Recent+Activity;&font=Poppins">
 
 <!--START_SECTION:activity-->
-1. ℹ️ Unlabeled PR [#518](https://github.com/cordx56/rustowl/pull/518) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
-2. 🗣 Commented on [#518](https://github.com/cordx56/rustowl/pull/518#issuecomment-3800472628) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
-3. ℹ️ Labeled PR [#518](https://github.com/cordx56/rustowl/pull/518) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
-4. 💪 Opened PR [#518](https://github.com/cordx56/rustowl/pull/518) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
-5. 💪 Opened PR [#517](https://github.com/cordx56/rustowl/pull/517) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
+1. ℹ️ Labeled PR [#518](https://github.com/cordx56/rustowl/pull/518) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
+2. ℹ️ Unlabeled PR [#518](https://github.com/cordx56/rustowl/pull/518) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
+3. 🗣 Commented on [#518](https://github.com/cordx56/rustowl/pull/518#issuecomment-3800559388) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
+4. ℹ️ Labeled PR [#518](https://github.com/cordx56/rustowl/pull/518) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
+5. ℹ️ Unlabeled PR [#518](https://github.com/cordx56/rustowl/pull/518) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
 <!--END_SECTION:activity-->
 
 <img src="https://raw.githubusercontent.com/MuntasirSZN/MuntasirSZN/refs/heads/output/github-contribution-grid-snake.svg">
