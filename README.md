@@ -31,9 +31,9 @@
 <!--START_SECTION:activity-->
 1. ℹ️ Labeled PR [#518](https://github.com/cordx56/rustowl/pull/518) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
 2. ℹ️ Unlabeled PR [#518](https://github.com/cordx56/rustowl/pull/518) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
-3. ℹ️ Labeled PR [#518](https://github.com/cordx56/rustowl/pull/518) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
-4. ℹ️ Unlabeled PR [#518](https://github.com/cordx56/rustowl/pull/518) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
-5. 🗣 Commented on [#519](https://github.com/cordx56/rustowl/pull/519#issuecomment-3804959137) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
+3. 🗣 Commented on [#519](https://github.com/cordx56/rustowl/pull/519#issuecomment-3805312475) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
+4. 🗣 Commented on [#519](https://github.com/cordx56/rustowl/pull/519#issuecomment-3805310739) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
+5. ❗ Opened issue [#374](https://github.com/hyprwm/xdg-desktop-portal-hyprland/issues/374) in [hyprwm/xdg-desktop-portal-hyprland](https://github.com/hyprwm/xdg-desktop-portal-hyprland)
 <!--END_SECTION:activity-->
 
 <img src="https://raw.githubusercontent.com/MuntasirSZN/MuntasirSZN/refs/heads/output/github-contribution-grid-snake.svg">
