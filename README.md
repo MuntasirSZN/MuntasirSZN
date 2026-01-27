@@ -31,9 +31,9 @@
 <!--START_SECTION:activity-->
 1. ℹ️ Labeled PR [#518](https://github.com/cordx56/rustowl/pull/518) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
 2. ℹ️ Unlabeled PR [#518](https://github.com/cordx56/rustowl/pull/518) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
-3. 🗣 Commented on [#519](https://github.com/cordx56/rustowl/pull/519#issuecomment-3804959137) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
-4. ❌ Closed PR [#74](https://github.com/MuntasirSZN/rou3-rs/pull/74) in [MuntasirSZN/rou3-rs](https://github.com/MuntasirSZN/rou3-rs)
-5. ❌ Closed PR [#75](https://github.com/MuntasirSZN/fetchttp/pull/75) in [MuntasirSZN/fetchttp](https://github.com/MuntasirSZN/fetchttp)
+3. ℹ️ Labeled PR [#518](https://github.com/cordx56/rustowl/pull/518) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
+4. ℹ️ Unlabeled PR [#518](https://github.com/cordx56/rustowl/pull/518) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
+5. 🗣 Commented on [#519](https://github.com/cordx56/rustowl/pull/519#issuecomment-3804959137) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
 <!--END_SECTION:activity-->
 
 <img src="https://raw.githubusercontent.com/MuntasirSZN/MuntasirSZN/refs/heads/output/github-contribution-grid-snake.svg">
