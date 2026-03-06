@@ -29,7 +29,7 @@
 <img src="https://readme-typing-svg.herokuapp.com/?lines=⚡+Recent+Activity;&font=Poppins">
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#97](https://github.com/compio-rs/winio/issues/97#issuecomment-3935064472) in [compio-rs/winio](https://github.com/compio-rs/winio)
+1. 🗣 Commented on [#150](https://github.com/catgoose/nvim-colorizer.lua/issues/150#issuecomment-4009757931) in [catgoose/nvim-colorizer.lua](https://github.com/catgoose/nvim-colorizer.lua)
 2. 🗣 Commented on [#97](https://github.com/compio-rs/winio/issues/97#issuecomment-3928030955) in [compio-rs/winio](https://github.com/compio-rs/winio)
 3. 🗣 Commented on [#2](https://github.com/MuntasirSZN/rxfetch-rs/pull/2#issuecomment-3926270478) in [MuntasirSZN/rxfetch-rs](https://github.com/MuntasirSZN/rxfetch-rs)
 4. ❗ Opened issue [#61](https://github.com/boltffi/boltffi/issues/61) in [boltffi/boltffi](https://github.com/boltffi/boltffi)
