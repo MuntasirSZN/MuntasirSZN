@@ -29,10 +29,10 @@
 <img src="https://readme-typing-svg.herokuapp.com/?lines=⚡+Recent+Activity;&font=Poppins">
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#150](https://github.com/catgoose/nvim-colorizer.lua/issues/150#issuecomment-4013056917) in [catgoose/nvim-colorizer.lua](https://github.com/catgoose/nvim-colorizer.lua)
-2. 🗣 Commented on [#150](https://github.com/catgoose/nvim-colorizer.lua/issues/150#issuecomment-4009757931) in [catgoose/nvim-colorizer.lua](https://github.com/catgoose/nvim-colorizer.lua)
-3. 🗣 Commented on [#2](https://github.com/MuntasirSZN/rxfetch-rs/pull/2#issuecomment-3926270478) in [MuntasirSZN/rxfetch-rs](https://github.com/MuntasirSZN/rxfetch-rs)
-4. ❗ Opened issue [#61](https://github.com/boltffi/boltffi/issues/61) in [boltffi/boltffi](https://github.com/boltffi/boltffi)
+1. 🗣 Commented on [#556](https://github.com/cordx56/rustowl/pull/556#issuecomment-4022880839) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
+2. 🗣 Commented on [#548](https://github.com/cordx56/rustowl/pull/548#issuecomment-4022856811) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
+3. 🗣 Commented on [#150](https://github.com/catgoose/nvim-colorizer.lua/issues/150#issuecomment-4013056917) in [catgoose/nvim-colorizer.lua](https://github.com/catgoose/nvim-colorizer.lua)
+4. 🗣 Commented on [#150](https://github.com/catgoose/nvim-colorizer.lua/issues/150#issuecomment-4009757931) in [catgoose/nvim-colorizer.lua](https://github.com/catgoose/nvim-colorizer.lua)
 5. 🗣 Commented on [#2](https://github.com/MuntasirSZN/rxfetch-rs/pull/2#issuecomment-3926097271) in [MuntasirSZN/rxfetch-rs](https://github.com/MuntasirSZN/rxfetch-rs)
 <!--END_SECTION:activity-->
 
