@@ -29,10 +29,10 @@
 <img src="https://readme-typing-svg.herokuapp.com/?lines=⚡+Recent+Activity;&font=Poppins">
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.1.1](https://github.com/MuntasirSZN/d2o/releases/tag/v0.1.1) in [MuntasirSZN/d2o](https://github.com/MuntasirSZN/d2o)
-2. 🗣 Commented on [#14](https://github.com/feicong/armbian-build/pull/14#issuecomment-4268930859) in [feicong/armbian-build](https://github.com/feicong/armbian-build)
-3. 🗣 Commented on [#1](https://github.com/cafkafk/natord-plus-plus/pull/1#issuecomment-4241368576) in [cafkafk/natord-plus-plus](https://github.com/cafkafk/natord-plus-plus)
-4. 🗣 Commented on [#569](https://github.com/cordx56/rustowl/pull/569#issuecomment-4187926286) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
+1. ℹ️ Unlabeled issue [#557](https://github.com/cordx56/rustowl/issues/557) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
+2. ℹ️ Labeled issue [#557](https://github.com/cordx56/rustowl/issues/557) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
+3. 🚀 Published release [v0.1.1](https://github.com/MuntasirSZN/d2o/releases/tag/v0.1.1) in [MuntasirSZN/d2o](https://github.com/MuntasirSZN/d2o)
+4. 🗣 Commented on [#14](https://github.com/feicong/armbian-build/pull/14#issuecomment-4268930859) in [feicong/armbian-build](https://github.com/feicong/armbian-build)
 5. 🗣 Commented on [#574](https://github.com/cordx56/rustowl/issues/574#issuecomment-4185987329) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
 <!--END_SECTION:activity-->
 
