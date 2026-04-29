@@ -29,11 +29,11 @@
 <img src="https://readme-typing-svg.herokuapp.com/?lines=⚡+Recent+Activity;&font=Poppins">
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/MuntasirSZN/dirpc/pull/1#issuecomment-4329035470) in [MuntasirSZN/dirpc](https://github.com/MuntasirSZN/dirpc)
-2. 🗣 Commented on [#1](https://github.com/MuntasirSZN/dirpc/pull/1#issuecomment-4326719297) in [MuntasirSZN/dirpc](https://github.com/MuntasirSZN/dirpc)
-3. 🗣 Commented on [#1](https://github.com/MuntasirSZN/dirpc/pull/1#issuecomment-4324896017) in [MuntasirSZN/dirpc](https://github.com/MuntasirSZN/dirpc)
-4. 🗣 Commented on [#36969](https://github.com/is-a-dev/register/pull/36969#issuecomment-4322012592) in [is-a-dev/register](https://github.com/is-a-dev/register)
-5. 💪 Opened PR [#36969](https://github.com/is-a-dev/register/pull/36969) in [is-a-dev/register](https://github.com/is-a-dev/register)
+1. ❗ Opened issue [#38](https://github.com/infinitefield/yawc/issues/38) in [infinitefield/yawc](https://github.com/infinitefield/yawc)
+2. 🗣 Commented on [#1](https://github.com/MuntasirSZN/dirpc/pull/1#issuecomment-4329035470) in [MuntasirSZN/dirpc](https://github.com/MuntasirSZN/dirpc)
+3. 🗣 Commented on [#1](https://github.com/MuntasirSZN/dirpc/pull/1#issuecomment-4326719297) in [MuntasirSZN/dirpc](https://github.com/MuntasirSZN/dirpc)
+4. 🗣 Commented on [#1](https://github.com/MuntasirSZN/dirpc/pull/1#issuecomment-4324896017) in [MuntasirSZN/dirpc](https://github.com/MuntasirSZN/dirpc)
+5. 🗣 Commented on [#36969](https://github.com/is-a-dev/register/pull/36969#issuecomment-4322012592) in [is-a-dev/register](https://github.com/is-a-dev/register)
 <!--END_SECTION:activity-->
 
 <img src="https://raw.githubusercontent.com/MuntasirSZN/MuntasirSZN/refs/heads/output/github-contribution-grid-snake.svg">
