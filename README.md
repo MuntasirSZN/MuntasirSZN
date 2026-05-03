@@ -29,11 +29,11 @@
 <img src="https://readme-typing-svg.herokuapp.com/?lines=⚡+Recent+Activity;&font=Poppins">
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#595](https://github.com/cordx56/rustowl/pull/595#issuecomment-4364208848) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
-2. 🗣 Commented on [#595](https://github.com/cordx56/rustowl/pull/595#issuecomment-4364155192) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
-3. 🗣 Commented on [#595](https://github.com/cordx56/rustowl/pull/595#issuecomment-4364147573) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
-4. 🗣 Commented on [#347](https://github.com/STEAMer-Academy/steamer-academy.me/pull/347#issuecomment-4363721760) in [STEAMer-Academy/steamer-academy.me](https://github.com/STEAMer-Academy/steamer-academy.me)
-5. 🗣 Commented on [#1](https://github.com/MuntasirSZN/dirpc/pull/1#issuecomment-4363698222) in [MuntasirSZN/dirpc](https://github.com/MuntasirSZN/dirpc)
+1. 🗣 Commented on [#2181](https://github.com/cargo-bins/cargo-binstall/issues/2181#issuecomment-4365692242) in [cargo-bins/cargo-binstall](https://github.com/cargo-bins/cargo-binstall)
+2. 🗣 Commented on [#595](https://github.com/cordx56/rustowl/pull/595#issuecomment-4364208848) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
+3. 🗣 Commented on [#595](https://github.com/cordx56/rustowl/pull/595#issuecomment-4364155192) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
+4. 🗣 Commented on [#595](https://github.com/cordx56/rustowl/pull/595#issuecomment-4364147573) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
+5. 🗣 Commented on [#347](https://github.com/STEAMer-Academy/steamer-academy.me/pull/347#issuecomment-4363721760) in [STEAMer-Academy/steamer-academy.me](https://github.com/STEAMer-Academy/steamer-academy.me)
 <!--END_SECTION:activity-->
 
 <img src="https://raw.githubusercontent.com/MuntasirSZN/MuntasirSZN/refs/heads/output/github-contribution-grid-snake.svg">
