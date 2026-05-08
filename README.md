@@ -29,11 +29,11 @@
 <img src="https://readme-typing-svg.herokuapp.com/?lines=⚡+Recent+Activity;&font=Poppins">
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#61](https://github.com/compio-rs/cyper/issues/61#issuecomment-4407429626) in [compio-rs/cyper](https://github.com/compio-rs/cyper)
-2. 🗣 Commented on [#61](https://github.com/compio-rs/cyper/issues/61#issuecomment-4407416572) in [compio-rs/cyper](https://github.com/compio-rs/cyper)
-3. ❗ Opened issue [#61](https://github.com/compio-rs/cyper/issues/61) in [compio-rs/cyper](https://github.com/compio-rs/cyper)
-4. ❗ Opened issue [#60](https://github.com/compio-rs/cyper/issues/60) in [compio-rs/cyper](https://github.com/compio-rs/cyper)
-5. ❌ Closed PR [#5](https://github.com/MuntasirSZN/dirpc/pull/5) in [MuntasirSZN/dirpc](https://github.com/MuntasirSZN/dirpc)
+1. 🗣 Commented on [#61](https://github.com/compio-rs/cyper/issues/61#issuecomment-4407867667) in [compio-rs/cyper](https://github.com/compio-rs/cyper)
+2. 🗣 Commented on [#61](https://github.com/compio-rs/cyper/issues/61#issuecomment-4407429626) in [compio-rs/cyper](https://github.com/compio-rs/cyper)
+3. 🗣 Commented on [#61](https://github.com/compio-rs/cyper/issues/61#issuecomment-4407416572) in [compio-rs/cyper](https://github.com/compio-rs/cyper)
+4. ❗ Opened issue [#61](https://github.com/compio-rs/cyper/issues/61) in [compio-rs/cyper](https://github.com/compio-rs/cyper)
+5. ❗ Opened issue [#60](https://github.com/compio-rs/cyper/issues/60) in [compio-rs/cyper](https://github.com/compio-rs/cyper)
 <!--END_SECTION:activity-->
 
 <img src="https://raw.githubusercontent.com/MuntasirSZN/MuntasirSZN/refs/heads/output/github-contribution-grid-snake.svg">
