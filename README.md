@@ -29,11 +29,11 @@
 <img src="https://readme-typing-svg.herokuapp.com/?lines=⚡+Recent+Activity;&font=Poppins">
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#359](https://github.com/STEAMer-Academy/steamer-academy.me/pull/359#issuecomment-4405981824) in [STEAMer-Academy/steamer-academy.me](https://github.com/STEAMer-Academy/steamer-academy.me)
-2. ❗ Opened issue [#3](https://github.com/MuntasirSZN/dirpc/issues/3) in [MuntasirSZN/dirpc](https://github.com/MuntasirSZN/dirpc)
-3. ℹ️ Labeled issue [#2](https://github.com/MuntasirSZN/dirpc/issues/2) in [MuntasirSZN/dirpc](https://github.com/MuntasirSZN/dirpc)
-4. ❗ Opened issue [#2](https://github.com/MuntasirSZN/dirpc/issues/2) in [MuntasirSZN/dirpc](https://github.com/MuntasirSZN/dirpc)
-5. 🗣 Commented on [#1](https://github.com/MuntasirSZN/dirpc/pull/1#issuecomment-4385021010) in [MuntasirSZN/dirpc](https://github.com/MuntasirSZN/dirpc)
+1. ❌ Closed PR [#5](https://github.com/MuntasirSZN/dirpc/pull/5) in [MuntasirSZN/dirpc](https://github.com/MuntasirSZN/dirpc)
+2. 🗣 Commented on [#359](https://github.com/STEAMer-Academy/steamer-academy.me/pull/359#issuecomment-4405981824) in [STEAMer-Academy/steamer-academy.me](https://github.com/STEAMer-Academy/steamer-academy.me)
+3. ❗ Opened issue [#3](https://github.com/MuntasirSZN/dirpc/issues/3) in [MuntasirSZN/dirpc](https://github.com/MuntasirSZN/dirpc)
+4. ℹ️ Labeled issue [#2](https://github.com/MuntasirSZN/dirpc/issues/2) in [MuntasirSZN/dirpc](https://github.com/MuntasirSZN/dirpc)
+5. ❗ Opened issue [#2](https://github.com/MuntasirSZN/dirpc/issues/2) in [MuntasirSZN/dirpc](https://github.com/MuntasirSZN/dirpc)
 <!--END_SECTION:activity-->
 
 <img src="https://raw.githubusercontent.com/MuntasirSZN/MuntasirSZN/refs/heads/output/github-contribution-grid-snake.svg">
