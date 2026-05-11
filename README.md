@@ -29,11 +29,11 @@
 <img src="https://readme-typing-svg.herokuapp.com/?lines=⚡+Recent+Activity;&font=Poppins">
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6](https://github.com/MuntasirSZN/dirpc/pull/6#issuecomment-4414798711) in [MuntasirSZN/dirpc](https://github.com/MuntasirSZN/dirpc)
-2. 🗣 Commented on [#6](https://github.com/MuntasirSZN/dirpc/pull/6#issuecomment-4414250597) in [MuntasirSZN/dirpc](https://github.com/MuntasirSZN/dirpc)
-3. 🗣 Commented on [#61](https://github.com/compio-rs/cyper/issues/61#issuecomment-4412787446) in [compio-rs/cyper](https://github.com/compio-rs/cyper)
-4. 🗣 Commented on [#6](https://github.com/MuntasirSZN/dirpc/pull/6#issuecomment-4412778625) in [MuntasirSZN/dirpc](https://github.com/MuntasirSZN/dirpc)
-5. 🗣 Commented on [#360](https://github.com/STEAMer-Academy/steamer-academy.me/pull/360#issuecomment-4411810877) in [STEAMer-Academy/steamer-academy.me](https://github.com/STEAMer-Academy/steamer-academy.me)
+1. 🗣 Commented on [#3625](https://github.com/hickory-dns/hickory-dns/issues/3625#issuecomment-4417259476) in [hickory-dns/hickory-dns](https://github.com/hickory-dns/hickory-dns)
+2. 🗣 Commented on [#3625](https://github.com/hickory-dns/hickory-dns/issues/3625#issuecomment-4417222918) in [hickory-dns/hickory-dns](https://github.com/hickory-dns/hickory-dns)
+3. 🗣 Commented on [#6](https://github.com/MuntasirSZN/dirpc/pull/6#issuecomment-4417176185) in [MuntasirSZN/dirpc](https://github.com/MuntasirSZN/dirpc)
+4. 🗣 Commented on [#6](https://github.com/MuntasirSZN/dirpc/pull/6#issuecomment-4414798711) in [MuntasirSZN/dirpc](https://github.com/MuntasirSZN/dirpc)
+5. 🗣 Commented on [#6](https://github.com/MuntasirSZN/dirpc/pull/6#issuecomment-4414250597) in [MuntasirSZN/dirpc](https://github.com/MuntasirSZN/dirpc)
 <!--END_SECTION:activity-->
 
 <img src="https://raw.githubusercontent.com/MuntasirSZN/MuntasirSZN/refs/heads/output/github-contribution-grid-snake.svg">
