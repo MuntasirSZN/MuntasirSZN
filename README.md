@@ -29,11 +29,11 @@
 <img src="https://readme-typing-svg.herokuapp.com/?lines=⚡+Recent+Activity;&font=Poppins">
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/MuntasirSZN/dirpc/issues/2#issuecomment-4427780352) in [MuntasirSZN/dirpc](https://github.com/MuntasirSZN/dirpc)
-2. ℹ️ Labeled issue [#9](https://github.com/MuntasirSZN/dirpc/issues/9) in [MuntasirSZN/dirpc](https://github.com/MuntasirSZN/dirpc)
-3. ❗ Opened issue [#9](https://github.com/MuntasirSZN/dirpc/issues/9) in [MuntasirSZN/dirpc](https://github.com/MuntasirSZN/dirpc)
-4. 🗣 Commented on [#6](https://github.com/MuntasirSZN/dirpc/pull/6#issuecomment-4427279292) in [MuntasirSZN/dirpc](https://github.com/MuntasirSZN/dirpc)
-5. 🗣 Commented on [#6](https://github.com/MuntasirSZN/dirpc/pull/6#issuecomment-4427246500) in [MuntasirSZN/dirpc](https://github.com/MuntasirSZN/dirpc)
+1. 🔒 Closed issue [#3](https://github.com/MuntasirSZN/dirpc/issues/3) in [MuntasirSZN/dirpc](https://github.com/MuntasirSZN/dirpc)
+2. 🗣 Commented on [#3](https://github.com/MuntasirSZN/dirpc/issues/3#issuecomment-4428237228) in [MuntasirSZN/dirpc](https://github.com/MuntasirSZN/dirpc)
+3. ℹ️ Labeled issue [#10](https://github.com/MuntasirSZN/dirpc/issues/10) in [MuntasirSZN/dirpc](https://github.com/MuntasirSZN/dirpc)
+4. ℹ️ Labeled issue [#10](https://github.com/MuntasirSZN/dirpc/issues/10) in [MuntasirSZN/dirpc](https://github.com/MuntasirSZN/dirpc)
+5. ❗ Opened issue [#10](https://github.com/MuntasirSZN/dirpc/issues/10) in [MuntasirSZN/dirpc](https://github.com/MuntasirSZN/dirpc)
 <!--END_SECTION:activity-->
 
 <img src="https://raw.githubusercontent.com/MuntasirSZN/MuntasirSZN/refs/heads/output/github-contribution-grid-snake.svg">
