@@ -29,11 +29,11 @@
 <img src="https://readme-typing-svg.herokuapp.com/?lines=⚡+Recent+Activity;&font=Poppins">
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#13](https://github.com/MuntasirSZN/dirpc/issues/13) in [MuntasirSZN/dirpc](https://github.com/MuntasirSZN/dirpc)
-2. ❗ Opened issue [#13](https://github.com/MuntasirSZN/dirpc/issues/13) in [MuntasirSZN/dirpc](https://github.com/MuntasirSZN/dirpc)
-3. 🗣 Commented on [#71](https://github.com/nanodelabs/novalyn/pull/71#issuecomment-4467119373) in [nanodelabs/novalyn](https://github.com/nanodelabs/novalyn)
-4. 🗣 Commented on [#2](https://github.com/MuntasirSZN/dirpc/issues/2#issuecomment-4466198385) in [MuntasirSZN/dirpc](https://github.com/MuntasirSZN/dirpc)
-5. ❗ Opened issue [#16](https://github.com/appwrite/sdk-for-rust/issues/16) in [appwrite/sdk-for-rust](https://github.com/appwrite/sdk-for-rust)
+1. ℹ️ Labeled issue [#14](https://github.com/MuntasirSZN/dirpc/issues/14) in [MuntasirSZN/dirpc](https://github.com/MuntasirSZN/dirpc)
+2. ℹ️ Labeled issue [#14](https://github.com/MuntasirSZN/dirpc/issues/14) in [MuntasirSZN/dirpc](https://github.com/MuntasirSZN/dirpc)
+3. ℹ️ Labeled issue [#14](https://github.com/MuntasirSZN/dirpc/issues/14) in [MuntasirSZN/dirpc](https://github.com/MuntasirSZN/dirpc)
+4. ❗ Opened issue [#14](https://github.com/MuntasirSZN/dirpc/issues/14) in [MuntasirSZN/dirpc](https://github.com/MuntasirSZN/dirpc)
+5. ℹ️ Labeled issue [#13](https://github.com/MuntasirSZN/dirpc/issues/13) in [MuntasirSZN/dirpc](https://github.com/MuntasirSZN/dirpc)
 <!--END_SECTION:activity-->
 
 <img src="https://raw.githubusercontent.com/MuntasirSZN/MuntasirSZN/refs/heads/output/github-contribution-grid-snake.svg">
