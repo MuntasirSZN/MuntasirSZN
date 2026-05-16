@@ -29,11 +29,11 @@
 <img src="https://readme-typing-svg.herokuapp.com/?lines=⚡+Recent+Activity;&font=Poppins">
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#16](https://github.com/appwrite/sdk-for-rust/issues/16) in [appwrite/sdk-for-rust](https://github.com/appwrite/sdk-for-rust)
-2. 🔒 Closed issue [#9](https://github.com/MuntasirSZN/dirpc/issues/9) in [MuntasirSZN/dirpc](https://github.com/MuntasirSZN/dirpc)
-3. 🗣 Commented on [#12](https://github.com/MuntasirSZN/dirpc/pull/12#issuecomment-4460843197) in [MuntasirSZN/dirpc](https://github.com/MuntasirSZN/dirpc)
-4. 🗣 Commented on [#12](https://github.com/MuntasirSZN/dirpc/pull/12#issuecomment-4460627578) in [MuntasirSZN/dirpc](https://github.com/MuntasirSZN/dirpc)
-5. 🗣 Commented on [#600](https://github.com/cordx56/rustowl/pull/600#issuecomment-4459634619) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
+1. 🗣 Commented on [#2](https://github.com/MuntasirSZN/dirpc/issues/2#issuecomment-4466198385) in [MuntasirSZN/dirpc](https://github.com/MuntasirSZN/dirpc)
+2. ❗ Opened issue [#16](https://github.com/appwrite/sdk-for-rust/issues/16) in [appwrite/sdk-for-rust](https://github.com/appwrite/sdk-for-rust)
+3. 🔒 Closed issue [#9](https://github.com/MuntasirSZN/dirpc/issues/9) in [MuntasirSZN/dirpc](https://github.com/MuntasirSZN/dirpc)
+4. 🗣 Commented on [#12](https://github.com/MuntasirSZN/dirpc/pull/12#issuecomment-4460843197) in [MuntasirSZN/dirpc](https://github.com/MuntasirSZN/dirpc)
+5. 🗣 Commented on [#12](https://github.com/MuntasirSZN/dirpc/pull/12#issuecomment-4460627578) in [MuntasirSZN/dirpc](https://github.com/MuntasirSZN/dirpc)
 <!--END_SECTION:activity-->
 
 <img src="https://raw.githubusercontent.com/MuntasirSZN/MuntasirSZN/refs/heads/output/github-contribution-grid-snake.svg">
