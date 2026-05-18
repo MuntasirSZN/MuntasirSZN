@@ -29,9 +29,9 @@
 <img src="https://readme-typing-svg.herokuapp.com/?lines=⚡+Recent+Activity;&font=Poppins">
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#14](https://github.com/MuntasirSZN/dirpc/issues/14#issuecomment-4470755779) in [MuntasirSZN/dirpc](https://github.com/MuntasirSZN/dirpc)
-2. 🔒 Closed issue [#13](https://github.com/MuntasirSZN/dirpc/issues/13) in [MuntasirSZN/dirpc](https://github.com/MuntasirSZN/dirpc)
-3. ℹ️ Labeled issue [#14](https://github.com/MuntasirSZN/dirpc/issues/14) in [MuntasirSZN/dirpc](https://github.com/MuntasirSZN/dirpc)
+1. 🗣 Commented on [#71](https://github.com/nanodelabs/novalyn/pull/71#issuecomment-4473908749) in [nanodelabs/novalyn](https://github.com/nanodelabs/novalyn)
+2. 🗣 Commented on [#14](https://github.com/MuntasirSZN/dirpc/issues/14#issuecomment-4470755779) in [MuntasirSZN/dirpc](https://github.com/MuntasirSZN/dirpc)
+3. 🔒 Closed issue [#13](https://github.com/MuntasirSZN/dirpc/issues/13) in [MuntasirSZN/dirpc](https://github.com/MuntasirSZN/dirpc)
 4. ℹ️ Labeled issue [#14](https://github.com/MuntasirSZN/dirpc/issues/14) in [MuntasirSZN/dirpc](https://github.com/MuntasirSZN/dirpc)
 5. ℹ️ Labeled issue [#14](https://github.com/MuntasirSZN/dirpc/issues/14) in [MuntasirSZN/dirpc](https://github.com/MuntasirSZN/dirpc)
 <!--END_SECTION:activity-->
