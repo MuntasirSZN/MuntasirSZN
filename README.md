@@ -29,11 +29,11 @@
 <img src="https://readme-typing-svg.herokuapp.com/?lines=⚡+Recent+Activity;&font=Poppins">
 
 <!--START_SECTION:activity-->
-1. ℹ️ Assigned issue [#8](https://github.com/MuntasirSZN/dirpc/issues/8) in [MuntasirSZN/dirpc](https://github.com/MuntasirSZN/dirpc)
+1. 🔒 Closed issue [#8](https://github.com/MuntasirSZN/dirpc/issues/8) in [MuntasirSZN/dirpc](https://github.com/MuntasirSZN/dirpc)
 2. ℹ️ Assigned issue [#8](https://github.com/MuntasirSZN/dirpc/issues/8) in [MuntasirSZN/dirpc](https://github.com/MuntasirSZN/dirpc)
-3. 🗣 Commented on [#211](https://github.com/MuntasirSZN/getquotes/pull/211#issuecomment-4484185923) in [MuntasirSZN/getquotes](https://github.com/MuntasirSZN/getquotes)
-4. 🗣 Commented on [#211](https://github.com/MuntasirSZN/getquotes/pull/211#issuecomment-4484141681) in [MuntasirSZN/getquotes](https://github.com/MuntasirSZN/getquotes)
-5. 🗣 Commented on [#610](https://github.com/cordx56/rustowl/pull/610#issuecomment-4480094509) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
+3. ℹ️ Assigned issue [#8](https://github.com/MuntasirSZN/dirpc/issues/8) in [MuntasirSZN/dirpc](https://github.com/MuntasirSZN/dirpc)
+4. 🗣 Commented on [#211](https://github.com/MuntasirSZN/getquotes/pull/211#issuecomment-4484185923) in [MuntasirSZN/getquotes](https://github.com/MuntasirSZN/getquotes)
+5. 🗣 Commented on [#211](https://github.com/MuntasirSZN/getquotes/pull/211#issuecomment-4484141681) in [MuntasirSZN/getquotes](https://github.com/MuntasirSZN/getquotes)
 <!--END_SECTION:activity-->
 
 <img src="https://raw.githubusercontent.com/MuntasirSZN/MuntasirSZN/refs/heads/output/github-contribution-grid-snake.svg">
