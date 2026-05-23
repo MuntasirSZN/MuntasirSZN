@@ -29,11 +29,11 @@
 <img src="https://readme-typing-svg.herokuapp.com/?lines=⚡+Recent+Activity;&font=Poppins">
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com/MuntasirSZN/fasteetf/pull/1) in [MuntasirSZN/fasteetf](https://github.com/MuntasirSZN/fasteetf)
-2. 🔒 Closed issue [#8](https://github.com/MuntasirSZN/dirpc/issues/8) in [MuntasirSZN/dirpc](https://github.com/MuntasirSZN/dirpc)
-3. ℹ️ Assigned issue [#8](https://github.com/MuntasirSZN/dirpc/issues/8) in [MuntasirSZN/dirpc](https://github.com/MuntasirSZN/dirpc)
+1. 🗣 Commented on [#16](https://github.com/MuntasirSZN/dirpc/pull/16#issuecomment-4525280329) in [MuntasirSZN/dirpc](https://github.com/MuntasirSZN/dirpc)
+2. ❌ Closed PR [#1](https://github.com/MuntasirSZN/fasteetf/pull/1) in [MuntasirSZN/fasteetf](https://github.com/MuntasirSZN/fasteetf)
+3. 🔒 Closed issue [#8](https://github.com/MuntasirSZN/dirpc/issues/8) in [MuntasirSZN/dirpc](https://github.com/MuntasirSZN/dirpc)
 4. ℹ️ Assigned issue [#8](https://github.com/MuntasirSZN/dirpc/issues/8) in [MuntasirSZN/dirpc](https://github.com/MuntasirSZN/dirpc)
-5. 🗣 Commented on [#211](https://github.com/MuntasirSZN/getquotes/pull/211#issuecomment-4484185923) in [MuntasirSZN/getquotes](https://github.com/MuntasirSZN/getquotes)
+5. ℹ️ Assigned issue [#8](https://github.com/MuntasirSZN/dirpc/issues/8) in [MuntasirSZN/dirpc](https://github.com/MuntasirSZN/dirpc)
 <!--END_SECTION:activity-->
 
 <img src="https://raw.githubusercontent.com/MuntasirSZN/MuntasirSZN/refs/heads/output/github-contribution-grid-snake.svg">
