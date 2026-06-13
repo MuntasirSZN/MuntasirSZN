@@ -29,11 +29,11 @@
 <img src="https://readme-typing-svg.herokuapp.com/?lines=⚡+Recent+Activity;&font=Poppins">
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#380](https://github.com/STEAMer-Academy/steamer-academy.me/pull/380) in [STEAMer-Academy/steamer-academy.me](https://github.com/STEAMer-Academy/steamer-academy.me)
-2. 🎉 Merged PR [#84](https://github.com/YaLTeR/wl-clipboard-rs/pull/84) in [YaLTeR/wl-clipboard-rs](https://github.com/YaLTeR/wl-clipboard-rs)
-3. ℹ️ Labeled PR [#640](https://github.com/cordx56/rustowl/pull/640) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
-4. ℹ️ Unlabeled PR [#640](https://github.com/cordx56/rustowl/pull/640) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
-5. ℹ️ Labeled PR [#640](https://github.com/cordx56/rustowl/pull/640) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
+1. ❗ Opened issue [#253](https://github.com/MuntasirSZN/csmc/issues/253) in [MuntasirSZN/csmc](https://github.com/MuntasirSZN/csmc)
+2. ❌ Closed PR [#380](https://github.com/STEAMer-Academy/steamer-academy.me/pull/380) in [STEAMer-Academy/steamer-academy.me](https://github.com/STEAMer-Academy/steamer-academy.me)
+3. 🎉 Merged PR [#84](https://github.com/YaLTeR/wl-clipboard-rs/pull/84) in [YaLTeR/wl-clipboard-rs](https://github.com/YaLTeR/wl-clipboard-rs)
+4. ℹ️ Labeled PR [#640](https://github.com/cordx56/rustowl/pull/640) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
+5. ℹ️ Unlabeled PR [#640](https://github.com/cordx56/rustowl/pull/640) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
 <!--END_SECTION:activity-->
 
 <img src="https://raw.githubusercontent.com/MuntasirSZN/MuntasirSZN/refs/heads/output/github-contribution-grid-snake.svg">
