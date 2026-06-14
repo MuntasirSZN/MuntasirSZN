@@ -29,11 +29,11 @@
 <img src="https://readme-typing-svg.herokuapp.com/?lines=⚡+Recent+Activity;&font=Poppins">
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#253](https://github.com/MuntasirSZN/csmc/issues/253) in [MuntasirSZN/csmc](https://github.com/MuntasirSZN/csmc)
+1. 🔒 Closed issue [#253](https://github.com/MuntasirSZN/csmc/issues/253) in [MuntasirSZN/csmc](https://github.com/MuntasirSZN/csmc)
 2. ℹ️ Labeled issue [#253](https://github.com/MuntasirSZN/csmc/issues/253) in [MuntasirSZN/csmc](https://github.com/MuntasirSZN/csmc)
-3. ❗ Opened issue [#253](https://github.com/MuntasirSZN/csmc/issues/253) in [MuntasirSZN/csmc](https://github.com/MuntasirSZN/csmc)
-4. ❌ Closed PR [#380](https://github.com/STEAMer-Academy/steamer-academy.me/pull/380) in [STEAMer-Academy/steamer-academy.me](https://github.com/STEAMer-Academy/steamer-academy.me)
-5. 🎉 Merged PR [#84](https://github.com/YaLTeR/wl-clipboard-rs/pull/84) in [YaLTeR/wl-clipboard-rs](https://github.com/YaLTeR/wl-clipboard-rs)
+3. ℹ️ Labeled issue [#253](https://github.com/MuntasirSZN/csmc/issues/253) in [MuntasirSZN/csmc](https://github.com/MuntasirSZN/csmc)
+4. ❗ Opened issue [#253](https://github.com/MuntasirSZN/csmc/issues/253) in [MuntasirSZN/csmc](https://github.com/MuntasirSZN/csmc)
+5. ❌ Closed PR [#380](https://github.com/STEAMer-Academy/steamer-academy.me/pull/380) in [STEAMer-Academy/steamer-academy.me](https://github.com/STEAMer-Academy/steamer-academy.me)
 <!--END_SECTION:activity-->
 
 <img src="https://raw.githubusercontent.com/MuntasirSZN/MuntasirSZN/refs/heads/output/github-contribution-grid-snake.svg">
