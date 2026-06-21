@@ -29,11 +29,11 @@
 <img src="https://readme-typing-svg.herokuapp.com/?lines=⚡+Recent+Activity;&font=Poppins">
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#640](https://github.com/cordx56/rustowl/pull/640) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
-2. ❗ Opened issue [#2](https://github.com/Rajaniraiyn/jzon-rs/issues/2) in [Rajaniraiyn/jzon-rs](https://github.com/Rajaniraiyn/jzon-rs)
-3. 🔒 Closed issue [#253](https://github.com/MuntasirSZN/csmc/issues/253) in [MuntasirSZN/csmc](https://github.com/MuntasirSZN/csmc)
-4. ℹ️ Labeled issue [#253](https://github.com/MuntasirSZN/csmc/issues/253) in [MuntasirSZN/csmc](https://github.com/MuntasirSZN/csmc)
-5. ℹ️ Labeled issue [#253](https://github.com/MuntasirSZN/csmc/issues/253) in [MuntasirSZN/csmc](https://github.com/MuntasirSZN/csmc)
+1. 🎉 Merged PR [#1](https://github.com/ahnaf12c/Projection-and-Rotation-in-2-and-3-dimensions/pull/1) in [ahnaf12c/Projection-and-Rotation-in-2-and-3-dimensions](https://github.com/ahnaf12c/Projection-and-Rotation-in-2-and-3-dimensions)
+2. 💪 Opened PR [#1](https://github.com/ahnaf12c/Projection-and-Rotation-in-2-and-3-dimensions/pull/1) in [ahnaf12c/Projection-and-Rotation-in-2-and-3-dimensions](https://github.com/ahnaf12c/Projection-and-Rotation-in-2-and-3-dimensions)
+3. 🎉 Merged PR [#640](https://github.com/cordx56/rustowl/pull/640) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
+4. ❗ Opened issue [#2](https://github.com/Rajaniraiyn/jzon-rs/issues/2) in [Rajaniraiyn/jzon-rs](https://github.com/Rajaniraiyn/jzon-rs)
+5. 🔒 Closed issue [#253](https://github.com/MuntasirSZN/csmc/issues/253) in [MuntasirSZN/csmc](https://github.com/MuntasirSZN/csmc)
 <!--END_SECTION:activity-->
 
 <img src="https://raw.githubusercontent.com/MuntasirSZN/MuntasirSZN/refs/heads/output/github-contribution-grid-snake.svg">
