@@ -29,11 +29,11 @@
 <img src="https://readme-typing-svg.herokuapp.com/?lines=⚡+Recent+Activity;&font=Poppins">
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/ahnaf12c/Projection-and-Rotation-in-2-and-3-dimensions/pull/2) in [ahnaf12c/Projection-and-Rotation-in-2-and-3-dimensions](https://github.com/ahnaf12c/Projection-and-Rotation-in-2-and-3-dimensions)
-2. 🎉 Merged PR [#1](https://github.com/ahnaf12c/Projection-and-Rotation-in-2-and-3-dimensions/pull/1) in [ahnaf12c/Projection-and-Rotation-in-2-and-3-dimensions](https://github.com/ahnaf12c/Projection-and-Rotation-in-2-and-3-dimensions)
-3. 💪 Opened PR [#1](https://github.com/ahnaf12c/Projection-and-Rotation-in-2-and-3-dimensions/pull/1) in [ahnaf12c/Projection-and-Rotation-in-2-and-3-dimensions](https://github.com/ahnaf12c/Projection-and-Rotation-in-2-and-3-dimensions)
-4. 🎉 Merged PR [#640](https://github.com/cordx56/rustowl/pull/640) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
-5. ❗ Opened issue [#2](https://github.com/Rajaniraiyn/jzon-rs/issues/2) in [Rajaniraiyn/jzon-rs](https://github.com/Rajaniraiyn/jzon-rs)
+1. ℹ️ Labeled PR [#3](https://github.com/MuntasirSZN/dotfiles/pull/3) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
+2. 💪 Opened PR [#3](https://github.com/MuntasirSZN/dotfiles/pull/3) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
+3. 💪 Opened PR [#2](https://github.com/ahnaf12c/Projection-and-Rotation-in-2-and-3-dimensions/pull/2) in [ahnaf12c/Projection-and-Rotation-in-2-and-3-dimensions](https://github.com/ahnaf12c/Projection-and-Rotation-in-2-and-3-dimensions)
+4. 🎉 Merged PR [#1](https://github.com/ahnaf12c/Projection-and-Rotation-in-2-and-3-dimensions/pull/1) in [ahnaf12c/Projection-and-Rotation-in-2-and-3-dimensions](https://github.com/ahnaf12c/Projection-and-Rotation-in-2-and-3-dimensions)
+5. 💪 Opened PR [#1](https://github.com/ahnaf12c/Projection-and-Rotation-in-2-and-3-dimensions/pull/1) in [ahnaf12c/Projection-and-Rotation-in-2-and-3-dimensions](https://github.com/ahnaf12c/Projection-and-Rotation-in-2-and-3-dimensions)
 <!--END_SECTION:activity-->
 
 <img src="https://raw.githubusercontent.com/MuntasirSZN/MuntasirSZN/refs/heads/output/github-contribution-grid-snake.svg">
