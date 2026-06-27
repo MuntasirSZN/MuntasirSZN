@@ -21,10 +21,10 @@ jobs:
     steps:
 
     # Checks repo under $GITHUB_WORKSHOP, so your job can access it
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v7
 
     # Generates the snake  
-      - uses: Platane/snk@v3.2.0
+      - uses: Platane/snk@v3.5.0
         with:
           github_user_name: MuntasirSZN
           # these next 2 lines generate the files on a branch called "output". This keeps the main branch from cluttering up.
@@ -43,7 +43,7 @@ jobs:
           branch: output
           force: true
       - name: Push Changes To Repo
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+        uses: crazy-max/ghaction-github-pages@v5
         with:
           target_branch: output
           build_dir: dist
