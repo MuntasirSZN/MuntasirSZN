@@ -29,11 +29,11 @@
 <img src="https://readme-typing-svg.herokuapp.com/?lines=⚡+Recent+Activity;&font=Poppins">
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/MuntasirSZN/dotfiles/pull/6) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
-2. ℹ️ Labeled PR [#6](https://github.com/MuntasirSZN/dotfiles/pull/6) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
-3. ℹ️ Labeled PR [#6](https://github.com/MuntasirSZN/dotfiles/pull/6) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
+1. ❗ Opened issue [#3](https://github.com/ahnaf12c/Projection-and-Rotation-in-2-and-3-dimensions/issues/3) in [ahnaf12c/Projection-and-Rotation-in-2-and-3-dimensions](https://github.com/ahnaf12c/Projection-and-Rotation-in-2-and-3-dimensions)
+2. 🎉 Merged PR [#2](https://github.com/ahnaf12c/Projection-and-Rotation-in-2-and-3-dimensions/pull/2) in [ahnaf12c/Projection-and-Rotation-in-2-and-3-dimensions](https://github.com/ahnaf12c/Projection-and-Rotation-in-2-and-3-dimensions)
+3. 🎉 Merged PR [#6](https://github.com/MuntasirSZN/dotfiles/pull/6) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
 4. ℹ️ Labeled PR [#6](https://github.com/MuntasirSZN/dotfiles/pull/6) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
-5. 💪 Opened PR [#6](https://github.com/MuntasirSZN/dotfiles/pull/6) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
+5. ℹ️ Labeled PR [#6](https://github.com/MuntasirSZN/dotfiles/pull/6) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
 <!--END_SECTION:activity-->
 
 <img src="https://raw.githubusercontent.com/MuntasirSZN/MuntasirSZN/refs/heads/output/github-contribution-grid-snake.svg">
