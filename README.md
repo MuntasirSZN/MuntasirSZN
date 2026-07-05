@@ -29,11 +29,11 @@
 <img src="https://readme-typing-svg.herokuapp.com/?lines=⚡+Recent+Activity;&font=Poppins">
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#13](https://github.com/MuntasirSZN/dotfiles/pull/13) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
-2. ℹ️ Labeled PR [#13](https://github.com/MuntasirSZN/dotfiles/pull/13) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
-3. ℹ️ Labeled PR [#13](https://github.com/MuntasirSZN/dotfiles/pull/13) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
-4. 💪 Opened PR [#13](https://github.com/MuntasirSZN/dotfiles/pull/13) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
-5. ❗ Opened issue [#15851](https://github.com/mason-org/mason-registry/issues/15851) in [mason-org/mason-registry](https://github.com/mason-org/mason-registry)
+1. 🎉 Merged PR [#14](https://github.com/MuntasirSZN/dotfiles/pull/14) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
+2. ℹ️ Labeled PR [#14](https://github.com/MuntasirSZN/dotfiles/pull/14) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
+3. ℹ️ Labeled PR [#14](https://github.com/MuntasirSZN/dotfiles/pull/14) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
+4. ℹ️ Labeled PR [#14](https://github.com/MuntasirSZN/dotfiles/pull/14) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
+5. 💪 Opened PR [#14](https://github.com/MuntasirSZN/dotfiles/pull/14) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
 <!--END_SECTION:activity-->
 
 <img src="https://raw.githubusercontent.com/MuntasirSZN/MuntasirSZN/refs/heads/output/github-contribution-grid-snake.svg">
