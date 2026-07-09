@@ -29,11 +29,11 @@
 <img src="https://readme-typing-svg.herokuapp.com/?lines=⚡+Recent+Activity;&font=Poppins">
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#18](https://github.com/MuntasirSZN/dotfiles/pull/18) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
-2. ℹ️ Labeled PR [#18](https://github.com/MuntasirSZN/dotfiles/pull/18) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
+1. 🗣 Commented on [#1048](https://github.com/eza-community/eza/pull/1048#issuecomment-4922385761) in [eza-community/eza](https://github.com/eza-community/eza)
+2. 🎉 Merged PR [#18](https://github.com/MuntasirSZN/dotfiles/pull/18) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
 3. ℹ️ Labeled PR [#18](https://github.com/MuntasirSZN/dotfiles/pull/18) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
-4. 💪 Opened PR [#18](https://github.com/MuntasirSZN/dotfiles/pull/18) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
-5. 🗣 Commented on [#1006](https://github.com/eza-community/eza/issues/1006#issuecomment-4916342270) in [eza-community/eza](https://github.com/eza-community/eza)
+4. ℹ️ Labeled PR [#18](https://github.com/MuntasirSZN/dotfiles/pull/18) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
+5. 💪 Opened PR [#18](https://github.com/MuntasirSZN/dotfiles/pull/18) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
 <!--END_SECTION:activity-->
 
 <img src="https://raw.githubusercontent.com/MuntasirSZN/MuntasirSZN/refs/heads/output/github-contribution-grid-snake.svg">
