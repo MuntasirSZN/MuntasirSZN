@@ -29,9 +29,9 @@
 <img src="https://readme-typing-svg.herokuapp.com/?lines=⚡+Recent+Activity;&font=Poppins">
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#668](https://github.com/cordx56/rustowl/issues/668) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
-2. 🎉 Merged PR [#30](https://github.com/MuntasirSZN/dotfiles/pull/30) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
-3. ℹ️ Labeled PR [#30](https://github.com/MuntasirSZN/dotfiles/pull/30) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
+1. 🎉 Merged PR [#667](https://github.com/cordx56/rustowl/pull/667) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
+2. 🔒 Closed issue [#668](https://github.com/cordx56/rustowl/issues/668) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
+3. 🎉 Merged PR [#30](https://github.com/MuntasirSZN/dotfiles/pull/30) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
 4. ℹ️ Labeled PR [#30](https://github.com/MuntasirSZN/dotfiles/pull/30) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
 5. ℹ️ Labeled PR [#30](https://github.com/MuntasirSZN/dotfiles/pull/30) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
 <!--END_SECTION:activity-->
