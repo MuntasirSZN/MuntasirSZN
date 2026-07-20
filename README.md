@@ -29,11 +29,11 @@
 <img src="https://readme-typing-svg.herokuapp.com/?lines=⚡+Recent+Activity;&font=Poppins">
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#32](https://github.com/MuntasirSZN/dotfiles/pull/32) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
-2. ℹ️ Labeled PR [#32](https://github.com/MuntasirSZN/dotfiles/pull/32) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
+1. 🔒 Closed issue [#2](https://github.com/MuntasirSZN/fast-natord/issues/2) in [MuntasirSZN/fast-natord](https://github.com/MuntasirSZN/fast-natord)
+2. 🎉 Merged PR [#32](https://github.com/MuntasirSZN/dotfiles/pull/32) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
 3. ℹ️ Labeled PR [#32](https://github.com/MuntasirSZN/dotfiles/pull/32) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
-4. 💪 Opened PR [#32](https://github.com/MuntasirSZN/dotfiles/pull/32) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
-5. 🗣 Commented on [#2](https://github.com/MuntasirSZN/fast-natord/issues/2#issuecomment-5016565690) in [MuntasirSZN/fast-natord](https://github.com/MuntasirSZN/fast-natord)
+4. ℹ️ Labeled PR [#32](https://github.com/MuntasirSZN/dotfiles/pull/32) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
+5. 💪 Opened PR [#32](https://github.com/MuntasirSZN/dotfiles/pull/32) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
 <!--END_SECTION:activity-->
 
 <img src="https://raw.githubusercontent.com/MuntasirSZN/MuntasirSZN/refs/heads/output/github-contribution-grid-snake.svg">
