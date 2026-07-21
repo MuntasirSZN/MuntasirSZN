@@ -29,11 +29,11 @@
 <img src="https://readme-typing-svg.herokuapp.com/?lines=⚡+Recent+Activity;&font=Poppins">
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#33](https://github.com/MuntasirSZN/dotfiles/pull/33) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
-2. ℹ️ Labeled PR [#33](https://github.com/MuntasirSZN/dotfiles/pull/33) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
-3. ℹ️ Labeled PR [#33](https://github.com/MuntasirSZN/dotfiles/pull/33) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
-4. 💪 Opened PR [#33](https://github.com/MuntasirSZN/dotfiles/pull/33) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
-5. 🔒 Closed issue [#2](https://github.com/MuntasirSZN/fast-natord/issues/2) in [MuntasirSZN/fast-natord](https://github.com/MuntasirSZN/fast-natord)
+1. 🗣 Commented on [#19](https://github.com/MuntasirSZN/affs-read/issues/19#issuecomment-5029974702) in [MuntasirSZN/affs-read](https://github.com/MuntasirSZN/affs-read)
+2. 🔒 Closed issue [#19](https://github.com/MuntasirSZN/affs-read/issues/19) in [MuntasirSZN/affs-read](https://github.com/MuntasirSZN/affs-read)
+3. 🚀 Published release [v0.3.2](https://github.com/MuntasirSZN/affs-read/releases/tag/v0.3.2) in [MuntasirSZN/affs-read](https://github.com/MuntasirSZN/affs-read)
+4. 🗣 Commented on [#19](https://github.com/MuntasirSZN/affs-read/issues/19#issuecomment-5029810872) in [MuntasirSZN/affs-read](https://github.com/MuntasirSZN/affs-read)
+5. 🎉 Merged PR [#33](https://github.com/MuntasirSZN/dotfiles/pull/33) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
 <!--END_SECTION:activity-->
 
 <img src="https://raw.githubusercontent.com/MuntasirSZN/MuntasirSZN/refs/heads/output/github-contribution-grid-snake.svg">
