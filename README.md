@@ -29,11 +29,11 @@
 <img src="https://readme-typing-svg.herokuapp.com/?lines=⚡+Recent+Activity;&font=Poppins">
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#40](https://github.com/MuntasirSZN/dotfiles/pull/40) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
-2. ℹ️ Labeled PR [#40](https://github.com/MuntasirSZN/dotfiles/pull/40) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
-3. ℹ️ Labeled PR [#40](https://github.com/MuntasirSZN/dotfiles/pull/40) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
-4. 💪 Opened PR [#40](https://github.com/MuntasirSZN/dotfiles/pull/40) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
-5. 🗣 Commented on [#457](https://github.com/OpenBangla/OpenBangla-Keyboard/issues/457#issuecomment-5084237602) in [OpenBangla/OpenBangla-Keyboard](https://github.com/OpenBangla/OpenBangla-Keyboard)
+1. ℹ️ Labeled PR [#675](https://github.com/cordx56/rustowl/pull/675) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
+2. ℹ️ Unlabeled PR [#675](https://github.com/cordx56/rustowl/pull/675) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
+3. ℹ️ Labeled PR [#675](https://github.com/cordx56/rustowl/pull/675) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
+4. ℹ️ Labeled PR [#675](https://github.com/cordx56/rustowl/pull/675) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
+5. ℹ️ Labeled PR [#675](https://github.com/cordx56/rustowl/pull/675) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
 <!--END_SECTION:activity-->
 
 <img src="https://raw.githubusercontent.com/MuntasirSZN/MuntasirSZN/refs/heads/output/github-contribution-grid-snake.svg">
