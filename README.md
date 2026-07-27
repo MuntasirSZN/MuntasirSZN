@@ -29,9 +29,9 @@
 <img src="https://readme-typing-svg.herokuapp.com/?lines=⚡+Recent+Activity;&font=Poppins">
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled PR [#675](https://github.com/cordx56/rustowl/pull/675) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
-2. ℹ️ Unlabeled PR [#675](https://github.com/cordx56/rustowl/pull/675) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
-3. ℹ️ Labeled PR [#675](https://github.com/cordx56/rustowl/pull/675) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
+1. 💪 Opened PR [#546345](https://github.com/NixOS/nixpkgs/pull/546345) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+2. ℹ️ Labeled PR [#675](https://github.com/cordx56/rustowl/pull/675) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
+3. ℹ️ Unlabeled PR [#675](https://github.com/cordx56/rustowl/pull/675) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
 4. ℹ️ Labeled PR [#675](https://github.com/cordx56/rustowl/pull/675) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
 5. ℹ️ Labeled PR [#675](https://github.com/cordx56/rustowl/pull/675) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
 <!--END_SECTION:activity-->
