@@ -29,10 +29,10 @@
 <img src="https://readme-typing-svg.herokuapp.com/?lines=⚡+Recent+Activity;&font=Poppins">
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4](https://github.com/qu8n/herdr-automatic-rename/pull/4) in [qu8n/herdr-automatic-rename](https://github.com/qu8n/herdr-automatic-rename)
-2. 🎉 Merged PR [#41](https://github.com/MuntasirSZN/dotfiles/pull/41) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
-3. 🗣 Commented on [#3](https://github.com/qu8n/herdr-automatic-rename/issues/3#issuecomment-5099067526) in [qu8n/herdr-automatic-rename](https://github.com/qu8n/herdr-automatic-rename)
-4. ℹ️ Labeled PR [#41](https://github.com/MuntasirSZN/dotfiles/pull/41) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
+1. 🗣 Commented on [#3](https://github.com/qu8n/herdr-automatic-rename/issues/3#issuecomment-5101566853) in [qu8n/herdr-automatic-rename](https://github.com/qu8n/herdr-automatic-rename)
+2. 💪 Opened PR [#4](https://github.com/qu8n/herdr-automatic-rename/pull/4) in [qu8n/herdr-automatic-rename](https://github.com/qu8n/herdr-automatic-rename)
+3. 🎉 Merged PR [#41](https://github.com/MuntasirSZN/dotfiles/pull/41) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
+4. 🗣 Commented on [#3](https://github.com/qu8n/herdr-automatic-rename/issues/3#issuecomment-5099067526) in [qu8n/herdr-automatic-rename](https://github.com/qu8n/herdr-automatic-rename)
 5. ℹ️ Labeled PR [#41](https://github.com/MuntasirSZN/dotfiles/pull/41) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
 <!--END_SECTION:activity-->
 
