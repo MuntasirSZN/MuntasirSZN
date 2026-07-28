@@ -29,11 +29,11 @@
 <img src="https://readme-typing-svg.herokuapp.com/?lines=⚡+Recent+Activity;&font=Poppins">
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#3](https://github.com/qu8n/herdr-automatic-rename/issues/3) in [qu8n/herdr-automatic-rename](https://github.com/qu8n/herdr-automatic-rename)
-2. 💪 Opened PR [#546345](https://github.com/NixOS/nixpkgs/pull/546345) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-3. ℹ️ Labeled PR [#675](https://github.com/cordx56/rustowl/pull/675) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
-4. ℹ️ Unlabeled PR [#675](https://github.com/cordx56/rustowl/pull/675) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
-5. ℹ️ Labeled PR [#675](https://github.com/cordx56/rustowl/pull/675) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
+1. ℹ️ Labeled PR [#41](https://github.com/MuntasirSZN/dotfiles/pull/41) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
+2. ℹ️ Labeled PR [#41](https://github.com/MuntasirSZN/dotfiles/pull/41) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
+3. 💪 Opened PR [#41](https://github.com/MuntasirSZN/dotfiles/pull/41) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
+4. ❗ Opened issue [#3](https://github.com/qu8n/herdr-automatic-rename/issues/3) in [qu8n/herdr-automatic-rename](https://github.com/qu8n/herdr-automatic-rename)
+5. 💪 Opened PR [#546345](https://github.com/NixOS/nixpkgs/pull/546345) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
 <!--END_SECTION:activity-->
 
 <img src="https://raw.githubusercontent.com/MuntasirSZN/MuntasirSZN/refs/heads/output/github-contribution-grid-snake.svg">
