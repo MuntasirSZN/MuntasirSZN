@@ -29,11 +29,11 @@
 <img src="https://readme-typing-svg.herokuapp.com/?lines=⚡+Recent+Activity;&font=Poppins">
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#42](https://github.com/MuntasirSZN/dotfiles/pull/42) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
-2. ℹ️ Labeled PR [#42](https://github.com/MuntasirSZN/dotfiles/pull/42) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
-3. ℹ️ Labeled PR [#42](https://github.com/MuntasirSZN/dotfiles/pull/42) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
-4. 💪 Opened PR [#42](https://github.com/MuntasirSZN/dotfiles/pull/42) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
-5. 🎉 Merged PR [#546345](https://github.com/NixOS/nixpkgs/pull/546345) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+1. 🗣 Commented on [#3](https://github.com/qu8n/herdr-automatic-rename/issues/3#issuecomment-5125546873) in [qu8n/herdr-automatic-rename](https://github.com/qu8n/herdr-automatic-rename)
+2. 🎉 Merged PR [#43](https://github.com/MuntasirSZN/dotfiles/pull/43) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
+3. ℹ️ Labeled PR [#43](https://github.com/MuntasirSZN/dotfiles/pull/43) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
+4. ℹ️ Labeled PR [#43](https://github.com/MuntasirSZN/dotfiles/pull/43) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
+5. 💪 Opened PR [#43](https://github.com/MuntasirSZN/dotfiles/pull/43) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
 <!--END_SECTION:activity-->
 
 <img src="https://raw.githubusercontent.com/MuntasirSZN/MuntasirSZN/refs/heads/output/github-contribution-grid-snake.svg">
