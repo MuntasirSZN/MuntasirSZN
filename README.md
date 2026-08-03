@@ -29,11 +29,11 @@
 <img src="https://readme-typing-svg.herokuapp.com/?lines=⚡+Recent+Activity;&font=Poppins">
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#3](https://github.com/MuntasirSZN/fasteetf/pull/3) in [MuntasirSZN/fasteetf](https://github.com/MuntasirSZN/fasteetf)
-2. ℹ️ Labeled issue [#548648](https://github.com/NixOS/nixpkgs/issues/548648) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-3. ❗ Opened issue [#548648](https://github.com/NixOS/nixpkgs/issues/548648) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-4. 🎉 Merged PR [#47](https://github.com/MuntasirSZN/dotfiles/pull/47) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
-5. ℹ️ Labeled PR [#47](https://github.com/MuntasirSZN/dotfiles/pull/47) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
+1. 💪 Opened PR [#7](https://github.com/qu8n/herdr-automatic-rename/pull/7) in [qu8n/herdr-automatic-rename](https://github.com/qu8n/herdr-automatic-rename)
+2. ❌ Closed PR [#3](https://github.com/MuntasirSZN/fasteetf/pull/3) in [MuntasirSZN/fasteetf](https://github.com/MuntasirSZN/fasteetf)
+3. ℹ️ Labeled issue [#548648](https://github.com/NixOS/nixpkgs/issues/548648) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+4. ❗ Opened issue [#548648](https://github.com/NixOS/nixpkgs/issues/548648) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+5. 🎉 Merged PR [#47](https://github.com/MuntasirSZN/dotfiles/pull/47) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
 <!--END_SECTION:activity-->
 
 <img src="https://raw.githubusercontent.com/MuntasirSZN/MuntasirSZN/refs/heads/output/github-contribution-grid-snake.svg">
