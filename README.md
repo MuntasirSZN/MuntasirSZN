@@ -29,11 +29,11 @@
 <img src="https://readme-typing-svg.herokuapp.com/?lines=⚡+Recent+Activity;&font=Poppins">
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.4.1](https://github.com/MuntasirSZN/affs-read/releases/tag/v0.4.1) in [MuntasirSZN/affs-read](https://github.com/MuntasirSZN/affs-read)
-2. 🚀 Published release [v0.4.0](https://github.com/MuntasirSZN/affs-read/releases/tag/v0.4.0) in [MuntasirSZN/affs-read](https://github.com/MuntasirSZN/affs-read)
-3. 🎉 Merged PR [#48](https://github.com/MuntasirSZN/dotfiles/pull/48) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
-4. ℹ️ Labeled PR [#48](https://github.com/MuntasirSZN/dotfiles/pull/48) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
-5. ℹ️ Labeled PR [#48](https://github.com/MuntasirSZN/dotfiles/pull/48) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
+1. ℹ️ Labeled issue [#656](https://github.com/kunobi-ninja/kache/issues/656) in [kunobi-ninja/kache](https://github.com/kunobi-ninja/kache)
+2. ❗ Opened issue [#656](https://github.com/kunobi-ninja/kache/issues/656) in [kunobi-ninja/kache](https://github.com/kunobi-ninja/kache)
+3. 🗣 Commented on [#61](https://github.com/boltffi/boltffi/issues/61#issuecomment-5182283891) in [boltffi/boltffi](https://github.com/boltffi/boltffi)
+4. 🚀 Published release [v0.4.1](https://github.com/MuntasirSZN/affs-read/releases/tag/v0.4.1) in [MuntasirSZN/affs-read](https://github.com/MuntasirSZN/affs-read)
+5. 🚀 Published release [v0.4.0](https://github.com/MuntasirSZN/affs-read/releases/tag/v0.4.0) in [MuntasirSZN/affs-read](https://github.com/MuntasirSZN/affs-read)
 <!--END_SECTION:activity-->
 
 <img src="https://raw.githubusercontent.com/MuntasirSZN/MuntasirSZN/refs/heads/output/github-contribution-grid-snake.svg">
