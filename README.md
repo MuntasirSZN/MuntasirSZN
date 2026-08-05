@@ -29,10 +29,10 @@
 <img src="https://readme-typing-svg.herokuapp.com/?lines=⚡+Recent+Activity;&font=Poppins">
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#61](https://github.com/boltffi/boltffi/issues/61#issuecomment-5191585734) in [boltffi/boltffi](https://github.com/boltffi/boltffi)
-2. ❗ Opened issue [#35](https://github.com/moonrepo/setup-rust/issues/35) in [moonrepo/setup-rust](https://github.com/moonrepo/setup-rust)
-3. 🗣 Commented on [#7](https://github.com/qu8n/herdr-automatic-rename/pull/7#issuecomment-5187205861) in [qu8n/herdr-automatic-rename](https://github.com/qu8n/herdr-automatic-rename)
-4. ℹ️ Labeled PR [#49](https://github.com/MuntasirSZN/dotfiles/pull/49) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
+1. ❌ Closed PR [#49](https://github.com/MuntasirSZN/dotfiles/pull/49) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
+2. 🗣 Commented on [#61](https://github.com/boltffi/boltffi/issues/61#issuecomment-5191585734) in [boltffi/boltffi](https://github.com/boltffi/boltffi)
+3. ❗ Opened issue [#35](https://github.com/moonrepo/setup-rust/issues/35) in [moonrepo/setup-rust](https://github.com/moonrepo/setup-rust)
+4. 🗣 Commented on [#7](https://github.com/qu8n/herdr-automatic-rename/pull/7#issuecomment-5187205861) in [qu8n/herdr-automatic-rename](https://github.com/qu8n/herdr-automatic-rename)
 5. ℹ️ Labeled PR [#49](https://github.com/MuntasirSZN/dotfiles/pull/49) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
 <!--END_SECTION:activity-->
 
