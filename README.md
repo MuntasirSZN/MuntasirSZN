@@ -29,11 +29,11 @@
 <img src="https://readme-typing-svg.herokuapp.com/?lines=⚡+Recent+Activity;&font=Poppins">
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled PR [#49](https://github.com/MuntasirSZN/dotfiles/pull/49) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
-2. ℹ️ Labeled PR [#49](https://github.com/MuntasirSZN/dotfiles/pull/49) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
-3. 💪 Opened PR [#49](https://github.com/MuntasirSZN/dotfiles/pull/49) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
-4. ℹ️ Labeled issue [#656](https://github.com/kunobi-ninja/kache/issues/656) in [kunobi-ninja/kache](https://github.com/kunobi-ninja/kache)
-5. ❗ Opened issue [#656](https://github.com/kunobi-ninja/kache/issues/656) in [kunobi-ninja/kache](https://github.com/kunobi-ninja/kache)
+1. ❗ Opened issue [#35](https://github.com/moonrepo/setup-rust/issues/35) in [moonrepo/setup-rust](https://github.com/moonrepo/setup-rust)
+2. 🗣 Commented on [#7](https://github.com/qu8n/herdr-automatic-rename/pull/7#issuecomment-5187205861) in [qu8n/herdr-automatic-rename](https://github.com/qu8n/herdr-automatic-rename)
+3. ℹ️ Labeled PR [#49](https://github.com/MuntasirSZN/dotfiles/pull/49) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
+4. ℹ️ Labeled PR [#49](https://github.com/MuntasirSZN/dotfiles/pull/49) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
+5. 💪 Opened PR [#49](https://github.com/MuntasirSZN/dotfiles/pull/49) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
 <!--END_SECTION:activity-->
 
 <img src="https://raw.githubusercontent.com/MuntasirSZN/MuntasirSZN/refs/heads/output/github-contribution-grid-snake.svg">
