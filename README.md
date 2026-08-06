@@ -29,11 +29,11 @@
 <img src="https://readme-typing-svg.herokuapp.com/?lines=⚡+Recent+Activity;&font=Poppins">
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled PR [#50](https://github.com/MuntasirSZN/dotfiles/pull/50) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
-2. ℹ️ Labeled PR [#50](https://github.com/MuntasirSZN/dotfiles/pull/50) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
-3. 💪 Opened PR [#50](https://github.com/MuntasirSZN/dotfiles/pull/50) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
-4. ❌ Closed PR [#49](https://github.com/MuntasirSZN/dotfiles/pull/49) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
-5. 🗣 Commented on [#61](https://github.com/boltffi/boltffi/issues/61#issuecomment-5191585734) in [boltffi/boltffi](https://github.com/boltffi/boltffi)
+1. 🗣 Commented on [#11244](https://github.com/uutils/coreutils/pull/11244#issuecomment-5200698092) in [uutils/coreutils](https://github.com/uutils/coreutils)
+2. 🗣 Commented on [#11346](https://github.com/uutils/coreutils/pull/11346#issuecomment-5200329278) in [uutils/coreutils](https://github.com/uutils/coreutils)
+3. 🗣 Commented on [#7](https://github.com/qu8n/herdr-automatic-rename/pull/7#issuecomment-5199816596) in [qu8n/herdr-automatic-rename](https://github.com/qu8n/herdr-automatic-rename)
+4. ❌ Closed PR [#50](https://github.com/MuntasirSZN/dotfiles/pull/50) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
+5. ℹ️ Labeled PR [#50](https://github.com/MuntasirSZN/dotfiles/pull/50) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
 <!--END_SECTION:activity-->
 
 <img src="https://raw.githubusercontent.com/MuntasirSZN/MuntasirSZN/refs/heads/output/github-contribution-grid-snake.svg">
