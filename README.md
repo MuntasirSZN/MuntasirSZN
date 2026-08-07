@@ -29,11 +29,11 @@
 <img src="https://readme-typing-svg.herokuapp.com/?lines=⚡+Recent+Activity;&font=Poppins">
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#51](https://github.com/MuntasirSZN/dotfiles/pull/51) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
-2. ℹ️ Labeled PR [#51](https://github.com/MuntasirSZN/dotfiles/pull/51) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
-3. ℹ️ Labeled PR [#51](https://github.com/MuntasirSZN/dotfiles/pull/51) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
-4. 💪 Opened PR [#51](https://github.com/MuntasirSZN/dotfiles/pull/51) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
-5. ❗ Opened issue [#4](https://github.com/arqueon/dms-theme-sync/issues/4) in [arqueon/dms-theme-sync](https://github.com/arqueon/dms-theme-sync)
+1. 🗣 Commented on [#4](https://github.com/arqueon/dms-theme-sync/issues/4#issuecomment-5212749891) in [arqueon/dms-theme-sync](https://github.com/arqueon/dms-theme-sync)
+2. 🔒 Closed issue [#4](https://github.com/arqueon/dms-theme-sync/issues/4) in [arqueon/dms-theme-sync](https://github.com/arqueon/dms-theme-sync)
+3. 🎉 Merged PR [#7](https://github.com/qu8n/herdr-automatic-rename/pull/7) in [qu8n/herdr-automatic-rename](https://github.com/qu8n/herdr-automatic-rename)
+4. 🗣 Commented on [#7](https://github.com/qu8n/herdr-automatic-rename/pull/7#issuecomment-5212276564) in [qu8n/herdr-automatic-rename](https://github.com/qu8n/herdr-automatic-rename)
+5. 🎉 Merged PR [#51](https://github.com/MuntasirSZN/dotfiles/pull/51) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
 <!--END_SECTION:activity-->
 
 <img src="https://raw.githubusercontent.com/MuntasirSZN/MuntasirSZN/refs/heads/output/github-contribution-grid-snake.svg">
