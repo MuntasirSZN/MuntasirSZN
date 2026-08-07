@@ -29,11 +29,11 @@
 <img src="https://readme-typing-svg.herokuapp.com/?lines=⚡+Recent+Activity;&font=Poppins">
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4833](https://github.com/uutils/coreutils/issues/4833#issuecomment-5204116873) in [uutils/coreutils](https://github.com/uutils/coreutils)
-2. 💪 Opened PR [#13770](https://github.com/uutils/coreutils/pull/13770) in [uutils/coreutils](https://github.com/uutils/coreutils)
-3. 🗣 Commented on [#13002](https://github.com/uutils/coreutils/pull/13002#issuecomment-5201403844) in [uutils/coreutils](https://github.com/uutils/coreutils)
-4. 🗣 Commented on [#11244](https://github.com/uutils/coreutils/pull/11244#issuecomment-5200698092) in [uutils/coreutils](https://github.com/uutils/coreutils)
-5. 🗣 Commented on [#11346](https://github.com/uutils/coreutils/pull/11346#issuecomment-5200329278) in [uutils/coreutils](https://github.com/uutils/coreutils)
+1. ❗ Opened issue [#4](https://github.com/arqueon/dms-theme-sync/issues/4) in [arqueon/dms-theme-sync](https://github.com/arqueon/dms-theme-sync)
+2. 🗣 Commented on [#4833](https://github.com/uutils/coreutils/issues/4833#issuecomment-5204116873) in [uutils/coreutils](https://github.com/uutils/coreutils)
+3. 💪 Opened PR [#13770](https://github.com/uutils/coreutils/pull/13770) in [uutils/coreutils](https://github.com/uutils/coreutils)
+4. 🗣 Commented on [#13002](https://github.com/uutils/coreutils/pull/13002#issuecomment-5201403844) in [uutils/coreutils](https://github.com/uutils/coreutils)
+5. 🗣 Commented on [#11244](https://github.com/uutils/coreutils/pull/11244#issuecomment-5200698092) in [uutils/coreutils](https://github.com/uutils/coreutils)
 <!--END_SECTION:activity-->
 
 <img src="https://raw.githubusercontent.com/MuntasirSZN/MuntasirSZN/refs/heads/output/github-contribution-grid-snake.svg">
