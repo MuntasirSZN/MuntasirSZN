@@ -29,11 +29,11 @@
 <img src="https://readme-typing-svg.herokuapp.com/?lines=⚡+Recent+Activity;&font=Poppins">
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#13812](https://github.com/uutils/coreutils/pull/13812#issuecomment-5226974261) in [uutils/coreutils](https://github.com/uutils/coreutils)
-2. 🗣 Commented on [#13812](https://github.com/uutils/coreutils/pull/13812#issuecomment-5226799852) in [uutils/coreutils](https://github.com/uutils/coreutils)
-3. 💪 Opened PR [#13812](https://github.com/uutils/coreutils/pull/13812) in [uutils/coreutils](https://github.com/uutils/coreutils)
-4. ❌ Closed PR [#34](https://github.com/MuntasirSZN/dirpc/pull/34) in [MuntasirSZN/dirpc](https://github.com/MuntasirSZN/dirpc)
-5. 🎉 Merged PR [#52](https://github.com/MuntasirSZN/dotfiles/pull/52) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
+1. 🗣 Commented on [#13812](https://github.com/uutils/coreutils/pull/13812#issuecomment-5227135105) in [uutils/coreutils](https://github.com/uutils/coreutils)
+2. 🗣 Commented on [#13812](https://github.com/uutils/coreutils/pull/13812#issuecomment-5226974261) in [uutils/coreutils](https://github.com/uutils/coreutils)
+3. 🗣 Commented on [#13812](https://github.com/uutils/coreutils/pull/13812#issuecomment-5226799852) in [uutils/coreutils](https://github.com/uutils/coreutils)
+4. 💪 Opened PR [#13812](https://github.com/uutils/coreutils/pull/13812) in [uutils/coreutils](https://github.com/uutils/coreutils)
+5. ❌ Closed PR [#34](https://github.com/MuntasirSZN/dirpc/pull/34) in [MuntasirSZN/dirpc](https://github.com/MuntasirSZN/dirpc)
 <!--END_SECTION:activity-->
 
 <img src="https://raw.githubusercontent.com/MuntasirSZN/MuntasirSZN/refs/heads/output/github-contribution-grid-snake.svg">
