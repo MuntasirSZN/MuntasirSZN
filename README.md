@@ -29,11 +29,11 @@
 <img src="https://readme-typing-svg.herokuapp.com/?lines=⚡+Recent+Activity;&font=Poppins">
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#13812](https://github.com/uutils/coreutils/pull/13812#issuecomment-5229356189) in [uutils/coreutils](https://github.com/uutils/coreutils)
-2. 🎉 Merged PR [#53](https://github.com/MuntasirSZN/dotfiles/pull/53) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
-3. ℹ️ Labeled PR [#53](https://github.com/MuntasirSZN/dotfiles/pull/53) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
+1. 💪 Opened PR [#13818](https://github.com/uutils/coreutils/pull/13818) in [uutils/coreutils](https://github.com/uutils/coreutils)
+2. 🗣 Commented on [#13812](https://github.com/uutils/coreutils/pull/13812#issuecomment-5229356189) in [uutils/coreutils](https://github.com/uutils/coreutils)
+3. 🎉 Merged PR [#53](https://github.com/MuntasirSZN/dotfiles/pull/53) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
 4. ℹ️ Labeled PR [#53](https://github.com/MuntasirSZN/dotfiles/pull/53) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
-5. 💪 Opened PR [#53](https://github.com/MuntasirSZN/dotfiles/pull/53) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
+5. ℹ️ Labeled PR [#53](https://github.com/MuntasirSZN/dotfiles/pull/53) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
 <!--END_SECTION:activity-->
 
 <img src="https://raw.githubusercontent.com/MuntasirSZN/MuntasirSZN/refs/heads/output/github-contribution-grid-snake.svg">
