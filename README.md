@@ -29,11 +29,11 @@
 <img src="https://readme-typing-svg.herokuapp.com/?lines=⚡+Recent+Activity;&font=Poppins">
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled PR [#57](https://github.com/MuntasirSZN/dotfiles/pull/57) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
+1. ❌ Closed PR [#57](https://github.com/MuntasirSZN/dotfiles/pull/57) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
 2. ℹ️ Labeled PR [#57](https://github.com/MuntasirSZN/dotfiles/pull/57) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
 3. ℹ️ Labeled PR [#57](https://github.com/MuntasirSZN/dotfiles/pull/57) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
-4. 💪 Opened PR [#57](https://github.com/MuntasirSZN/dotfiles/pull/57) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
-5. ❌ Closed PR [#259](https://github.com/MuntasirSZN/csmc/pull/259) in [MuntasirSZN/csmc](https://github.com/MuntasirSZN/csmc)
+4. ℹ️ Labeled PR [#57](https://github.com/MuntasirSZN/dotfiles/pull/57) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
+5. 💪 Opened PR [#57](https://github.com/MuntasirSZN/dotfiles/pull/57) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
 <!--END_SECTION:activity-->
 
 <img src="https://raw.githubusercontent.com/MuntasirSZN/MuntasirSZN/refs/heads/output/github-contribution-grid-snake.svg">
