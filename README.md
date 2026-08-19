@@ -29,9 +29,9 @@
 <img src="https://readme-typing-svg.herokuapp.com/?lines=⚡+Recent+Activity;&font=Poppins">
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#13818](https://github.com/uutils/coreutils/pull/13818#issuecomment-5324175436) in [uutils/coreutils](https://github.com/uutils/coreutils)
-2. ❌ Closed PR [#400](https://github.com/STEAMer-Academy/steamer-academy.me/pull/400) in [STEAMer-Academy/steamer-academy.me](https://github.com/STEAMer-Academy/steamer-academy.me)
-3. ℹ️ Labeled PR [#60](https://github.com/MuntasirSZN/dotfiles/pull/60) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
+1. 🎉 Merged PR [#60](https://github.com/MuntasirSZN/dotfiles/pull/60) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
+2. 🗣 Commented on [#13818](https://github.com/uutils/coreutils/pull/13818#issuecomment-5324175436) in [uutils/coreutils](https://github.com/uutils/coreutils)
+3. ❌ Closed PR [#400](https://github.com/STEAMer-Academy/steamer-academy.me/pull/400) in [STEAMer-Academy/steamer-academy.me](https://github.com/STEAMer-Academy/steamer-academy.me)
 4. ℹ️ Labeled PR [#60](https://github.com/MuntasirSZN/dotfiles/pull/60) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
 5. ℹ️ Labeled PR [#60](https://github.com/MuntasirSZN/dotfiles/pull/60) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
 <!--END_SECTION:activity-->
