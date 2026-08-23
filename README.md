@@ -29,11 +29,11 @@
 <img src="https://readme-typing-svg.herokuapp.com/?lines=⚡+Recent+Activity;&font=Poppins">
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#26006](https://github.com/oxc-project/oxc/pull/26006) in [oxc-project/oxc](https://github.com/oxc-project/oxc)
-2. 🗣 Commented on [#26006](https://github.com/oxc-project/oxc/pull/26006#issuecomment-5383780419) in [oxc-project/oxc](https://github.com/oxc-project/oxc)
-3. 🗣 Commented on [#26006](https://github.com/oxc-project/oxc/pull/26006#issuecomment-5383754616) in [oxc-project/oxc](https://github.com/oxc-project/oxc)
-4. 🎉 Merged PR [#65](https://github.com/MuntasirSZN/dotfiles/pull/65) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
-5. ℹ️ Labeled PR [#65](https://github.com/MuntasirSZN/dotfiles/pull/65) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
+1. 💪 Opened PR [#26025](https://github.com/oxc-project/oxc/pull/26025) in [oxc-project/oxc](https://github.com/oxc-project/oxc)
+2. ❌ Closed PR [#26006](https://github.com/oxc-project/oxc/pull/26006) in [oxc-project/oxc](https://github.com/oxc-project/oxc)
+3. 🗣 Commented on [#26006](https://github.com/oxc-project/oxc/pull/26006#issuecomment-5383780419) in [oxc-project/oxc](https://github.com/oxc-project/oxc)
+4. 🗣 Commented on [#26006](https://github.com/oxc-project/oxc/pull/26006#issuecomment-5383754616) in [oxc-project/oxc](https://github.com/oxc-project/oxc)
+5. 🎉 Merged PR [#65](https://github.com/MuntasirSZN/dotfiles/pull/65) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
 <!--END_SECTION:activity-->
 
 <img src="https://raw.githubusercontent.com/MuntasirSZN/MuntasirSZN/refs/heads/output/github-contribution-grid-snake.svg">
