@@ -29,10 +29,10 @@
 <img src="https://readme-typing-svg.herokuapp.com/?lines=⚡+Recent+Activity;&font=Poppins">
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#26056](https://github.com/oxc-project/oxc/pull/26056) in [oxc-project/oxc](https://github.com/oxc-project/oxc)
-2. ❌ Closed PR [#265](https://github.com/MuntasirSZN/csmc/pull/265) in [MuntasirSZN/csmc](https://github.com/MuntasirSZN/csmc)
-3. 🎉 Merged PR [#66](https://github.com/MuntasirSZN/dotfiles/pull/66) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
-4. ℹ️ Labeled PR [#66](https://github.com/MuntasirSZN/dotfiles/pull/66) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
+1. 🗣 Commented on [#457](https://github.com/OpenBangla/OpenBangla-Keyboard/issues/457#issuecomment-5398511152) in [OpenBangla/OpenBangla-Keyboard](https://github.com/OpenBangla/OpenBangla-Keyboard)
+2. 💪 Opened PR [#26056](https://github.com/oxc-project/oxc/pull/26056) in [oxc-project/oxc](https://github.com/oxc-project/oxc)
+3. ❌ Closed PR [#265](https://github.com/MuntasirSZN/csmc/pull/265) in [MuntasirSZN/csmc](https://github.com/MuntasirSZN/csmc)
+4. 🎉 Merged PR [#66](https://github.com/MuntasirSZN/dotfiles/pull/66) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
 5. ℹ️ Labeled PR [#66](https://github.com/MuntasirSZN/dotfiles/pull/66) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
 <!--END_SECTION:activity-->
 
