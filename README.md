@@ -29,11 +29,11 @@
 <img src="https://readme-typing-svg.herokuapp.com/?lines=⚡+Recent+Activity;&font=Poppins">
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#67](https://github.com/MuntasirSZN/dotfiles/pull/67) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
-2. ℹ️ Labeled PR [#67](https://github.com/MuntasirSZN/dotfiles/pull/67) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
+1. 💪 Opened PR [#226](https://github.com/waycrate/xdg-desktop-portal-luminous/pull/226) in [waycrate/xdg-desktop-portal-luminous](https://github.com/waycrate/xdg-desktop-portal-luminous)
+2. 🎉 Merged PR [#67](https://github.com/MuntasirSZN/dotfiles/pull/67) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
 3. ℹ️ Labeled PR [#67](https://github.com/MuntasirSZN/dotfiles/pull/67) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
 4. ℹ️ Labeled PR [#67](https://github.com/MuntasirSZN/dotfiles/pull/67) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
-5. 💪 Opened PR [#67](https://github.com/MuntasirSZN/dotfiles/pull/67) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
+5. ℹ️ Labeled PR [#67](https://github.com/MuntasirSZN/dotfiles/pull/67) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
 <!--END_SECTION:activity-->
 
 <img src="https://raw.githubusercontent.com/MuntasirSZN/MuntasirSZN/refs/heads/output/github-contribution-grid-snake.svg">
