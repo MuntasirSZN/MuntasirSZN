@@ -29,11 +29,11 @@
 <img src="https://readme-typing-svg.herokuapp.com/?lines=⚡+Recent+Activity;&font=Poppins">
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7](https://github.com/hyprwm/hyprland-qt-support/issues/7#issuecomment-5466948171) in [hyprwm/hyprland-qt-support](https://github.com/hyprwm/hyprland-qt-support)
-2. 🗣 Commented on [#192](https://github.com/JaKooLit/Fedora-Hyprland/issues/192#issuecomment-5466945463) in [JaKooLit/Fedora-Hyprland](https://github.com/JaKooLit/Fedora-Hyprland)
-3. ❗ Opened issue [#36](https://github.com/MuntasirSZN/dirpc/issues/36) in [MuntasirSZN/dirpc](https://github.com/MuntasirSZN/dirpc)
-4. 🎉 Merged PR [#72](https://github.com/MuntasirSZN/dotfiles/pull/72) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
-5. ℹ️ Labeled PR [#72](https://github.com/MuntasirSZN/dotfiles/pull/72) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
+1. 🗣 Commented on [#36](https://github.com/MuntasirSZN/dirpc/issues/36#issuecomment-5469256649) in [MuntasirSZN/dirpc](https://github.com/MuntasirSZN/dirpc)
+2. 🔒 Closed issue [#36](https://github.com/MuntasirSZN/dirpc/issues/36) in [MuntasirSZN/dirpc](https://github.com/MuntasirSZN/dirpc)
+3. 🗣 Commented on [#548648](https://github.com/NixOS/nixpkgs/issues/548648#issuecomment-5469065919) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+4. 🗣 Commented on [#7](https://github.com/hyprwm/hyprland-qt-support/issues/7#issuecomment-5466948171) in [hyprwm/hyprland-qt-support](https://github.com/hyprwm/hyprland-qt-support)
+5. 🗣 Commented on [#192](https://github.com/JaKooLit/Fedora-Hyprland/issues/192#issuecomment-5466945463) in [JaKooLit/Fedora-Hyprland](https://github.com/JaKooLit/Fedora-Hyprland)
 <!--END_SECTION:activity-->
 
 <img src="https://raw.githubusercontent.com/MuntasirSZN/MuntasirSZN/refs/heads/output/github-contribution-grid-snake.svg">
