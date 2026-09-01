@@ -29,11 +29,11 @@
 <img src="https://readme-typing-svg.herokuapp.com/?lines=⚡+Recent+Activity;&font=Poppins">
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#8](https://github.com/NordicsSys/dms-usb-manager/issues/8) in [NordicsSys/dms-usb-manager](https://github.com/NordicsSys/dms-usb-manager)
-2. 🗣 Commented on [#269](https://github.com/MuntasirSZN/csmc/pull/269#issuecomment-5476366408) in [MuntasirSZN/csmc](https://github.com/MuntasirSZN/csmc)
-3. 🎉 Merged PR [#73](https://github.com/MuntasirSZN/dotfiles/pull/73) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
-4. ℹ️ Labeled PR [#73](https://github.com/MuntasirSZN/dotfiles/pull/73) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
-5. ℹ️ Labeled PR [#73](https://github.com/MuntasirSZN/dotfiles/pull/73) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
+1. 🗣 Commented on [#57](https://github.com/awesomized/crc-fast-rust/issues/57#issuecomment-5489021279) in [awesomized/crc-fast-rust](https://github.com/awesomized/crc-fast-rust)
+2. ❗ Opened issue [#57](https://github.com/awesomized/crc-fast-rust/issues/57) in [awesomized/crc-fast-rust](https://github.com/awesomized/crc-fast-rust)
+3. 🚀 Published release [v0.5.1](https://github.com/MuntasirSZN/affs-read/releases/tag/v0.5.1) in [MuntasirSZN/affs-read](https://github.com/MuntasirSZN/affs-read)
+4. 🚀 Published release [v0.5.0](https://github.com/MuntasirSZN/affs-read/releases/tag/v0.5.0) in [MuntasirSZN/affs-read](https://github.com/MuntasirSZN/affs-read)
+5. 🎉 Merged PR [#23](https://github.com/MuntasirSZN/affs-read/pull/23) in [MuntasirSZN/affs-read](https://github.com/MuntasirSZN/affs-read)
 <!--END_SECTION:activity-->
 
 <img src="https://raw.githubusercontent.com/MuntasirSZN/MuntasirSZN/refs/heads/output/github-contribution-grid-snake.svg">
