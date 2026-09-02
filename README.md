@@ -29,11 +29,11 @@
 <img src="https://readme-typing-svg.herokuapp.com/?lines=⚡+Recent+Activity;&font=Poppins">
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#75](https://github.com/MuntasirSZN/dotfiles/pull/75) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
-2. ℹ️ Labeled PR [#75](https://github.com/MuntasirSZN/dotfiles/pull/75) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
+1. 🗣 Commented on [#47](https://github.com/awesomized/crc-fast-rust/issues/47#issuecomment-5510242822) in [awesomized/crc-fast-rust](https://github.com/awesomized/crc-fast-rust)
+2. 🎉 Merged PR [#75](https://github.com/MuntasirSZN/dotfiles/pull/75) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
 3. ℹ️ Labeled PR [#75](https://github.com/MuntasirSZN/dotfiles/pull/75) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
-4. 💪 Opened PR [#75](https://github.com/MuntasirSZN/dotfiles/pull/75) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
-5. 🗣 Commented on [#57](https://github.com/awesomized/crc-fast-rust/issues/57#issuecomment-5492855421) in [awesomized/crc-fast-rust](https://github.com/awesomized/crc-fast-rust)
+4. ℹ️ Labeled PR [#75](https://github.com/MuntasirSZN/dotfiles/pull/75) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
+5. 💪 Opened PR [#75](https://github.com/MuntasirSZN/dotfiles/pull/75) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
 <!--END_SECTION:activity-->
 
 <img src="https://raw.githubusercontent.com/MuntasirSZN/MuntasirSZN/refs/heads/output/github-contribution-grid-snake.svg">
