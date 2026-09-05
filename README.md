@@ -29,11 +29,11 @@
 <img src="https://readme-typing-svg.herokuapp.com/?lines=⚡+Recent+Activity;&font=Poppins">
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#47](https://github.com/awesomized/crc-fast-rust/issues/47#issuecomment-5534559536) in [awesomized/crc-fast-rust](https://github.com/awesomized/crc-fast-rust)
-2. 🎉 Merged PR [#77](https://github.com/MuntasirSZN/dotfiles/pull/77) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
-3. ℹ️ Labeled PR [#77](https://github.com/MuntasirSZN/dotfiles/pull/77) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
-4. ℹ️ Labeled PR [#77](https://github.com/MuntasirSZN/dotfiles/pull/77) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
-5. ℹ️ Labeled PR [#77](https://github.com/MuntasirSZN/dotfiles/pull/77) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
+1. 🗣 Commented on [#548648](https://github.com/NixOS/nixpkgs/issues/548648#issuecomment-5548852553) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+2. 🗣 Commented on [#548648](https://github.com/NixOS/nixpkgs/issues/548648#issuecomment-5548842582) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+3. 🗣 Commented on [#548648](https://github.com/NixOS/nixpkgs/issues/548648#issuecomment-5548828359) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+4. 🎉 Merged PR [#78](https://github.com/MuntasirSZN/dotfiles/pull/78) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
+5. ℹ️ Labeled PR [#78](https://github.com/MuntasirSZN/dotfiles/pull/78) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
 <!--END_SECTION:activity-->
 
 <img src="https://raw.githubusercontent.com/MuntasirSZN/MuntasirSZN/refs/heads/output/github-contribution-grid-snake.svg">
