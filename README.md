@@ -29,11 +29,11 @@
 <img src="https://readme-typing-svg.herokuapp.com/?lines=⚡+Recent+Activity;&font=Poppins">
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#80](https://github.com/MuntasirSZN/dotfiles/pull/80) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
-2. ℹ️ Labeled PR [#80](https://github.com/MuntasirSZN/dotfiles/pull/80) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
-3. ℹ️ Labeled PR [#80](https://github.com/MuntasirSZN/dotfiles/pull/80) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
-4. ℹ️ Labeled PR [#80](https://github.com/MuntasirSZN/dotfiles/pull/80) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
-5. 💪 Opened PR [#80](https://github.com/MuntasirSZN/dotfiles/pull/80) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
+1. ❌ Closed PR [#458](https://github.com/STEAMer-Academy/steamer-academy.me/pull/458) in [STEAMer-Academy/steamer-academy.me](https://github.com/STEAMer-Academy/steamer-academy.me)
+2. 🗣 Commented on [#694](https://github.com/cordx56/rustowl/pull/694#issuecomment-5568310668) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
+3. ❌ Closed PR [#694](https://github.com/cordx56/rustowl/pull/694) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
+4. 🗣 Commented on [#99](https://github.com/AvengeMedia/dankcalendar/issues/99#issuecomment-5568283767) in [AvengeMedia/dankcalendar](https://github.com/AvengeMedia/dankcalendar)
+5. 🎉 Merged PR [#80](https://github.com/MuntasirSZN/dotfiles/pull/80) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
 <!--END_SECTION:activity-->
 
 <img src="https://raw.githubusercontent.com/MuntasirSZN/MuntasirSZN/refs/heads/output/github-contribution-grid-snake.svg">
