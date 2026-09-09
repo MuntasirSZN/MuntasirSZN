@@ -29,11 +29,11 @@
 <img src="https://readme-typing-svg.herokuapp.com/?lines=⚡+Recent+Activity;&font=Poppins">
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1533](https://github.com/RustCrypto/utils/pull/1533) in [RustCrypto/utils](https://github.com/RustCrypto/utils)
-2. 🎉 Merged PR [#82](https://github.com/MuntasirSZN/dotfiles/pull/82) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
-3. ℹ️ Labeled PR [#82](https://github.com/MuntasirSZN/dotfiles/pull/82) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
-4. 💪 Opened PR [#82](https://github.com/MuntasirSZN/dotfiles/pull/82) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
-5. ℹ️ Labeled PR [#82](https://github.com/MuntasirSZN/dotfiles/pull/82) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
+1. 🗣 Commented on [#1531](https://github.com/RustCrypto/utils/pull/1531#issuecomment-5603259919) in [RustCrypto/utils](https://github.com/RustCrypto/utils)
+2. 🗣 Commented on [#1531](https://github.com/RustCrypto/utils/pull/1531#issuecomment-5603180248) in [RustCrypto/utils](https://github.com/RustCrypto/utils)
+3. 🗣 Commented on [#1531](https://github.com/RustCrypto/utils/pull/1531#issuecomment-5603035588) in [RustCrypto/utils](https://github.com/RustCrypto/utils)
+4. 💪 Opened PR [#1533](https://github.com/RustCrypto/utils/pull/1533) in [RustCrypto/utils](https://github.com/RustCrypto/utils)
+5. 🎉 Merged PR [#82](https://github.com/MuntasirSZN/dotfiles/pull/82) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
 <!--END_SECTION:activity-->
 
 <img src="https://raw.githubusercontent.com/MuntasirSZN/MuntasirSZN/refs/heads/output/github-contribution-grid-snake.svg">
