@@ -29,11 +29,11 @@
 <img src="https://readme-typing-svg.herokuapp.com/?lines=⚡+Recent+Activity;&font=Poppins">
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#84](https://github.com/MuntasirSZN/dotfiles/pull/84) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
-2. 💪 Opened PR [#84](https://github.com/MuntasirSZN/dotfiles/pull/84) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
-3. ℹ️ Labeled PR [#84](https://github.com/MuntasirSZN/dotfiles/pull/84) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
-4. ℹ️ Labeled PR [#84](https://github.com/MuntasirSZN/dotfiles/pull/84) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
-5. 🎉 Merged PR [#83](https://github.com/MuntasirSZN/dotfiles/pull/83) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
+1. 🎉 Merged PR [#85](https://github.com/MuntasirSZN/dotfiles/pull/85) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
+2. ℹ️ Labeled PR [#85](https://github.com/MuntasirSZN/dotfiles/pull/85) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
+3. ℹ️ Labeled PR [#85](https://github.com/MuntasirSZN/dotfiles/pull/85) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
+4. 💪 Opened PR [#85](https://github.com/MuntasirSZN/dotfiles/pull/85) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
+5. 🎉 Merged PR [#84](https://github.com/MuntasirSZN/dotfiles/pull/84) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
 <!--END_SECTION:activity-->
 
 <img src="https://raw.githubusercontent.com/MuntasirSZN/MuntasirSZN/refs/heads/output/github-contribution-grid-snake.svg">
