@@ -29,10 +29,10 @@
 <img src="https://readme-typing-svg.herokuapp.com/?lines=⚡+Recent+Activity;&font=Poppins">
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#11928](https://github.com/can1357/oh-my-pi/issues/11928) in [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi)
-2. ❗ Opened issue [#11928](https://github.com/can1357/oh-my-pi/issues/11928) in [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi)
-3. 🎉 Merged PR [#86](https://github.com/MuntasirSZN/dotfiles/pull/86) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
-4. ℹ️ Labeled PR [#86](https://github.com/MuntasirSZN/dotfiles/pull/86) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
+1. ❗ Opened issue [#1537](https://github.com/RustCrypto/utils/issues/1537) in [RustCrypto/utils](https://github.com/RustCrypto/utils)
+2. ℹ️ Labeled issue [#11928](https://github.com/can1357/oh-my-pi/issues/11928) in [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi)
+3. ❗ Opened issue [#11928](https://github.com/can1357/oh-my-pi/issues/11928) in [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi)
+4. 🎉 Merged PR [#86](https://github.com/MuntasirSZN/dotfiles/pull/86) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
 5. ℹ️ Labeled PR [#86](https://github.com/MuntasirSZN/dotfiles/pull/86) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
 <!--END_SECTION:activity-->
 
