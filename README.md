@@ -29,11 +29,11 @@
 <img src="https://readme-typing-svg.herokuapp.com/?lines=⚡+Recent+Activity;&font=Poppins">
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#486](https://github.com/STEAMer-Academy/steamer-academy.me/pull/486) in [STEAMer-Academy/steamer-academy.me](https://github.com/STEAMer-Academy/steamer-academy.me)
-2. 🗣 Commented on [#291](https://github.com/cordx56/rustowl/pull/291#issuecomment-5911408861) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
-3. 💪 Opened PR [#704](https://github.com/cordx56/rustowl/pull/704) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
-4. 🗣 Commented on [#286](https://github.com/cordx56/rustowl/pull/286#issuecomment-5910250732) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
-5. ❌ Closed PR [#286](https://github.com/cordx56/rustowl/pull/286) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
+1. ℹ️ Labeled PR [#105](https://github.com/MuntasirSZN/dotfiles/pull/105) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
+2. 💪 Opened PR [#105](https://github.com/MuntasirSZN/dotfiles/pull/105) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
+3. ℹ️ Labeled PR [#105](https://github.com/MuntasirSZN/dotfiles/pull/105) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
+4. ℹ️ Labeled PR [#105](https://github.com/MuntasirSZN/dotfiles/pull/105) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
+5. 🗣 Commented on [#437550](https://github.com/microsoft/winget-pkgs/pull/437550#issuecomment-5923298892) in [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
 <!--END_SECTION:activity-->
 
 <img src="https://raw.githubusercontent.com/MuntasirSZN/MuntasirSZN/refs/heads/output/github-contribution-grid-snake.svg">
