@@ -29,11 +29,11 @@
 <img src="https://readme-typing-svg.herokuapp.com/?lines=⚡+Recent+Activity;&font=Poppins">
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#437550](https://github.com/microsoft/winget-pkgs/pull/437550) in [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
-2. ❌ Closed PR [#105](https://github.com/MuntasirSZN/dotfiles/pull/105) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
-3. ℹ️ Labeled PR [#105](https://github.com/MuntasirSZN/dotfiles/pull/105) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
-4. 💪 Opened PR [#105](https://github.com/MuntasirSZN/dotfiles/pull/105) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
-5. ℹ️ Labeled PR [#105](https://github.com/MuntasirSZN/dotfiles/pull/105) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
+1. ❗ Opened issue [#5371](https://github.com/rust-lang/miri/issues/5371) in [rust-lang/miri](https://github.com/rust-lang/miri)
+2. 💪 Opened PR [#705](https://github.com/cordx56/rustowl/pull/705) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
+3. 🗣 Commented on [#13818](https://github.com/uutils/coreutils/pull/13818#issuecomment-5932939261) in [uutils/coreutils](https://github.com/uutils/coreutils)
+4. 🎉 Merged PR [#437550](https://github.com/microsoft/winget-pkgs/pull/437550) in [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
+5. ❌ Closed PR [#105](https://github.com/MuntasirSZN/dotfiles/pull/105) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
 <!--END_SECTION:activity-->
 
 <img src="https://raw.githubusercontent.com/MuntasirSZN/MuntasirSZN/refs/heads/output/github-contribution-grid-snake.svg">
