@@ -29,11 +29,11 @@
 <img src="https://readme-typing-svg.herokuapp.com/?lines=⚡+Recent+Activity;&font=Poppins">
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#15035](https://github.com/uutils/coreutils/pull/15035#issuecomment-5955219581) in [uutils/coreutils](https://github.com/uutils/coreutils)
-2. 💪 Opened PR [#706](https://github.com/cordx56/rustowl/pull/706) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
-3. 🎉 Merged PR [#704](https://github.com/cordx56/rustowl/pull/704) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
-4. 🗣 Commented on [#704](https://github.com/cordx56/rustowl/pull/704#issuecomment-5954582929) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
-5. 🗣 Commented on [#11346](https://github.com/uutils/coreutils/pull/11346#issuecomment-5954311132) in [uutils/coreutils](https://github.com/uutils/coreutils)
+1. ℹ️ Labeled PR [#107](https://github.com/MuntasirSZN/dotfiles/pull/107) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
+2. ℹ️ Labeled PR [#107](https://github.com/MuntasirSZN/dotfiles/pull/107) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
+3. 💪 Opened PR [#107](https://github.com/MuntasirSZN/dotfiles/pull/107) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
+4. 🗣 Commented on [#15035](https://github.com/uutils/coreutils/pull/15035#issuecomment-5955219581) in [uutils/coreutils](https://github.com/uutils/coreutils)
+5. 💪 Opened PR [#706](https://github.com/cordx56/rustowl/pull/706) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
 <!--END_SECTION:activity-->
 
 <img src="https://raw.githubusercontent.com/MuntasirSZN/MuntasirSZN/refs/heads/output/github-contribution-grid-snake.svg">
