@@ -27,11 +27,11 @@
 <img src="https://readme-typing-svg.herokuapp.com/?lines=⚡+Recent+Activity;&font=Poppins">
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled PR [#120](https://github.com/MuntasirSZN/dotfiles/pull/120) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
+1. 🎉 Merged PR [#120](https://github.com/MuntasirSZN/dotfiles/pull/120) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
 2. ℹ️ Labeled PR [#120](https://github.com/MuntasirSZN/dotfiles/pull/120) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
-3. 💪 Opened PR [#120](https://github.com/MuntasirSZN/dotfiles/pull/120) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
-4. ❗ Opened issue [#122](https://github.com/Frederick888/git-credential-keepassxc/issues/122) in [Frederick888/git-credential-keepassxc](https://github.com/Frederick888/git-credential-keepassxc)
-5. 🎉 Merged PR [#119](https://github.com/MuntasirSZN/dotfiles/pull/119) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
+3. ℹ️ Labeled PR [#120](https://github.com/MuntasirSZN/dotfiles/pull/120) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
+4. 💪 Opened PR [#120](https://github.com/MuntasirSZN/dotfiles/pull/120) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
+5. ❗ Opened issue [#122](https://github.com/Frederick888/git-credential-keepassxc/issues/122) in [Frederick888/git-credential-keepassxc](https://github.com/Frederick888/git-credential-keepassxc)
 <!--END_SECTION:activity-->
 
 <img src="https://raw.githubusercontent.com/MuntasirSZN/MuntasirSZN/refs/heads/output/github-contribution-grid-snake.svg">
