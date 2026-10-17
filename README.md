@@ -27,11 +27,11 @@
 <img src="https://readme-typing-svg.herokuapp.com/?lines=⚡+Recent+Activity;&font=Poppins">
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#122](https://github.com/Frederick888/git-credential-keepassxc/issues/122#issuecomment-6214690619) in [Frederick888/git-credential-keepassxc](https://github.com/Frederick888/git-credential-keepassxc)
-2. 🗣 Commented on [#23800](https://github.com/vitejs/vite/pull/23800#issuecomment-6218933186) in [vitejs/vite](https://github.com/vitejs/vite)
-3. 🗣 Commented on [#23800](https://github.com/vitejs/vite/pull/23800#issuecomment-6218892917) in [vitejs/vite](https://github.com/vitejs/vite)
-4. 💪 Opened PR [#23800](https://github.com/vitejs/vite/pull/23800) in [vitejs/vite](https://github.com/vitejs/vite)
-5. 🎉 Merged PR [#120](https://github.com/MuntasirSZN/dotfiles/pull/120) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
+1. 🎉 Merged PR [#121](https://github.com/MuntasirSZN/dotfiles/pull/121) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
+2. ℹ️ Labeled PR [#121](https://github.com/MuntasirSZN/dotfiles/pull/121) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
+3. ℹ️ Labeled PR [#121](https://github.com/MuntasirSZN/dotfiles/pull/121) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
+4. ℹ️ Labeled PR [#121](https://github.com/MuntasirSZN/dotfiles/pull/121) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
+5. 💪 Opened PR [#121](https://github.com/MuntasirSZN/dotfiles/pull/121) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
 <!--END_SECTION:activity-->
 
 <img src="https://raw.githubusercontent.com/MuntasirSZN/MuntasirSZN/refs/heads/output/github-contribution-grid-snake.svg">
