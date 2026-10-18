@@ -27,10 +27,10 @@
 <img src="https://readme-typing-svg.herokuapp.com/?lines=⚡+Recent+Activity;&font=Poppins">
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#575176](https://github.com/NixOS/nixpkgs/pull/575176#issuecomment-6244746706) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-2. 🗣 Commented on [#575176](https://github.com/NixOS/nixpkgs/pull/575176#issuecomment-6244520052) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-3. 🎉 Merged PR [#122](https://github.com/MuntasirSZN/dotfiles/pull/122) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
-4. ℹ️ Labeled PR [#122](https://github.com/MuntasirSZN/dotfiles/pull/122) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
+1. 🎉 Merged PR [#575176](https://github.com/NixOS/nixpkgs/pull/575176) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+2. 🗣 Commented on [#575176](https://github.com/NixOS/nixpkgs/pull/575176#issuecomment-6244746706) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+3. 🗣 Commented on [#575176](https://github.com/NixOS/nixpkgs/pull/575176#issuecomment-6244520052) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+4. 🎉 Merged PR [#122](https://github.com/MuntasirSZN/dotfiles/pull/122) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
 5. ℹ️ Labeled PR [#122](https://github.com/MuntasirSZN/dotfiles/pull/122) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
 <!--END_SECTION:activity-->
 
