@@ -27,11 +27,11 @@
 <img src="https://readme-typing-svg.herokuapp.com/?lines=⚡+Recent+Activity;&font=Poppins">
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#124](https://github.com/MuntasirSZN/dotfiles/pull/124) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
-2. 💪 Opened PR [#745](https://github.com/cordx56/rustowl/pull/745) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
-3. 💪 Opened PR [#744](https://github.com/cordx56/rustowl/pull/744) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
-4. 💪 Opened PR [#743](https://github.com/cordx56/rustowl/pull/743) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
-5. 💪 Opened PR [#742](https://github.com/cordx56/rustowl/pull/742) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
+1. 🎉 Merged PR [#710](https://github.com/cordx56/rustowl/pull/710) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
+2. ❌ Closed PR [#124](https://github.com/MuntasirSZN/dotfiles/pull/124) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
+3. 💪 Opened PR [#745](https://github.com/cordx56/rustowl/pull/745) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
+4. 💪 Opened PR [#744](https://github.com/cordx56/rustowl/pull/744) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
+5. 💪 Opened PR [#743](https://github.com/cordx56/rustowl/pull/743) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
 <!--END_SECTION:activity-->
 
 <img src="https://raw.githubusercontent.com/MuntasirSZN/MuntasirSZN/refs/heads/output/github-contribution-grid-snake.svg">
