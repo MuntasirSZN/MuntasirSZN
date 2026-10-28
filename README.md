@@ -27,11 +27,11 @@
 <img src="https://readme-typing-svg.herokuapp.com/?lines=⚡+Recent+Activity;&font=Poppins">
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8](https://github.com/OpenBangla/new-website/issues/8#issuecomment-6454379347) in [OpenBangla/new-website](https://github.com/OpenBangla/new-website)
-2. 🗣 Commented on [#8](https://github.com/OpenBangla/new-website/issues/8#issuecomment-6454083137) in [OpenBangla/new-website](https://github.com/OpenBangla/new-website)
-3. 🗣 Commented on [#308](https://github.com/MuntasirSZN/csmc/pull/308#issuecomment-6436278937) in [MuntasirSZN/csmc](https://github.com/MuntasirSZN/csmc)
-4. ℹ️ Unlabeled issue [#22](https://github.com/MuntasirSZN/fasteetf/issues/22) in [MuntasirSZN/fasteetf](https://github.com/MuntasirSZN/fasteetf)
-5. ℹ️ Unlabeled issue [#23](https://github.com/MuntasirSZN/fasteetf/issues/23) in [MuntasirSZN/fasteetf](https://github.com/MuntasirSZN/fasteetf)
+1. 🎉 Merged PR [#16](https://github.com/OpenBangla/new-website/pull/16) in [OpenBangla/new-website](https://github.com/OpenBangla/new-website)
+2. 🗣 Commented on [#11](https://github.com/OpenBangla/new-website/pull/11#issuecomment-6472723446) in [OpenBangla/new-website](https://github.com/OpenBangla/new-website)
+3. 💪 Opened PR [#16](https://github.com/OpenBangla/new-website/pull/16) in [OpenBangla/new-website](https://github.com/OpenBangla/new-website)
+4. 🎉 Merged PR [#11](https://github.com/OpenBangla/new-website/pull/11) in [OpenBangla/new-website](https://github.com/OpenBangla/new-website)
+5. 🗣 Commented on [#11](https://github.com/OpenBangla/new-website/pull/11#issuecomment-6472353857) in [OpenBangla/new-website](https://github.com/OpenBangla/new-website)
 <!--END_SECTION:activity-->
 
 <img src="https://raw.githubusercontent.com/MuntasirSZN/MuntasirSZN/refs/heads/output/github-contribution-grid-snake.svg">
