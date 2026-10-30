@@ -27,11 +27,11 @@
 <img src="https://readme-typing-svg.herokuapp.com/?lines=⚡+Recent+Activity;&font=Poppins">
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#17](https://github.com/OpenBangla/new-website/pull/17#issuecomment-6489387674) in [OpenBangla/new-website](https://github.com/OpenBangla/new-website)
-2. 🗣 Commented on [#17](https://github.com/OpenBangla/new-website/pull/17#issuecomment-6489182996) in [OpenBangla/new-website](https://github.com/OpenBangla/new-website)
-3. 🗣 Commented on [#17](https://github.com/OpenBangla/new-website/pull/17#issuecomment-6489127812) in [OpenBangla/new-website](https://github.com/OpenBangla/new-website)
-4. 🗣 Commented on [#17](https://github.com/OpenBangla/new-website/pull/17#issuecomment-6488873731) in [OpenBangla/new-website](https://github.com/OpenBangla/new-website)
-5. 🗣 Commented on [#17](https://github.com/OpenBangla/new-website/pull/17#issuecomment-6483751703) in [OpenBangla/new-website](https://github.com/OpenBangla/new-website)
+1. 🗣 Commented on [#579232](https://github.com/NixOS/nixpkgs/pull/579232#issuecomment-6511016409) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+2. 🗣 Commented on [#17](https://github.com/OpenBangla/new-website/pull/17#issuecomment-6489387674) in [OpenBangla/new-website](https://github.com/OpenBangla/new-website)
+3. 🗣 Commented on [#17](https://github.com/OpenBangla/new-website/pull/17#issuecomment-6489182996) in [OpenBangla/new-website](https://github.com/OpenBangla/new-website)
+4. 🗣 Commented on [#17](https://github.com/OpenBangla/new-website/pull/17#issuecomment-6489127812) in [OpenBangla/new-website](https://github.com/OpenBangla/new-website)
+5. 🗣 Commented on [#17](https://github.com/OpenBangla/new-website/pull/17#issuecomment-6488873731) in [OpenBangla/new-website](https://github.com/OpenBangla/new-website)
 <!--END_SECTION:activity-->
 
 <img src="https://raw.githubusercontent.com/MuntasirSZN/MuntasirSZN/refs/heads/output/github-contribution-grid-snake.svg">
