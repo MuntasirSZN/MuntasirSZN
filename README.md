@@ -27,10 +27,10 @@
 <img src="https://readme-typing-svg.herokuapp.com/?lines=⚡+Recent+Activity;&font=Poppins">
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#177](https://github.com/compio-rs/winio/pull/177) in [compio-rs/winio](https://github.com/compio-rs/winio)
-2. 🗣 Commented on [#579232](https://github.com/NixOS/nixpkgs/pull/579232#issuecomment-6517877657) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-3. 🎉 Merged PR [#128](https://github.com/MuntasirSZN/dotfiles/pull/128) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
-4. ℹ️ Labeled PR [#128](https://github.com/MuntasirSZN/dotfiles/pull/128) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
+1. 🗣 Commented on [#177](https://github.com/compio-rs/winio/pull/177#issuecomment-6524415013) in [compio-rs/winio](https://github.com/compio-rs/winio)
+2. 💪 Opened PR [#177](https://github.com/compio-rs/winio/pull/177) in [compio-rs/winio](https://github.com/compio-rs/winio)
+3. 🗣 Commented on [#579232](https://github.com/NixOS/nixpkgs/pull/579232#issuecomment-6517877657) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+4. 🎉 Merged PR [#128](https://github.com/MuntasirSZN/dotfiles/pull/128) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
 5. ℹ️ Labeled PR [#128](https://github.com/MuntasirSZN/dotfiles/pull/128) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
 <!--END_SECTION:activity-->
 
