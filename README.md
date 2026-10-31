@@ -27,11 +27,11 @@
 <img src="https://readme-typing-svg.herokuapp.com/?lines=⚡+Recent+Activity;&font=Poppins">
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#129](https://github.com/MuntasirSZN/dotfiles/pull/129) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
-2. ℹ️ Labeled PR [#129](https://github.com/MuntasirSZN/dotfiles/pull/129) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
-3. ℹ️ Labeled PR [#129](https://github.com/MuntasirSZN/dotfiles/pull/129) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
-4. ℹ️ Labeled PR [#129](https://github.com/MuntasirSZN/dotfiles/pull/129) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
-5. 💪 Opened PR [#129](https://github.com/MuntasirSZN/dotfiles/pull/129) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
+1. 🗣 Commented on [#7](https://github.com/OpenBangla/new-website/issues/7#issuecomment-6543194576) in [OpenBangla/new-website](https://github.com/OpenBangla/new-website)
+2. 💪 Opened PR [#581387](https://github.com/NixOS/nixpkgs/pull/581387) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+3. 🗣 Commented on [#7](https://github.com/OpenBangla/new-website/issues/7#issuecomment-6542636873) in [OpenBangla/new-website](https://github.com/OpenBangla/new-website)
+4. 💪 Opened PR [#40](https://github.com/noib3/crop/pull/40) in [noib3/crop](https://github.com/noib3/crop)
+5. 🗣 Commented on [#7](https://github.com/OpenBangla/new-website/issues/7#issuecomment-6541744389) in [OpenBangla/new-website](https://github.com/OpenBangla/new-website)
 <!--END_SECTION:activity-->
 
 <img src="https://raw.githubusercontent.com/MuntasirSZN/MuntasirSZN/refs/heads/output/github-contribution-grid-snake.svg">
