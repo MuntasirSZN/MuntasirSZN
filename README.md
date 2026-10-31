@@ -27,11 +27,11 @@
 <img src="https://readme-typing-svg.herokuapp.com/?lines=⚡+Recent+Activity;&font=Poppins">
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#484](https://github.com/OpenBangla/OpenBangla-Keyboard/issues/484#issuecomment-6546745588) in [OpenBangla/OpenBangla-Keyboard](https://github.com/OpenBangla/OpenBangla-Keyboard)
-2. ℹ️ Labeled issue [#484](https://github.com/OpenBangla/OpenBangla-Keyboard/issues/484) in [OpenBangla/OpenBangla-Keyboard](https://github.com/OpenBangla/OpenBangla-Keyboard)
-3. ❗ Opened issue [#484](https://github.com/OpenBangla/OpenBangla-Keyboard/issues/484) in [OpenBangla/OpenBangla-Keyboard](https://github.com/OpenBangla/OpenBangla-Keyboard)
-4. 🗣 Commented on [#20](https://github.com/OpenBangla/new-website/pull/20#issuecomment-6546715062) in [OpenBangla/new-website](https://github.com/OpenBangla/new-website)
-5. 🗣 Commented on [#7](https://github.com/OpenBangla/new-website/issues/7#issuecomment-6546678259) in [OpenBangla/new-website](https://github.com/OpenBangla/new-website)
+1. 🎉 Merged PR [#20](https://github.com/OpenBangla/new-website/pull/20) in [OpenBangla/new-website](https://github.com/OpenBangla/new-website)
+2. 🗣 Commented on [#484](https://github.com/OpenBangla/OpenBangla-Keyboard/issues/484#issuecomment-6546745588) in [OpenBangla/OpenBangla-Keyboard](https://github.com/OpenBangla/OpenBangla-Keyboard)
+3. ℹ️ Labeled issue [#484](https://github.com/OpenBangla/OpenBangla-Keyboard/issues/484) in [OpenBangla/OpenBangla-Keyboard](https://github.com/OpenBangla/OpenBangla-Keyboard)
+4. ❗ Opened issue [#484](https://github.com/OpenBangla/OpenBangla-Keyboard/issues/484) in [OpenBangla/OpenBangla-Keyboard](https://github.com/OpenBangla/OpenBangla-Keyboard)
+5. 🗣 Commented on [#20](https://github.com/OpenBangla/new-website/pull/20#issuecomment-6546715062) in [OpenBangla/new-website](https://github.com/OpenBangla/new-website)
 <!--END_SECTION:activity-->
 
 <img src="https://raw.githubusercontent.com/MuntasirSZN/MuntasirSZN/refs/heads/output/github-contribution-grid-snake.svg">
