@@ -27,11 +27,11 @@
 <img src="https://readme-typing-svg.herokuapp.com/?lines=⚡+Recent+Activity;&font=Poppins">
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#763](https://github.com/cordx56/rustowl/pull/763) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
-2. 🗣 Commented on [#484](https://github.com/OpenBangla/OpenBangla-Keyboard/issues/484#issuecomment-6555926248) in [OpenBangla/OpenBangla-Keyboard](https://github.com/OpenBangla/OpenBangla-Keyboard)
-3. 🔒 Closed issue [#484](https://github.com/OpenBangla/OpenBangla-Keyboard/issues/484) in [OpenBangla/OpenBangla-Keyboard](https://github.com/OpenBangla/OpenBangla-Keyboard)
-4. 🗣 Commented on [#484](https://github.com/OpenBangla/OpenBangla-Keyboard/issues/484#issuecomment-6555822583) in [OpenBangla/OpenBangla-Keyboard](https://github.com/OpenBangla/OpenBangla-Keyboard)
-5. 🎉 Merged PR [#130](https://github.com/MuntasirSZN/dotfiles/pull/130) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
+1. 🗣 Commented on [#26](https://github.com/MuntasirSZN/fasteetf/pull/26#issuecomment-6560883995) in [MuntasirSZN/fasteetf](https://github.com/MuntasirSZN/fasteetf)
+2. 🗣 Commented on [#26](https://github.com/MuntasirSZN/fasteetf/pull/26#issuecomment-6560246180) in [MuntasirSZN/fasteetf](https://github.com/MuntasirSZN/fasteetf)
+3. 🗣 Commented on [#18](https://github.com/MuntasirSZN/fasteetf/pull/18#issuecomment-6560236941) in [MuntasirSZN/fasteetf](https://github.com/MuntasirSZN/fasteetf)
+4. ℹ️ Assigned issue [#22](https://github.com/MuntasirSZN/fasteetf/issues/22) in [MuntasirSZN/fasteetf](https://github.com/MuntasirSZN/fasteetf)
+5. ℹ️ Assigned issue [#22](https://github.com/MuntasirSZN/fasteetf/issues/22) in [MuntasirSZN/fasteetf](https://github.com/MuntasirSZN/fasteetf)
 <!--END_SECTION:activity-->
 
 <img src="https://raw.githubusercontent.com/MuntasirSZN/MuntasirSZN/refs/heads/output/github-contribution-grid-snake.svg">
