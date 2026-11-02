@@ -27,11 +27,11 @@
 <img src="https://readme-typing-svg.herokuapp.com/?lines=⚡+Recent+Activity;&font=Poppins">
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#22](https://github.com/MuntasirSZN/fasteetf/issues/22) in [MuntasirSZN/fasteetf](https://github.com/MuntasirSZN/fasteetf)
-2. 🗣 Commented on [#177](https://github.com/compio-rs/winio/pull/177#issuecomment-6563337084) in [compio-rs/winio](https://github.com/compio-rs/winio)
-3. 🗣 Commented on [#177](https://github.com/compio-rs/winio/pull/177#issuecomment-6563091016) in [compio-rs/winio](https://github.com/compio-rs/winio)
-4. 🗣 Commented on [#177](https://github.com/compio-rs/winio/pull/177#issuecomment-6562579619) in [compio-rs/winio](https://github.com/compio-rs/winio)
-5. 🔒 Closed issue [#23](https://github.com/MuntasirSZN/fasteetf/issues/23) in [MuntasirSZN/fasteetf](https://github.com/MuntasirSZN/fasteetf)
+1. 🎉 Merged PR [#131](https://github.com/MuntasirSZN/dotfiles/pull/131) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
+2. ℹ️ Labeled PR [#131](https://github.com/MuntasirSZN/dotfiles/pull/131) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
+3. ℹ️ Labeled PR [#131](https://github.com/MuntasirSZN/dotfiles/pull/131) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
+4. ℹ️ Labeled PR [#131](https://github.com/MuntasirSZN/dotfiles/pull/131) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
+5. 💪 Opened PR [#131](https://github.com/MuntasirSZN/dotfiles/pull/131) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
 <!--END_SECTION:activity-->
 
 <img src="https://raw.githubusercontent.com/MuntasirSZN/MuntasirSZN/refs/heads/output/github-contribution-grid-snake.svg">
