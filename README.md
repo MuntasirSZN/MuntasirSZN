@@ -27,11 +27,11 @@
 <img src="https://readme-typing-svg.herokuapp.com/?lines=⚡+Recent+Activity;&font=Poppins">
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled PR [#132](https://github.com/MuntasirSZN/dotfiles/pull/132) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
-2. ℹ️ Labeled PR [#132](https://github.com/MuntasirSZN/dotfiles/pull/132) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
-3. 💪 Opened PR [#132](https://github.com/MuntasirSZN/dotfiles/pull/132) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
-4. ❗ Opened issue [#180](https://github.com/compio-rs/winio/issues/180) in [compio-rs/winio](https://github.com/compio-rs/winio)
-5. 🗣 Commented on [#179](https://github.com/compio-rs/winio/pull/179#issuecomment-6591515396) in [compio-rs/winio](https://github.com/compio-rs/winio)
+1. 🗣 Commented on [#23](https://github.com/OpenBangla/new-website/pull/23#issuecomment-6604030673) in [OpenBangla/new-website](https://github.com/OpenBangla/new-website)
+2. 🗣 Commented on [#876](https://github.com/ViceVerse-cz/Serein/issues/876#issuecomment-6604014246) in [ViceVerse-cz/Serein](https://github.com/ViceVerse-cz/Serein)
+3. 🗣 Commented on [#23](https://github.com/OpenBangla/new-website/pull/23#issuecomment-6603428942) in [OpenBangla/new-website](https://github.com/OpenBangla/new-website)
+4. ❗ Opened issue [#876](https://github.com/ViceVerse-cz/Serein/issues/876) in [ViceVerse-cz/Serein](https://github.com/ViceVerse-cz/Serein)
+5. ℹ️ Labeled issue [#876](https://github.com/ViceVerse-cz/Serein/issues/876) in [ViceVerse-cz/Serein](https://github.com/ViceVerse-cz/Serein)
 <!--END_SECTION:activity-->
 
 <img src="https://raw.githubusercontent.com/MuntasirSZN/MuntasirSZN/refs/heads/output/github-contribution-grid-snake.svg">
