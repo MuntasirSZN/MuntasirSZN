@@ -26,11 +26,11 @@
 <img src="https://readme-typing-svg.herokuapp.com/?lines=⚡+Recent+Activity;&font=Poppins">
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#581387](https://github.com/NixOS/nixpkgs/pull/581387#issuecomment-6633023650) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-2. 🗣 Commented on [#4118](https://github.com/duxlabs-dev/dux-shell/issues/4118#issuecomment-6632988046) in [duxlabs-dev/dux-shell](https://github.com/duxlabs-dev/dux-shell)
-3. 🔒 Closed issue [#4118](https://github.com/duxlabs-dev/dux-shell/issues/4118) in [duxlabs-dev/dux-shell](https://github.com/duxlabs-dev/dux-shell)
-4. 🗣 Commented on [#4118](https://github.com/duxlabs-dev/dux-shell/issues/4118#issuecomment-6632790483) in [duxlabs-dev/dux-shell](https://github.com/duxlabs-dev/dux-shell)
-5. ℹ️ Labeled issue [#4118](https://github.com/duxlabs-dev/dux-shell/issues/4118) in [duxlabs-dev/dux-shell](https://github.com/duxlabs-dev/dux-shell)
+1. 🗣 Commented on [#426](https://github.com/OpenBangla/OpenBangla-Keyboard/issues/426#issuecomment-6636409951) in [OpenBangla/OpenBangla-Keyboard](https://github.com/OpenBangla/OpenBangla-Keyboard)
+2. 🗣 Commented on [#14](https://github.com/OpenBangla/upodesh/pull/14#issuecomment-6636396058) in [OpenBangla/upodesh](https://github.com/OpenBangla/upodesh)
+3. 🗣 Commented on [#14](https://github.com/OpenBangla/upodesh/pull/14#issuecomment-6636354157) in [OpenBangla/upodesh](https://github.com/OpenBangla/upodesh)
+4. 🗣 Commented on [#485](https://github.com/OpenBangla/OpenBangla-Keyboard/issues/485#issuecomment-6636304206) in [OpenBangla/OpenBangla-Keyboard](https://github.com/OpenBangla/OpenBangla-Keyboard)
+5. 🗣 Commented on [#581387](https://github.com/NixOS/nixpkgs/pull/581387#issuecomment-6633023650) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
 <!--END_SECTION:activity-->
 
 <img src="https://raw.githubusercontent.com/MuntasirSZN/MuntasirSZN/refs/heads/output/github-contribution-grid-snake.svg">
