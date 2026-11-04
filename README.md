@@ -27,11 +27,11 @@
 <img src="https://readme-typing-svg.herokuapp.com/?lines=⚡+Recent+Activity;&font=Poppins">
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#14](https://github.com/OpenBangla/upodesh/pull/14) in [OpenBangla/upodesh](https://github.com/OpenBangla/upodesh)
-2. 🗣 Commented on [#426](https://github.com/OpenBangla/OpenBangla-Keyboard/issues/426#issuecomment-6608561730) in [OpenBangla/OpenBangla-Keyboard](https://github.com/OpenBangla/OpenBangla-Keyboard)
-3. 🗣 Commented on [#23](https://github.com/OpenBangla/new-website/pull/23#issuecomment-6604030673) in [OpenBangla/new-website](https://github.com/OpenBangla/new-website)
-4. 🗣 Commented on [#876](https://github.com/ViceVerse-cz/Serein/issues/876#issuecomment-6604014246) in [ViceVerse-cz/Serein](https://github.com/ViceVerse-cz/Serein)
-5. 🗣 Commented on [#23](https://github.com/OpenBangla/new-website/pull/23#issuecomment-6603428942) in [OpenBangla/new-website](https://github.com/OpenBangla/new-website)
+1. 🗣 Commented on [#19](https://github.com/OpenBangla/new-website/issues/19#issuecomment-6623687263) in [OpenBangla/new-website](https://github.com/OpenBangla/new-website)
+2. 🗣 Commented on [#19](https://github.com/OpenBangla/new-website/issues/19#issuecomment-6623513965) in [OpenBangla/new-website](https://github.com/OpenBangla/new-website)
+3. 🗣 Commented on [#19](https://github.com/OpenBangla/new-website/issues/19#issuecomment-6622918423) in [OpenBangla/new-website](https://github.com/OpenBangla/new-website)
+4. 🎉 Merged PR [#132](https://github.com/MuntasirSZN/dotfiles/pull/132) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
+5. 🗣 Commented on [#426](https://github.com/OpenBangla/OpenBangla-Keyboard/issues/426#issuecomment-6622136712) in [OpenBangla/OpenBangla-Keyboard](https://github.com/OpenBangla/OpenBangla-Keyboard)
 <!--END_SECTION:activity-->
 
 <img src="https://raw.githubusercontent.com/MuntasirSZN/MuntasirSZN/refs/heads/output/github-contribution-grid-snake.svg">
