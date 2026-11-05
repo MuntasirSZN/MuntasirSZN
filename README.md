@@ -26,11 +26,11 @@
 <img src="https://readme-typing-svg.herokuapp.com/?lines=⚡+Recent+Activity;&font=Poppins">
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#426](https://github.com/OpenBangla/OpenBangla-Keyboard/issues/426#issuecomment-6636409951) in [OpenBangla/OpenBangla-Keyboard](https://github.com/OpenBangla/OpenBangla-Keyboard)
-2. 🗣 Commented on [#14](https://github.com/OpenBangla/upodesh/pull/14#issuecomment-6636396058) in [OpenBangla/upodesh](https://github.com/OpenBangla/upodesh)
-3. 🗣 Commented on [#14](https://github.com/OpenBangla/upodesh/pull/14#issuecomment-6636354157) in [OpenBangla/upodesh](https://github.com/OpenBangla/upodesh)
-4. 🗣 Commented on [#485](https://github.com/OpenBangla/OpenBangla-Keyboard/issues/485#issuecomment-6636304206) in [OpenBangla/OpenBangla-Keyboard](https://github.com/OpenBangla/OpenBangla-Keyboard)
-5. 🗣 Commented on [#581387](https://github.com/NixOS/nixpkgs/pull/581387#issuecomment-6633023650) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+1. 🗣 Commented on [#876](https://github.com/ViceVerse-cz/Serein/issues/876#issuecomment-6647107220) in [ViceVerse-cz/Serein](https://github.com/ViceVerse-cz/Serein)
+2. 🗣 Commented on [#22](https://github.com/OpenBangla/new-website/issues/22#issuecomment-6647076405) in [OpenBangla/new-website](https://github.com/OpenBangla/new-website)
+3. 🗣 Commented on [#22](https://github.com/OpenBangla/new-website/issues/22#issuecomment-6645448657) in [OpenBangla/new-website](https://github.com/OpenBangla/new-website)
+4. 🗣 Commented on [#22](https://github.com/OpenBangla/new-website/issues/22#issuecomment-6645419013) in [OpenBangla/new-website](https://github.com/OpenBangla/new-website)
+5. 🗣 Commented on [#426](https://github.com/OpenBangla/OpenBangla-Keyboard/issues/426#issuecomment-6636409951) in [OpenBangla/OpenBangla-Keyboard](https://github.com/OpenBangla/OpenBangla-Keyboard)
 <!--END_SECTION:activity-->
 
 <img src="https://raw.githubusercontent.com/MuntasirSZN/MuntasirSZN/refs/heads/output/github-contribution-grid-snake.svg">
