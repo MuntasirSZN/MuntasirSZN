@@ -26,11 +26,11 @@
 <img src="https://readme-typing-svg.herokuapp.com/?lines=⚡+Recent+Activity;&font=Poppins">
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#876](https://github.com/ViceVerse-cz/Serein/issues/876#issuecomment-6647107220) in [ViceVerse-cz/Serein](https://github.com/ViceVerse-cz/Serein)
-2. 🗣 Commented on [#22](https://github.com/OpenBangla/new-website/issues/22#issuecomment-6647076405) in [OpenBangla/new-website](https://github.com/OpenBangla/new-website)
-3. 🗣 Commented on [#22](https://github.com/OpenBangla/new-website/issues/22#issuecomment-6645448657) in [OpenBangla/new-website](https://github.com/OpenBangla/new-website)
-4. 🗣 Commented on [#22](https://github.com/OpenBangla/new-website/issues/22#issuecomment-6645419013) in [OpenBangla/new-website](https://github.com/OpenBangla/new-website)
-5. 🗣 Commented on [#426](https://github.com/OpenBangla/OpenBangla-Keyboard/issues/426#issuecomment-6636409951) in [OpenBangla/OpenBangla-Keyboard](https://github.com/OpenBangla/OpenBangla-Keyboard)
+1. 🎉 Merged PR [#133](https://github.com/MuntasirSZN/dotfiles/pull/133) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
+2. ℹ️ Labeled PR [#133](https://github.com/MuntasirSZN/dotfiles/pull/133) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
+3. ℹ️ Labeled PR [#133](https://github.com/MuntasirSZN/dotfiles/pull/133) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
+4. 💪 Opened PR [#133](https://github.com/MuntasirSZN/dotfiles/pull/133) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
+5. 🗣 Commented on [#876](https://github.com/ViceVerse-cz/Serein/issues/876#issuecomment-6647107220) in [ViceVerse-cz/Serein](https://github.com/ViceVerse-cz/Serein)
 <!--END_SECTION:activity-->
 
 <img src="https://raw.githubusercontent.com/MuntasirSZN/MuntasirSZN/refs/heads/output/github-contribution-grid-snake.svg">
