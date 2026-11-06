@@ -26,11 +26,11 @@
 <img src="https://readme-typing-svg.herokuapp.com/?lines=⚡+Recent+Activity;&font=Poppins">
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#134](https://github.com/MuntasirSZN/dotfiles/pull/134) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
-2. ℹ️ Labeled PR [#134](https://github.com/MuntasirSZN/dotfiles/pull/134) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
-3. 💪 Opened PR [#134](https://github.com/MuntasirSZN/dotfiles/pull/134) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
-4. ℹ️ Labeled PR [#134](https://github.com/MuntasirSZN/dotfiles/pull/134) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
-5. 🗣 Commented on [#485](https://github.com/OpenBangla/OpenBangla-Keyboard/issues/485#issuecomment-6664606266) in [OpenBangla/OpenBangla-Keyboard](https://github.com/OpenBangla/OpenBangla-Keyboard)
+1. 🗣 Commented on [#581387](https://github.com/NixOS/nixpkgs/pull/581387#issuecomment-6686751922) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+2. 🗣 Commented on [#581387](https://github.com/NixOS/nixpkgs/pull/581387#issuecomment-6688866575) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+3. 🗣 Commented on [#14](https://github.com/OpenBangla/upodesh/pull/14#issuecomment-6688820706) in [OpenBangla/upodesh](https://github.com/OpenBangla/upodesh)
+4. 🗣 Commented on [#485](https://github.com/OpenBangla/OpenBangla-Keyboard/issues/485#issuecomment-6686790255) in [OpenBangla/OpenBangla-Keyboard](https://github.com/OpenBangla/OpenBangla-Keyboard)
+5. 🗣 Commented on [#581387](https://github.com/NixOS/nixpkgs/pull/581387#issuecomment-6686773171) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
 <!--END_SECTION:activity-->
 
 <img src="https://raw.githubusercontent.com/MuntasirSZN/MuntasirSZN/refs/heads/output/github-contribution-grid-snake.svg">
