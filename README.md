@@ -26,11 +26,11 @@
 <img src="https://readme-typing-svg.herokuapp.com/?lines=⚡+Recent+Activity;&font=Poppins">
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#485](https://github.com/OpenBangla/OpenBangla-Keyboard/issues/485#issuecomment-6664606266) in [OpenBangla/OpenBangla-Keyboard](https://github.com/OpenBangla/OpenBangla-Keyboard)
-2. 🗣 Commented on [#28](https://github.com/OpenBangla/new-website/issues/28#issuecomment-6664571714) in [OpenBangla/new-website](https://github.com/OpenBangla/new-website)
-3. 🗣 Commented on [#14](https://github.com/OpenBangla/upodesh/pull/14#issuecomment-6654141191) in [OpenBangla/upodesh](https://github.com/OpenBangla/upodesh)
-4. ❗ Opened issue [#28](https://github.com/OpenBangla/new-website/issues/28) in [OpenBangla/new-website](https://github.com/OpenBangla/new-website)
-5. 🗣 Commented on [#14](https://github.com/OpenBangla/upodesh/pull/14#issuecomment-6654124440) in [OpenBangla/upodesh](https://github.com/OpenBangla/upodesh)
+1. 🎉 Merged PR [#134](https://github.com/MuntasirSZN/dotfiles/pull/134) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
+2. ℹ️ Labeled PR [#134](https://github.com/MuntasirSZN/dotfiles/pull/134) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
+3. 💪 Opened PR [#134](https://github.com/MuntasirSZN/dotfiles/pull/134) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
+4. ℹ️ Labeled PR [#134](https://github.com/MuntasirSZN/dotfiles/pull/134) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
+5. 🗣 Commented on [#485](https://github.com/OpenBangla/OpenBangla-Keyboard/issues/485#issuecomment-6664606266) in [OpenBangla/OpenBangla-Keyboard](https://github.com/OpenBangla/OpenBangla-Keyboard)
 <!--END_SECTION:activity-->
 
 <img src="https://raw.githubusercontent.com/MuntasirSZN/MuntasirSZN/refs/heads/output/github-contribution-grid-snake.svg">
