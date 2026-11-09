@@ -26,11 +26,11 @@
 <img src="https://readme-typing-svg.herokuapp.com/?lines=⚡+Recent+Activity;&font=Poppins">
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled PR [#137](https://github.com/MuntasirSZN/dotfiles/pull/137) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
-2. ℹ️ Labeled PR [#137](https://github.com/MuntasirSZN/dotfiles/pull/137) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
-3. 💪 Opened PR [#137](https://github.com/MuntasirSZN/dotfiles/pull/137) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
-4. 🗣 Commented on [#31](https://github.com/OpenBangla/new-website/pull/31#issuecomment-6725126987) in [OpenBangla/new-website](https://github.com/OpenBangla/new-website)
-5. 💪 Opened PR [#32](https://github.com/OpenBangla/new-website/pull/32) in [OpenBangla/new-website](https://github.com/OpenBangla/new-website)
+1. 🗣 Commented on [#35](https://github.com/OpenBangla/new-website/pull/35#issuecomment-6744440035) in [OpenBangla/new-website](https://github.com/OpenBangla/new-website)
+2. 🗣 Commented on [#14](https://github.com/OpenBangla/upodesh/pull/14#issuecomment-6746220591) in [OpenBangla/upodesh](https://github.com/OpenBangla/upodesh)
+3. 🗣 Commented on [#35](https://github.com/OpenBangla/new-website/pull/35#issuecomment-6741200352) in [OpenBangla/new-website](https://github.com/OpenBangla/new-website)
+4. 🗣 Commented on [#14](https://github.com/OpenBangla/upodesh/pull/14#issuecomment-6745765069) in [OpenBangla/upodesh](https://github.com/OpenBangla/upodesh)
+5. 🗣 Commented on [#14](https://github.com/OpenBangla/upodesh/pull/14#issuecomment-6745662363) in [OpenBangla/upodesh](https://github.com/OpenBangla/upodesh)
 <!--END_SECTION:activity-->
 
 <img src="https://raw.githubusercontent.com/MuntasirSZN/MuntasirSZN/refs/heads/output/github-contribution-grid-snake.svg">
