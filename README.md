@@ -26,11 +26,11 @@
 <img src="https://readme-typing-svg.herokuapp.com/?lines=⚡+Recent+Activity;&font=Poppins">
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#35](https://github.com/OpenBangla/new-website/pull/35#issuecomment-6744440035) in [OpenBangla/new-website](https://github.com/OpenBangla/new-website)
-2. 🗣 Commented on [#14](https://github.com/OpenBangla/upodesh/pull/14#issuecomment-6746220591) in [OpenBangla/upodesh](https://github.com/OpenBangla/upodesh)
-3. 🗣 Commented on [#35](https://github.com/OpenBangla/new-website/pull/35#issuecomment-6741200352) in [OpenBangla/new-website](https://github.com/OpenBangla/new-website)
-4. 🗣 Commented on [#14](https://github.com/OpenBangla/upodesh/pull/14#issuecomment-6745765069) in [OpenBangla/upodesh](https://github.com/OpenBangla/upodesh)
-5. 🗣 Commented on [#14](https://github.com/OpenBangla/upodesh/pull/14#issuecomment-6745662363) in [OpenBangla/upodesh](https://github.com/OpenBangla/upodesh)
+1. 🗣 Commented on [#9](https://github.com/OpenBangla/new-website/issues/9#issuecomment-6745627465) in [OpenBangla/new-website](https://github.com/OpenBangla/new-website)
+2. 🗣 Commented on [#485](https://github.com/OpenBangla/OpenBangla-Keyboard/issues/485#issuecomment-6745572257) in [OpenBangla/OpenBangla-Keyboard](https://github.com/OpenBangla/OpenBangla-Keyboard)
+3. 🗣 Commented on [#14](https://github.com/OpenBangla/upodesh/pull/14#issuecomment-6746620698) in [OpenBangla/upodesh](https://github.com/OpenBangla/upodesh)
+4. 🗣 Commented on [#233](https://github.com/waycrate/xdg-desktop-portal-luminous/issues/233#issuecomment-6743172229) in [waycrate/xdg-desktop-portal-luminous](https://github.com/waycrate/xdg-desktop-portal-luminous)
+5. 🗣 Commented on [#9](https://github.com/OpenBangla/new-website/issues/9#issuecomment-6746875366) in [OpenBangla/new-website](https://github.com/OpenBangla/new-website)
 <!--END_SECTION:activity-->
 
 <img src="https://raw.githubusercontent.com/MuntasirSZN/MuntasirSZN/refs/heads/output/github-contribution-grid-snake.svg">
