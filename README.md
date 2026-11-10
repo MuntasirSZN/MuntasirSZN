@@ -26,11 +26,11 @@
 <img src="https://readme-typing-svg.herokuapp.com/?lines=⚡+Recent+Activity;&font=Poppins">
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#9](https://github.com/OpenBangla/new-website/issues/9#issuecomment-6745627465) in [OpenBangla/new-website](https://github.com/OpenBangla/new-website)
-2. 🗣 Commented on [#485](https://github.com/OpenBangla/OpenBangla-Keyboard/issues/485#issuecomment-6745572257) in [OpenBangla/OpenBangla-Keyboard](https://github.com/OpenBangla/OpenBangla-Keyboard)
-3. 🗣 Commented on [#14](https://github.com/OpenBangla/upodesh/pull/14#issuecomment-6746620698) in [OpenBangla/upodesh](https://github.com/OpenBangla/upodesh)
-4. 🗣 Commented on [#233](https://github.com/waycrate/xdg-desktop-portal-luminous/issues/233#issuecomment-6743172229) in [waycrate/xdg-desktop-portal-luminous](https://github.com/waycrate/xdg-desktop-portal-luminous)
-5. 🗣 Commented on [#9](https://github.com/OpenBangla/new-website/issues/9#issuecomment-6746875366) in [OpenBangla/new-website](https://github.com/OpenBangla/new-website)
+1. 🎉 Merged PR [#3](https://github.com/OpenBangla/next-gen-ime/pull/3) in [OpenBangla/next-gen-ime](https://github.com/OpenBangla/next-gen-ime)
+2. 🎉 Merged PR [#248](https://github.com/waycrate/xdg-desktop-portal-luminous/pull/248) in [waycrate/xdg-desktop-portal-luminous](https://github.com/waycrate/xdg-desktop-portal-luminous)
+3. 🎉 Merged PR [#581387](https://github.com/NixOS/nixpkgs/pull/581387) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+4. 💪 Opened PR [#248](https://github.com/waycrate/xdg-desktop-portal-luminous/pull/248) in [waycrate/xdg-desktop-portal-luminous](https://github.com/waycrate/xdg-desktop-portal-luminous)
+5. 🎉 Merged PR [#247](https://github.com/waycrate/xdg-desktop-portal-luminous/pull/247) in [waycrate/xdg-desktop-portal-luminous](https://github.com/waycrate/xdg-desktop-portal-luminous)
 <!--END_SECTION:activity-->
 
 <img src="https://raw.githubusercontent.com/MuntasirSZN/MuntasirSZN/refs/heads/output/github-contribution-grid-snake.svg">
