@@ -26,11 +26,11 @@
 <img src="https://readme-typing-svg.herokuapp.com/?lines=⚡+Recent+Activity;&font=Poppins">
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled PR [#763](https://github.com/cordx56/rustowl/pull/763) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
-2. 🎉 Merged PR [#8](https://github.com/catppuccin/superfile/pull/8) in [catppuccin/superfile](https://github.com/catppuccin/superfile)
-3. 💪 Opened PR [#8](https://github.com/catppuccin/superfile/pull/8) in [catppuccin/superfile](https://github.com/catppuccin/superfile)
-4. 🎉 Merged PR [#3](https://github.com/OpenBangla/next-gen-ime/pull/3) in [OpenBangla/next-gen-ime](https://github.com/OpenBangla/next-gen-ime)
-5. 🎉 Merged PR [#248](https://github.com/waycrate/xdg-desktop-portal-luminous/pull/248) in [waycrate/xdg-desktop-portal-luminous](https://github.com/waycrate/xdg-desktop-portal-luminous)
+1. 🗣 Commented on [#137](https://github.com/MuntasirSZN/dotfiles/pull/137#issuecomment-6772603628) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
+2. 🗣 Commented on [#876](https://github.com/ViceVerse-cz/Serein/issues/876#issuecomment-6772794235) in [ViceVerse-cz/Serein](https://github.com/ViceVerse-cz/Serein)
+3. ℹ️ Labeled PR [#763](https://github.com/cordx56/rustowl/pull/763) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
+4. ℹ️ Unlabeled PR [#763](https://github.com/cordx56/rustowl/pull/763) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
+5. ℹ️ Labeled PR [#763](https://github.com/cordx56/rustowl/pull/763) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
 <!--END_SECTION:activity-->
 
 <img src="https://raw.githubusercontent.com/MuntasirSZN/MuntasirSZN/refs/heads/output/github-contribution-grid-snake.svg">
