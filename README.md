@@ -26,10 +26,10 @@
 <img src="https://readme-typing-svg.herokuapp.com/?lines=⚡+Recent+Activity;&font=Poppins">
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#11649](https://github.com/rolldown/rolldown/pull/11649) in [rolldown/rolldown](https://github.com/rolldown/rolldown)
-2. ℹ️ Labeled issue [#767](https://github.com/cordx56/rustowl/issues/767) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
-3. ℹ️ Labeled issue [#767](https://github.com/cordx56/rustowl/issues/767) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
-4. ℹ️ Labeled issue [#767](https://github.com/cordx56/rustowl/issues/767) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
+1. ❗ Opened issue [#64](https://github.com/CodSpeedHQ/valgrind-codspeed/issues/64) in [CodSpeedHQ/valgrind-codspeed](https://github.com/CodSpeedHQ/valgrind-codspeed)
+2. ❗ Opened issue [#41](https://github.com/OpenBangla/new-website/issues/41) in [OpenBangla/new-website](https://github.com/OpenBangla/new-website)
+3. 💪 Opened PR [#586732](https://github.com/NixOS/nixpkgs/pull/586732) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+4. 💪 Opened PR [#11649](https://github.com/rolldown/rolldown/pull/11649) in [rolldown/rolldown](https://github.com/rolldown/rolldown)
 5. ℹ️ Labeled issue [#767](https://github.com/cordx56/rustowl/issues/767) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
 <!--END_SECTION:activity-->
 
