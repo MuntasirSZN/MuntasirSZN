@@ -26,11 +26,11 @@
 <img src="https://readme-typing-svg.herokuapp.com/?lines=⚡+Recent+Activity;&font=Poppins">
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#137](https://github.com/MuntasirSZN/dotfiles/pull/137) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
-2. ❗ Opened issue [#64](https://github.com/CodSpeedHQ/valgrind-codspeed/issues/64) in [CodSpeedHQ/valgrind-codspeed](https://github.com/CodSpeedHQ/valgrind-codspeed)
-3. ❗ Opened issue [#41](https://github.com/OpenBangla/new-website/issues/41) in [OpenBangla/new-website](https://github.com/OpenBangla/new-website)
-4. 💪 Opened PR [#586732](https://github.com/NixOS/nixpkgs/pull/586732) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-5. 💪 Opened PR [#11649](https://github.com/rolldown/rolldown/pull/11649) in [rolldown/rolldown](https://github.com/rolldown/rolldown)
+1. 🗣 Commented on [#4](https://github.com/OpenBangla/next-gen-ime/issues/4#issuecomment-6818557922) in [OpenBangla/next-gen-ime](https://github.com/OpenBangla/next-gen-ime)
+2. 💪 Opened PR [#5](https://github.com/OpenBangla/next-gen-ime/pull/5) in [OpenBangla/next-gen-ime](https://github.com/OpenBangla/next-gen-ime)
+3. 🎉 Merged PR [#137](https://github.com/MuntasirSZN/dotfiles/pull/137) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
+4. ❗ Opened issue [#64](https://github.com/CodSpeedHQ/valgrind-codspeed/issues/64) in [CodSpeedHQ/valgrind-codspeed](https://github.com/CodSpeedHQ/valgrind-codspeed)
+5. ❗ Opened issue [#41](https://github.com/OpenBangla/new-website/issues/41) in [OpenBangla/new-website](https://github.com/OpenBangla/new-website)
 <!--END_SECTION:activity-->
 
 <img src="https://raw.githubusercontent.com/MuntasirSZN/MuntasirSZN/refs/heads/output/github-contribution-grid-snake.svg">
