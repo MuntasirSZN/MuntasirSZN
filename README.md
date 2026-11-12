@@ -26,11 +26,11 @@
 <img src="https://readme-typing-svg.herokuapp.com/?lines=⚡+Recent+Activity;&font=Poppins">
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4](https://github.com/OpenBangla/next-gen-ime/issues/4#issuecomment-6818557922) in [OpenBangla/next-gen-ime](https://github.com/OpenBangla/next-gen-ime)
-2. 💪 Opened PR [#5](https://github.com/OpenBangla/next-gen-ime/pull/5) in [OpenBangla/next-gen-ime](https://github.com/OpenBangla/next-gen-ime)
-3. 🎉 Merged PR [#137](https://github.com/MuntasirSZN/dotfiles/pull/137) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
-4. ❗ Opened issue [#64](https://github.com/CodSpeedHQ/valgrind-codspeed/issues/64) in [CodSpeedHQ/valgrind-codspeed](https://github.com/CodSpeedHQ/valgrind-codspeed)
-5. ❗ Opened issue [#41](https://github.com/OpenBangla/new-website/issues/41) in [OpenBangla/new-website](https://github.com/OpenBangla/new-website)
+1. 🗣 Commented on [#64](https://github.com/CodSpeedHQ/valgrind-codspeed/issues/64#issuecomment-6830002625) in [CodSpeedHQ/valgrind-codspeed](https://github.com/CodSpeedHQ/valgrind-codspeed)
+2. 🗣 Commented on [#282](https://github.com/pop-os/cosmic-text/issues/282#issuecomment-6828465237) in [pop-os/cosmic-text](https://github.com/pop-os/cosmic-text)
+3. 🗣 Commented on [#252](https://github.com/waycrate/xdg-desktop-portal-luminous/issues/252#issuecomment-6828304550) in [waycrate/xdg-desktop-portal-luminous](https://github.com/waycrate/xdg-desktop-portal-luminous)
+4. 🗣 Commented on [#252](https://github.com/waycrate/xdg-desktop-portal-luminous/issues/252#issuecomment-6829154498) in [waycrate/xdg-desktop-portal-luminous](https://github.com/waycrate/xdg-desktop-portal-luminous)
+5. ❗ Opened issue [#252](https://github.com/waycrate/xdg-desktop-portal-luminous/issues/252) in [waycrate/xdg-desktop-portal-luminous](https://github.com/waycrate/xdg-desktop-portal-luminous)
 <!--END_SECTION:activity-->
 
 <img src="https://raw.githubusercontent.com/MuntasirSZN/MuntasirSZN/refs/heads/output/github-contribution-grid-snake.svg">
