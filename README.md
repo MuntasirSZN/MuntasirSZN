@@ -26,11 +26,11 @@
 <img src="https://readme-typing-svg.herokuapp.com/?lines=⚡+Recent+Activity;&font=Poppins">
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#744](https://github.com/cordx56/rustowl/pull/744) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
-2. 💪 Opened PR [#587565](https://github.com/NixOS/nixpkgs/pull/587565) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-3. 💪 Opened PR [#768](https://github.com/cordx56/rustowl/pull/768) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
-4. 🗣 Commented on [#252](https://github.com/waycrate/xdg-desktop-portal-luminous/issues/252#issuecomment-6847963717) in [waycrate/xdg-desktop-portal-luminous](https://github.com/waycrate/xdg-desktop-portal-luminous)
-5. 🎉 Merged PR [#138](https://github.com/MuntasirSZN/dotfiles/pull/138) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
+1. 🗣 Commented on [#9](https://github.com/OpenBangla/new-website/issues/9#issuecomment-6859449177) in [OpenBangla/new-website](https://github.com/OpenBangla/new-website)
+2. 🗣 Commented on [#42](https://github.com/OpenBangla/new-website/issues/42#issuecomment-6859060967) in [OpenBangla/new-website](https://github.com/OpenBangla/new-website)
+3. 🗣 Commented on [#587565](https://github.com/NixOS/nixpkgs/pull/587565#issuecomment-6853602430) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+4. ❌ Closed PR [#744](https://github.com/cordx56/rustowl/pull/744) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
+5. 💪 Opened PR [#587565](https://github.com/NixOS/nixpkgs/pull/587565) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
 <!--END_SECTION:activity-->
 
 <img src="https://raw.githubusercontent.com/MuntasirSZN/MuntasirSZN/refs/heads/output/github-contribution-grid-snake.svg">
