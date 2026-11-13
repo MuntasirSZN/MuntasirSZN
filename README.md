@@ -26,11 +26,11 @@
 <img src="https://readme-typing-svg.herokuapp.com/?lines=⚡+Recent+Activity;&font=Poppins">
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#64](https://github.com/CodSpeedHQ/valgrind-codspeed/issues/64#issuecomment-6830002625) in [CodSpeedHQ/valgrind-codspeed](https://github.com/CodSpeedHQ/valgrind-codspeed)
-2. 🗣 Commented on [#282](https://github.com/pop-os/cosmic-text/issues/282#issuecomment-6828465237) in [pop-os/cosmic-text](https://github.com/pop-os/cosmic-text)
-3. 🗣 Commented on [#252](https://github.com/waycrate/xdg-desktop-portal-luminous/issues/252#issuecomment-6828304550) in [waycrate/xdg-desktop-portal-luminous](https://github.com/waycrate/xdg-desktop-portal-luminous)
-4. 🗣 Commented on [#252](https://github.com/waycrate/xdg-desktop-portal-luminous/issues/252#issuecomment-6829154498) in [waycrate/xdg-desktop-portal-luminous](https://github.com/waycrate/xdg-desktop-portal-luminous)
-5. ❗ Opened issue [#252](https://github.com/waycrate/xdg-desktop-portal-luminous/issues/252) in [waycrate/xdg-desktop-portal-luminous](https://github.com/waycrate/xdg-desktop-portal-luminous)
+1. ❌ Closed PR [#744](https://github.com/cordx56/rustowl/pull/744) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
+2. 💪 Opened PR [#587565](https://github.com/NixOS/nixpkgs/pull/587565) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+3. 💪 Opened PR [#768](https://github.com/cordx56/rustowl/pull/768) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
+4. 🗣 Commented on [#252](https://github.com/waycrate/xdg-desktop-portal-luminous/issues/252#issuecomment-6847963717) in [waycrate/xdg-desktop-portal-luminous](https://github.com/waycrate/xdg-desktop-portal-luminous)
+5. 🎉 Merged PR [#138](https://github.com/MuntasirSZN/dotfiles/pull/138) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
 <!--END_SECTION:activity-->
 
 <img src="https://raw.githubusercontent.com/MuntasirSZN/MuntasirSZN/refs/heads/output/github-contribution-grid-snake.svg">
