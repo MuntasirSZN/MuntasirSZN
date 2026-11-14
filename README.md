@@ -26,11 +26,11 @@
 <img src="https://readme-typing-svg.herokuapp.com/?lines=⚡+Recent+Activity;&font=Poppins">
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5](https://github.com/OpenBangla/next-gen-ime/pull/5#issuecomment-6874306401) in [OpenBangla/next-gen-ime](https://github.com/OpenBangla/next-gen-ime)
-2. 🎉 Merged PR [#140](https://github.com/MuntasirSZN/dotfiles/pull/140) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
-3. ℹ️ Labeled PR [#140](https://github.com/MuntasirSZN/dotfiles/pull/140) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
-4. ℹ️ Labeled PR [#140](https://github.com/MuntasirSZN/dotfiles/pull/140) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
-5. 💪 Opened PR [#140](https://github.com/MuntasirSZN/dotfiles/pull/140) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
+1. 🗣 Commented on [#9](https://github.com/OpenBangla/new-website/issues/9#issuecomment-6878877910) in [OpenBangla/new-website](https://github.com/OpenBangla/new-website)
+2. 🗣 Commented on [#9](https://github.com/OpenBangla/new-website/issues/9#issuecomment-6878860939) in [OpenBangla/new-website](https://github.com/OpenBangla/new-website)
+3. 🗣 Commented on [#5](https://github.com/OpenBangla/next-gen-ime/pull/5#issuecomment-6874306401) in [OpenBangla/next-gen-ime](https://github.com/OpenBangla/next-gen-ime)
+4. 🎉 Merged PR [#140](https://github.com/MuntasirSZN/dotfiles/pull/140) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
+5. ℹ️ Labeled PR [#140](https://github.com/MuntasirSZN/dotfiles/pull/140) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
 <!--END_SECTION:activity-->
 
 <img src="https://raw.githubusercontent.com/MuntasirSZN/MuntasirSZN/refs/heads/output/github-contribution-grid-snake.svg">
