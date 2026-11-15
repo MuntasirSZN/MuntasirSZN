@@ -16,11 +16,11 @@
 <img src="https://readme-typing-svg.herokuapp.com/?lines=🌐+Socials;&font=Poppins">
 
 <p>
-  <a href="https://discord.com/users/1188396605125165126"><img src="https://go-skill-icons.vercel.app/api/icons?i=discord" alt="Discord"></a>
-  <a href="https://stackoverflow.com/users/27158232"><img src="https://go-skill-icons.vercel.app/api/icons?i=stackoverflow" alt="Stack Overflow"></a>
-  <a href="https://x.com/muntasirszn"><img src="https://go-skill-icons.vercel.app/api/icons?i=x" alt="X"></a>
-  <a href="https://www.reddit.com/user/Cute_Elevator2547/"><img src="https://go-skill-icons.vercel.app/api/icons?i=reddit" alt="Reddit"/></a>
-  <a href="https://app.daily.dev/muntasirmahmud95"><img src="https://go-skill-icons.vercel.app/api/icons?i=dailydev" /></a>
+  <a href="https://discord.com/users/1188396605125165126"><img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/discord.svg" alt="Discord" height="64" width="64"></a>
+  <a href="https://stackoverflow.com/users/27158232"><img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/stackoverflow-auto.svg" alt="Stack Overflow" height="64" width="64"></a>
+  <a href="https://x.com/muntasirszn"><img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/x-auto.svg" alt="X" height="64" width="64"></a>
+  <a href="https://www.reddit.com/user/Cute_Elevator2547/"><img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/reddit.svg" alt="Reddit" height="64" width="64"/></a>
+  <a href="https://app.daily.dev/muntasirmahmud95"><img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/dailydev-auto.svg" height="64" width="64" /></a>
 </p>
 
 <img src="https://readme-typing-svg.herokuapp.com/?lines=⚡+Recent+Activity;&font=Poppins">
