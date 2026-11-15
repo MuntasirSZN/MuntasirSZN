@@ -26,11 +26,11 @@
 <img src="https://readme-typing-svg.herokuapp.com/?lines=⚡+Recent+Activity;&font=Poppins">
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#43](https://github.com/OpenBangla/new-website/pull/43) in [OpenBangla/new-website](https://github.com/OpenBangla/new-website)
-2. 🎉 Merged PR [#44](https://github.com/OpenBangla/new-website/pull/44) in [OpenBangla/new-website](https://github.com/OpenBangla/new-website)
-3. 💪 Opened PR [#44](https://github.com/OpenBangla/new-website/pull/44) in [OpenBangla/new-website](https://github.com/OpenBangla/new-website)
-4. 💪 Opened PR [#43](https://github.com/OpenBangla/new-website/pull/43) in [OpenBangla/new-website](https://github.com/OpenBangla/new-website)
-5. 🗣 Commented on [#776](https://github.com/cordx56/rustowl/pull/776#issuecomment-6891770070) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
+1. 💪 Opened PR [#4](https://github.com/OpenBangla/poriborton/pull/4) in [OpenBangla/poriborton](https://github.com/OpenBangla/poriborton)
+2. ❗ Opened issue [#11](https://github.com/OpenBangla/manual/issues/11) in [OpenBangla/manual](https://github.com/OpenBangla/manual)
+3. 🎉 Merged PR [#43](https://github.com/OpenBangla/new-website/pull/43) in [OpenBangla/new-website](https://github.com/OpenBangla/new-website)
+4. 🎉 Merged PR [#44](https://github.com/OpenBangla/new-website/pull/44) in [OpenBangla/new-website](https://github.com/OpenBangla/new-website)
+5. 💪 Opened PR [#44](https://github.com/OpenBangla/new-website/pull/44) in [OpenBangla/new-website](https://github.com/OpenBangla/new-website)
 <!--END_SECTION:activity-->
 
 <img src="https://raw.githubusercontent.com/MuntasirSZN/MuntasirSZN/refs/heads/output/github-contribution-grid-snake.svg">
