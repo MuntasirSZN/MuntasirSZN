@@ -26,11 +26,11 @@
 <img src="https://readme-typing-svg.herokuapp.com/?lines=⚡+Recent+Activity;&font=Poppins">
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled PR [#142](https://github.com/MuntasirSZN/dotfiles/pull/142) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
+1. 🎉 Merged PR [#4](https://github.com/OpenBangla/poriborton/pull/4) in [OpenBangla/poriborton](https://github.com/OpenBangla/poriborton)
 2. ℹ️ Labeled PR [#142](https://github.com/MuntasirSZN/dotfiles/pull/142) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
-3. 💪 Opened PR [#142](https://github.com/MuntasirSZN/dotfiles/pull/142) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
-4. 💪 Opened PR [#4](https://github.com/OpenBangla/poriborton/pull/4) in [OpenBangla/poriborton](https://github.com/OpenBangla/poriborton)
-5. ❗ Opened issue [#11](https://github.com/OpenBangla/manual/issues/11) in [OpenBangla/manual](https://github.com/OpenBangla/manual)
+3. ℹ️ Labeled PR [#142](https://github.com/MuntasirSZN/dotfiles/pull/142) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
+4. 💪 Opened PR [#142](https://github.com/MuntasirSZN/dotfiles/pull/142) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
+5. 💪 Opened PR [#4](https://github.com/OpenBangla/poriborton/pull/4) in [OpenBangla/poriborton](https://github.com/OpenBangla/poriborton)
 <!--END_SECTION:activity-->
 
 <img src="https://raw.githubusercontent.com/MuntasirSZN/MuntasirSZN/refs/heads/output/github-contribution-grid-snake.svg">
