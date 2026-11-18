@@ -26,10 +26,10 @@
 <img src="https://readme-typing-svg.herokuapp.com/?lines=⚡+Recent+Activity;&font=Poppins">
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5](https://github.com/OpenBangla/next-gen-ime/pull/5#issuecomment-6949688357) in [OpenBangla/next-gen-ime](https://github.com/OpenBangla/next-gen-ime)
-2. 🗣 Commented on [#5](https://github.com/OpenBangla/next-gen-ime/pull/5#issuecomment-6949539130) in [OpenBangla/next-gen-ime](https://github.com/OpenBangla/next-gen-ime)
-3. 🎉 Merged PR [#4](https://github.com/OpenBangla/poriborton/pull/4) in [OpenBangla/poriborton](https://github.com/OpenBangla/poriborton)
-4. ℹ️ Labeled PR [#142](https://github.com/MuntasirSZN/dotfiles/pull/142) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
+1. 🗣 Commented on [#586732](https://github.com/NixOS/nixpkgs/pull/586732#issuecomment-6971953364) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+2. 🗣 Commented on [#5](https://github.com/OpenBangla/next-gen-ime/pull/5#issuecomment-6949688357) in [OpenBangla/next-gen-ime](https://github.com/OpenBangla/next-gen-ime)
+3. 🗣 Commented on [#5](https://github.com/OpenBangla/next-gen-ime/pull/5#issuecomment-6949539130) in [OpenBangla/next-gen-ime](https://github.com/OpenBangla/next-gen-ime)
+4. 🎉 Merged PR [#4](https://github.com/OpenBangla/poriborton/pull/4) in [OpenBangla/poriborton](https://github.com/OpenBangla/poriborton)
 5. ℹ️ Labeled PR [#142](https://github.com/MuntasirSZN/dotfiles/pull/142) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
 <!--END_SECTION:activity-->
 
