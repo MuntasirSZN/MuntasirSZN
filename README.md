@@ -26,11 +26,11 @@
 <img src="https://readme-typing-svg.herokuapp.com/?lines=⚡+Recent+Activity;&font=Poppins">
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#15](https://github.com/MuntasirSZN/fasteetf/pull/15#issuecomment-7046501555) in [MuntasirSZN/fasteetf](https://github.com/MuntasirSZN/fasteetf)
-2. 🎉 Merged PR [#1](https://github.com/MuntasirSZN/kdeconnect-browser-reborn/pull/1) in [MuntasirSZN/kdeconnect-browser-reborn](https://github.com/MuntasirSZN/kdeconnect-browser-reborn)
-3. 💪 Opened PR [#1](https://github.com/MuntasirSZN/kdeconnect-browser-reborn/pull/1) in [MuntasirSZN/kdeconnect-browser-reborn](https://github.com/MuntasirSZN/kdeconnect-browser-reborn)
-4. 💪 Opened PR [#590810](https://github.com/NixOS/nixpkgs/pull/590810) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-5. 🗣 Commented on [#586732](https://github.com/NixOS/nixpkgs/pull/586732#issuecomment-7032643565) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+1. 🎉 Merged PR [#146](https://github.com/MuntasirSZN/dotfiles/pull/146) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
+2. ℹ️ Labeled PR [#146](https://github.com/MuntasirSZN/dotfiles/pull/146) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
+3. ℹ️ Labeled PR [#146](https://github.com/MuntasirSZN/dotfiles/pull/146) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
+4. 💪 Opened PR [#146](https://github.com/MuntasirSZN/dotfiles/pull/146) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
+5. 🗣 Commented on [#15](https://github.com/MuntasirSZN/fasteetf/pull/15#issuecomment-7046501555) in [MuntasirSZN/fasteetf](https://github.com/MuntasirSZN/fasteetf)
 <!--END_SECTION:activity-->
 
 <img src="https://raw.githubusercontent.com/MuntasirSZN/MuntasirSZN/refs/heads/output/github-contribution-grid-snake.svg">
