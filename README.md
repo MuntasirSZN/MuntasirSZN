@@ -26,11 +26,11 @@
 <img src="https://readme-typing-svg.herokuapp.com/?lines=⚡+Recent+Activity;&font=Poppins">
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#587565](https://github.com/NixOS/nixpkgs/pull/587565) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-2. 🗣 Commented on [#587565](https://github.com/NixOS/nixpkgs/pull/587565#issuecomment-7096725212) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-3. 🗣 Commented on [#11244](https://github.com/uutils/coreutils/pull/11244#issuecomment-7095230871) in [uutils/coreutils](https://github.com/uutils/coreutils)
-4. 🗣 Commented on [#587565](https://github.com/NixOS/nixpkgs/pull/587565#issuecomment-7095144096) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-5. 🎉 Merged PR [#148](https://github.com/MuntasirSZN/dotfiles/pull/148) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
+1. ❗ Opened issue [#1144](https://github.com/crmne/zapfast/issues/1144) in [crmne/zapfast](https://github.com/crmne/zapfast)
+2. ℹ️ Labeled issue [#1144](https://github.com/crmne/zapfast/issues/1144) in [crmne/zapfast](https://github.com/crmne/zapfast)
+3. 🎉 Merged PR [#587565](https://github.com/NixOS/nixpkgs/pull/587565) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+4. 🗣 Commented on [#587565](https://github.com/NixOS/nixpkgs/pull/587565#issuecomment-7096725212) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+5. 🗣 Commented on [#11244](https://github.com/uutils/coreutils/pull/11244#issuecomment-7095230871) in [uutils/coreutils](https://github.com/uutils/coreutils)
 <!--END_SECTION:activity-->
 
 <img src="https://raw.githubusercontent.com/MuntasirSZN/MuntasirSZN/refs/heads/output/github-contribution-grid-snake.svg">
