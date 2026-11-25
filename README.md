@@ -26,11 +26,11 @@
 <img src="https://readme-typing-svg.herokuapp.com/?lines=⚡+Recent+Activity;&font=Poppins">
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#9005](https://github.com/can1357/oh-my-pi/issues/9005#issuecomment-7152612200) in [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi)
-2. 🎉 Merged PR [#149](https://github.com/MuntasirSZN/dotfiles/pull/149) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
-3. ℹ️ Labeled PR [#149](https://github.com/MuntasirSZN/dotfiles/pull/149) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
-4. ℹ️ Labeled PR [#149](https://github.com/MuntasirSZN/dotfiles/pull/149) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
-5. 💪 Opened PR [#149](https://github.com/MuntasirSZN/dotfiles/pull/149) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
+1. 💪 Opened PR [#327871](https://github.com/Homebrew/homebrew-core/pull/327871) in [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core)
+2. 🗣 Commented on [#1](https://github.com/OpenBangla/dhoni/pull/1#issuecomment-7162726029) in [OpenBangla/dhoni](https://github.com/OpenBangla/dhoni)
+3. 🗣 Commented on [#1](https://github.com/OpenBangla/dhoni/pull/1#issuecomment-7158525619) in [OpenBangla/dhoni](https://github.com/OpenBangla/dhoni)
+4. 🎉 Merged PR [#150](https://github.com/MuntasirSZN/dotfiles/pull/150) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
+5. ℹ️ Labeled PR [#150](https://github.com/MuntasirSZN/dotfiles/pull/150) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
 <!--END_SECTION:activity-->
 
 <img src="https://raw.githubusercontent.com/MuntasirSZN/MuntasirSZN/refs/heads/output/github-contribution-grid-snake.svg">
