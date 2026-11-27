@@ -26,11 +26,11 @@
 <img src="https://readme-typing-svg.herokuapp.com/?lines=⚡+Recent+Activity;&font=Poppins">
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#327871](https://github.com/Homebrew/homebrew-core/pull/327871#issuecomment-7195706666) in [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core)
-2. 🗣 Commented on [#1](https://github.com/OpenBangla/dhoni/pull/1#issuecomment-7195340423) in [OpenBangla/dhoni](https://github.com/OpenBangla/dhoni)
-3. 🗣 Commented on [#35](https://github.com/x86sim/x86sim/issues/35#issuecomment-7185601979) in [x86sim/x86sim](https://github.com/x86sim/x86sim)
-4. 🎉 Merged PR [#151](https://github.com/MuntasirSZN/dotfiles/pull/151) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
-5. ℹ️ Labeled PR [#151](https://github.com/MuntasirSZN/dotfiles/pull/151) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
+1. 🗣 Commented on [#327871](https://github.com/Homebrew/homebrew-core/pull/327871#issuecomment-7198480291) in [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core)
+2. 🗣 Commented on [#327871](https://github.com/Homebrew/homebrew-core/pull/327871#issuecomment-7195706666) in [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core)
+3. 🗣 Commented on [#1](https://github.com/OpenBangla/dhoni/pull/1#issuecomment-7195340423) in [OpenBangla/dhoni](https://github.com/OpenBangla/dhoni)
+4. 🗣 Commented on [#35](https://github.com/x86sim/x86sim/issues/35#issuecomment-7185601979) in [x86sim/x86sim](https://github.com/x86sim/x86sim)
+5. 🎉 Merged PR [#151](https://github.com/MuntasirSZN/dotfiles/pull/151) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
 <!--END_SECTION:activity-->
 
 <img src="https://raw.githubusercontent.com/MuntasirSZN/MuntasirSZN/refs/heads/output/github-contribution-grid-snake.svg">
