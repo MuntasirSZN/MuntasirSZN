@@ -26,11 +26,11 @@
 <img src="https://readme-typing-svg.herokuapp.com/?lines=⚡+Recent+Activity;&font=Poppins">
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#594228](https://github.com/NixOS/nixpkgs/pull/594228) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-2. 🗣 Commented on [#1](https://github.com/OpenBangla/dhoni/pull/1#issuecomment-7221685343) in [OpenBangla/dhoni](https://github.com/OpenBangla/dhoni)
-3. 🎉 Merged PR [#152](https://github.com/MuntasirSZN/dotfiles/pull/152) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
-4. ℹ️ Labeled PR [#152](https://github.com/MuntasirSZN/dotfiles/pull/152) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
-5. ℹ️ Labeled PR [#152](https://github.com/MuntasirSZN/dotfiles/pull/152) in [MuntasirSZN/dotfiles](https://github.com/MuntasirSZN/dotfiles)
+1. 🗣 Commented on [#1](https://github.com/OpenBangla/dhoni/pull/1#issuecomment-7236997886) in [OpenBangla/dhoni](https://github.com/OpenBangla/dhoni)
+2. ℹ️ Labeled PR [#784](https://github.com/cordx56/rustowl/pull/784) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
+3. ℹ️ Unlabeled PR [#784](https://github.com/cordx56/rustowl/pull/784) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
+4. ℹ️ Labeled PR [#784](https://github.com/cordx56/rustowl/pull/784) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
+5. ℹ️ Unlabeled PR [#784](https://github.com/cordx56/rustowl/pull/784) in [cordx56/rustowl](https://github.com/cordx56/rustowl)
 <!--END_SECTION:activity-->
 
 <img src="https://raw.githubusercontent.com/MuntasirSZN/MuntasirSZN/refs/heads/output/github-contribution-grid-snake.svg">
